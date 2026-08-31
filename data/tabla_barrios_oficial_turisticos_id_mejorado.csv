@@ -1,0 +1,283 @@
+﻿id_barrio_oficial,ciudad,distrito_oficial,barrio_oficial,barrio_turistico_objetivo
+108001,Madrid,Carabanchel,Abrantes,0
+102002,Madrid,Arganzuela,Acacias,1
+139003,Madrid,Retiro,Adelfas,0
+103004,Madrid,Barajas,Aeropuerto,0
+306005,Valencia,Camins al Grau,Aiora,1
+103006,Madrid,Barajas,Alameda de Osuna,0
+306007,Valencia,Camins al Grau,Albors,0
+111008,Madrid,Chamberí,Almagro,1
+146009,Madrid,Tetuán,Almenara,0
+147010,Madrid,Usera,Almendrales,0
+123011,Madrid,Latina,Aluche,0
+141012,Madrid,San Blas-Canillejas,Amposta,0
+224013,Barcelona,L'Eixample,Antiga Esquerra de l'Eixample,1
+120014,Madrid,Hortaleza,Apóstol Santiago,0
+111015,Madrid,Chamberí,Arapiles,1
+128016,Madrid,Moncloa-Aravaca,Aravaca,1
+141017,Madrid,San Blas-Canillejas,Arcos,1
+128018,Madrid,Moncloa-Aravaca,Argüelles,1
+316019,Valencia,Extramurs,Arrancapins,1
+112020,Madrid,Ciudad Lineal,Atalaya,1
+242021,Barcelona,Sant Andreu,Baró de Viver,0
+146022,Madrid,Tetuán,Bellas Vistas,1
+304023,Valencia,Benicalap,Benicalap,1
+333024,Valencia,Poblats del Nord,Benifaraig,0
+332025,Valencia,Poblats de l'Oest,Beniferri,1
+305026,Valencia,Benimaclet,Benimaclet,1
+332027,Valencia,Poblats de l'Oest,Benimàmet,1
+146028,Madrid,Tetuán,Berruguete,1
+335029,Valencia,Poblats Marítims,Beteró,1
+333030,Valencia,Poblats del Nord,Borbotó,0
+108031,Madrid,Carabanchel,Buenavista,0
+150032,Madrid,Villaverde,Butarque,1
+123033,Madrid,Latina,Campamento,1
+307034,Valencia,Campanar,Campanar,1
+306035,Valencia,Camins al Grau,Camí Fondo,1
+321036,Valencia,Jesús,Camí Reial,1
+305037,Valencia,Benimaclet,Camí de Vera,1
+218038,Barcelona,Gràcia,Can Baró,0
+230039,Barcelona,Nou Barris,Can Peguera,0
+120040,Madrid,Hortaleza,Canillas,1
+141041,Madrid,San Blas-Canillejas,Canillejas,1
+230042,Barcelona,Nou Barris,Canyelles,0
+333043,Valencia,Poblats del Nord,Carpesa,0
+128044,Madrid,Moncloa-Aravaca,Casa de Campo,1
+103045,Madrid,Barajas,Casco Histórico de Barajas,1
+136046,Madrid,Puente de Vallecas,Casco Histórico de Vallecas,0
+148047,Madrid,Vicálvaro,Casco Histórico de Vicálvaro,0
+333048,Valencia,Poblats del Nord,Cases de Bàrcena,0
+140049,Madrid,Salamanca,Castellana,1
+110050,Madrid,Chamartín,Castilla,1
+146051,Madrid,Tetuán,Castillejos,1
+102052,Madrid,Arganzuela,Chopera,1
+110053,Madrid,Chamartín,Ciudad Jardín,1
+128054,Madrid,Moncloa-Aravaca,Ciudad Universitaria,1
+304055,Valencia,Benicalap,Ciutat Fallera,1
+301056,Valencia,Algirós,Ciutat Jardí,1
+230057,Barcelona,Nou Barris,Ciutat Meridiana,0
+306058,Valencia,Camins al Grau,Ciutat Universitària,1
+337059,Valencia,Quatre Carreres,Ciutat de les Arts i les Ciències,1
+112060,Madrid,Ciudad Lineal,Colina,1
+108061,Madrid,Carabanchel,Comillas,1
+112062,Madrid,Ciudad Lineal,Concepción,1
+103063,Madrid,Barajas,Corralejos,1
+109064,Madrid,Centro,Cortes,1
+112065,Madrid,Ciudad Lineal,Costillares,1
+146066,Madrid,Tetuán,Cuatro Caminos,1
+123067,Madrid,Latina,Cuatro Vientos,1
+102068,Madrid,Arganzuela,Delicias,1
+224069,Barcelona,L'Eixample,Dreta de l'Eixample,1
+219070,Barcelona,Horta-Guinardó,El Baix Guinardó,0
+243071,Barcelona,Sant Martí,El Besòs i el Maresme,0
+242072,Barcelona,Sant Andreu,El Bon Pastor,0
+316073,Valencia,Extramurs,El Botànic,1
+335074,Valencia,Poblats Marítims,El Cabanyal - El Canyamelar,1
+307075,Valencia,Campanar,El Calvari,1
+218076,Barcelona,Gràcia,El Camp d'en Grassot i Gràcia Nova,0
+243077,Barcelona,Sant Martí,El Camp de l'Arpa del Clot,0
+314078,Valencia,Ciutat Vella (Valencia),El Carme,1
+219079,Barcelona,Horta-Guinardó,El Carmel,0
+334080,Valencia,Poblats del Sud,El Castellar - L'Oliveral,1
+148081,Madrid,Vicálvaro,El Cañaveral,0
+243082,Barcelona,Sant Martí,El Clot,0
+218083,Barcelona,Gràcia,El Coll,0
+242084,Barcelona,Sant Andreu,El Congrés i els Indians,0
+334085,Valencia,Poblats del Sud,El Forn d'Alcedo,1
+224086,Barcelona,L'Eixample,El Fort Pienc,1
+335087,Valencia,Poblats Marítims,El Grau,1
+219088,Barcelona,Horta-Guinardó,El Guinardó,0
+213089,Barcelona,Ciutat Vella,El Gòtic,1
+314090,Valencia,Ciutat Vella (Valencia),El Mercat,1
+334091,Valencia,Poblats del Sud,El Palmar,0
+243092,Barcelona,Sant Martí,El Parc i la Llacuna del Poblenou,1
+117093,Madrid,Fuencarral-El Pardo,El Pardo,0
+334094,Valencia,Poblats del Sud,El Perellonet,0
+314095,Valencia,Ciutat Vella (Valencia),El Pilar,1
+325096,Valencia,L'Eixample (Valencia),El Pla del Remei,1
+128097,Madrid,Moncloa-Aravaca,El Plantío,0
+244098,Barcelona,Sants-Montjuïc,El Poble-sec,1
+243099,Barcelona,Sant Martí,El Poblenou,1
+245100,Barcelona,Sarrià-Sant Gervasi,El Putxet i el Farró,0
+213101,Barcelona,Ciutat Vella,El Raval,1
+334102,Valencia,Poblats del Sud,El Saler,0
+230103,Barcelona,Nou Barris,El Turó de la Peira,0
+110104,Madrid,Chamartín,El Viso,1
+338105,Valencia,Rascanya,Els Orriols,0
+109106,Madrid,Centro,Embajadores,1
+337107,Valencia,Quatre Carreres,En Corts,0
+149108,Madrid,Villa de Vallecas,Ensanche de Vallecas,0
+136109,Madrid,Puente de Vallecas,Entrevías,0
+139110,Madrid,Retiro,Estrella,1
+325111,Valencia,L'Eixample (Valencia),Exposició,1
+334112,Valencia,Poblats del Sud,Faitanar,0
+129113,Madrid,Moratalaz,Fontarrón,0
+337114,Valencia,Quatre Carreres,Fonteta de Sant Lluís,0
+140115,Madrid,Salamanca,Fuente del Berro,1
+117116,Madrid,Fuencarral-El Pardo,Fuentelarreina,0
+111117,Madrid,Chamberí,Gaztambide,0
+140118,Madrid,Salamanca,Goya,1
+325119,Valencia,L'Eixample (Valencia),Gran Via,1
+140120,Madrid,Salamanca,Guindalera,1
+141121,Madrid,San Blas-Canillejas,Hellín,0
+110122,Madrid,Chamartín,Hispanoamérica,0
+129123,Madrid,Moratalaz,Horcajo,0
+219124,Barcelona,Horta-Guinardó,Horta,0
+244125,Barcelona,Sants-Montjuïc,Hostafrancs,1
+139126,Madrid,Retiro,Ibiza,1
+102127,Madrid,Arganzuela,Imperial,0
+325128,Valencia,L'Eixample (Valencia),Jaume Roig,1
+139129,Madrid,Retiro,Jerónimos,1
+109130,Madrid,Centro,Justicia,1
+301131,Valencia,Algirós,L'Amistat,0
+321132,Valencia,Jesús,L'Hort de Senabre,0
+301133,Valencia,Algirós,L'Illa Perduda,0
+213134,Barcelona,Ciutat Vella,La Barceloneta,1
+337135,Valencia,Quatre Carreres,La Bega Baixa,0
+244136,Barcelona,Sants-Montjuïc,La Bordeta,0
+301137,Valencia,Algirós,La Carrasca,0
+219138,Barcelona,Horta-Guinardó,La Clota,0
+321139,Valencia,Jesús,La Creu Coberta,0
+306140,Valencia,Camins al Grau,La Creu del Grau,0
+219141,Barcelona,Horta-Guinardó,La Font d'en Fargues,0
+244142,Barcelona,Sants-Montjuïc,La Font de la Guatlla,1
+327143,Valencia,L'Olivereta,La Fontsanta,0
+230144,Barcelona,Nou Barris,La Guineueta,0
+327145,Valencia,L'Olivereta,La Llum,0
+335146,Valencia,Poblats Marítims,La Malva-rosa,1
+244147,Barcelona,Sants-Montjuïc,La Marina del Prat Vermell,0
+226148,Barcelona,Les Corts,La Maternitat i Sant Ramon,0
+117149,Madrid,Fuencarral-El Pardo,La Paz,0
+316150,Valencia,Extramurs,La Petxina,0
+230151,Barcelona,Nou Barris,La Prosperitat,0
+337152,Valencia,Quatre Carreres,La Punta,0
+321153,Valencia,Jesús,La Raiosa,0
+314154,Valencia,Ciutat Vella (Valencia),La Roqueta,1
+242155,Barcelona,Sant Andreu,La Sagrera,0
+218156,Barcelona,Gràcia,La Salut,0
+314157,Valencia,Ciutat Vella (Valencia),La Seu,1
+219158,Barcelona,Horta-Guinardó,La Teixonera,0
+334159,Valencia,Poblats del Sud,La Torre,0
+230160,Barcelona,Nou Barris,La Trinitat Nova,0
+242161,Barcelona,Sant Andreu,La Trinitat Vella,0
+219162,Barcelona,Horta-Guinardó,La Vall d'Hebron,0
+243163,Barcelona,Sant Martí,La Verneda i la Pau,0
+243164,Barcelona,Sant Martí,La Vila Olímpica del Poblenou,1
+314165,Valencia,Ciutat Vella (Valencia),La Xerea,1
+244166,Barcelona,Sants-Montjuïc,La Zona Franca - Port,0
+123167,Madrid,Latina,Las Águilas,0
+102168,Madrid,Arganzuela,Legazpi,0
+226169,Barcelona,Les Corts,Les Corts,0
+230170,Barcelona,Nou Barris,Les Roquetes,0
+322171,Valencia,La Saïdia,Les Tendetes,0
+245172,Barcelona,Sarrià-Sant Gervasi,Les Tres Torres,0
+140173,Madrid,Salamanca,Lista,1
+123174,Madrid,Latina,Los Cármenes,0
+150175,Madrid,Villaverde,Los Rosales,0
+150176,Madrid,Villaverde,Los Ángeles,0
+123177,Madrid,Latina,Lucero,0
+337178,Valencia,Quatre Carreres,Malilla,0
+129179,Madrid,Moratalaz,Marroquina,0
+322180,Valencia,La Saïdia,Marxalenes,0
+333181,Valencia,Poblats del Nord,Massarrojos,0
+129182,Madrid,Moratalaz,Media Legua,0
+315183,Valencia,El Pla del Real,Mestalla,1
+117184,Madrid,Fuencarral-El Pardo,Mirasierra,0
+337185,Valencia,Quatre Carreres,Mont-Olivet,0
+219186,Barcelona,Horta-Guinardó,Montbau,0
+322187,Valencia,La Saïdia,Morvedre,1
+147188,Madrid,Usera,Moscardó,0
+337189,Valencia,Quatre Carreres,Na Rovella,0
+335190,Valencia,Poblats Marítims,Natzaret,0
+242191,Barcelona,Sant Andreu,Navas,0
+139192,Madrid,Retiro,Niño Jesús,1
+327193,Valencia,L'Olivereta,Nou Moles,0
+224194,Barcelona,L'Eixample,Nova Esquerra de l'Eixample,1
+110195,Madrid,Chamartín,Nueva España,0
+129196,Madrid,Moratalaz,Numancia,0
+108197,Madrid,Carabanchel,Opañel,0
+147198,Madrid,Usera,Orcasitas,0
+147199,Madrid,Usera,Orcasur,0
+139200,Madrid,Retiro,Pacífico,1
+109201,Madrid,Centro,Palacio,1
+120202,Madrid,Hortaleza,Palomas,0
+136203,Madrid,Puente de Vallecas,Palomeras Bajas,0
+129204,Madrid,Moratalaz,Palomeras Sureste,0
+102205,Madrid,Arganzuela,Palos de la Frontera,1
+331206,Valencia,Patraix,Patraix,0
+129207,Madrid,Moratalaz,Pavones,0
+226208,Barcelona,Les Corts,Pedralbes,0
+306209,Valencia,Camins al Grau,Penya-Roja,0
+117210,Madrid,Fuencarral-El Pardo,Peñagrande,0
+117211,Madrid,Fuencarral-El Pardo,Pilar,0
+120212,Madrid,Hortaleza,Pinar del Rey,0
+334213,Valencia,Poblats del Sud,Pinedo,0
+120214,Madrid,Hortaleza,Piovera,0
+333215,Valencia,Poblats del Nord,Poble Nou,0
+230216,Barcelona,Nou Barris,Porta,0
+136217,Madrid,Puente de Vallecas,Portazgo,0
+147218,Madrid,Usera,Pradolongo,0
+110219,Madrid,Chamartín,Prosperidad,0
+243220,Barcelona,Sant Martí,Provençals del Poblenou,0
+112221,Madrid,Ciudad Lineal,Pueblo Nuevo,0
+108222,Madrid,Carabanchel,Puerta Bonita,0
+123223,Madrid,Latina,Puerta del Ángel,0
+112224,Madrid,Ciudad Lineal,Quintana,0
+140225,Madrid,Salamanca,Recoletos,1
+141226,Madrid,San Blas-Canillejas,Rejas,0
+141227,Madrid,San Blas-Canillejas,Rosas,0
+325228,Valencia,L'Eixample (Valencia),Russafa,1
+111229,Madrid,Chamberí,Ríos Rosas,1
+331230,Valencia,Patraix,Safranar,0
+224231,Barcelona,L'Eixample,Sagrada Família,1
+112232,Madrid,Ciudad Lineal,Salvador,0
+150233,Madrid,Villaverde,San Cristóbal,0
+136234,Madrid,Puente de Vallecas,San Diego,0
+147235,Madrid,Usera,San Fermín,0
+108236,Madrid,Carabanchel,San Isidro,0
+112237,Madrid,Ciudad Lineal,San Juan Bautista,0
+112238,Madrid,Ciudad Lineal,San Pascual,0
+242239,Barcelona,Sant Andreu,Sant Andreu de Palomar,0
+224240,Barcelona,L'Eixample,Sant Antoni,1
+314241,Valencia,Ciutat Vella (Valencia),Sant Francesc,1
+219242,Barcelona,Horta-Guinardó,Sant Genís dels Agudells,0
+245243,Barcelona,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,0
+245244,Barcelona,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,0
+331245,Valencia,Patraix,Sant Isidre,0
+338246,Valencia,Rascanya,Sant Llorenç,0
+321247,Valencia,Jesús,Sant Marcel·lí,0
+243248,Barcelona,Sant Martí,Sant Martí de Provençals,0
+327249,Valencia,L'Olivereta,Sant Pau,0
+213250,Barcelona,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",1
+149251,Madrid,Villa de Vallecas,Santa Eugenia,0
+244252,Barcelona,Sants-Montjuïc,Sants,1
+244253,Barcelona,Sants-Montjuïc,Sants-Badal,0
+245254,Barcelona,Sarrià-Sant Gervasi,Sarrià,0
+141255,Madrid,San Blas-Canillejas,Simancas,0
+109256,Madrid,Centro,Sol,1
+327257,Valencia,L'Olivereta,Soternes,0
+129258,Madrid,Moratalaz,Timón,0
+322259,Valencia,La Saïdia,Tormos,0
+230260,Barcelona,Nou Barris,Torre Baró,0
+338261,Valencia,Rascanya,Torrefiel,0
+111262,Madrid,Chamberí,Trafalgar,1
+327263,Valencia,L'Olivereta,Tres Forques,0
+322264,Valencia,La Saïdia,Trinitat,0
+109265,Madrid,Centro,Universidad,1
+146266,Madrid,Tetuán,Valdeacederas,0
+148267,Madrid,Vicálvaro,Valdebernardo,0
+120268,Madrid,Hortaleza,Valdefuentes,0
+128269,Madrid,Moncloa-Aravaca,Valdemarín,0
+128270,Madrid,Moncloa-Aravaca,Valdezarza,0
+218271,Barcelona,Gràcia,Vallcarca i els Penitents,0
+111272,Madrid,Chamberí,Vallehermoso,1
+245273,Barcelona,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",0
+117274,Madrid,Fuencarral-El Pardo,Valverde,0
+331275,Valencia,Patraix,Vara de Quart,0
+112276,Madrid,Ciudad Lineal,Ventas,0
+230277,Barcelona,Nou Barris,Verdun,0
+218278,Barcelona,Gràcia,Vila de Gràcia,1
+230279,Barcelona,Nou Barris,Vilapicina i la Torre Llobeta,0
+129280,Madrid,Moratalaz,Vinateros,0
+108281,Madrid,Carabanchel,Vista Alegre,0
+147282,Madrid,Usera,Zofío,0

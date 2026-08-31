@@ -1,0 +1,260 @@
+﻿id_barrio_oficial,barrio_oficial,ciudad,barrio_turistico_objetivo,pct_con_licencia,n_inmuebles,fuente,grupo
+102002,Acacias,Madrid,1,36.1,241,Inside Airbnb (2025),Turistico
+102052,Chopera,Madrid,1,43.95,157,Inside Airbnb (2025),Turistico
+102068,Delicias,Madrid,1,30.37,191,Inside Airbnb (2025),Turistico
+102127,Imperial,Madrid,0,37.21,172,Inside Airbnb (2025),No turistico
+102168,Legazpi,Madrid,0,35.42,48,Inside Airbnb (2025),No turistico
+102205,Palos de la Frontera,Madrid,1,30.42,457,Inside Airbnb (2025),Turistico
+103004,Aeropuerto,Madrid,0,38.46,13,Inside Airbnb (2025),No turistico
+103006,Alameda de Osuna,Madrid,0,10.0,30,Inside Airbnb (2025),No turistico
+103045,Casco Histórico de Barajas,Madrid,1,39.68,63,Inside Airbnb (2025),Turistico
+103063,Corralejos,Madrid,1,18.18,11,Inside Airbnb (2025),Turistico
+108001,Abrantes,Madrid,0,15.69,51,Inside Airbnb (2025),No turistico
+108031,Buenavista,Madrid,0,7.94,63,Inside Airbnb (2025),No turistico
+108061,Comillas,Madrid,1,18.87,159,Inside Airbnb (2025),Turistico
+108197,Opañel,Madrid,0,20.47,171,Inside Airbnb (2025),No turistico
+108222,Puerta Bonita,Madrid,0,14.56,103,Inside Airbnb (2025),No turistico
+108236,San Isidro,Madrid,0,45.28,212,Inside Airbnb (2025),No turistico
+108281,Vista Alegre,Madrid,0,15.17,145,Inside Airbnb (2025),No turistico
+109064,Cortes,Madrid,1,51.09,1057,Inside Airbnb (2025),Turistico
+109106,Embajadores,Madrid,1,42.04,2624,Inside Airbnb (2025),Turistico
+109130,Justicia,Madrid,1,40.83,1227,Inside Airbnb (2025),Turistico
+109201,Palacio,Madrid,1,43.79,1859,Inside Airbnb (2025),Turistico
+109256,Sol,Madrid,1,46.48,1293,Inside Airbnb (2025),Turistico
+109265,Universidad,Madrid,1,40.6,2170,Inside Airbnb (2025),Turistico
+110050,Castilla,Madrid,1,43.7,119,Inside Airbnb (2025),Turistico
+110053,Ciudad Jardín,Madrid,1,46.4,125,Inside Airbnb (2025),Turistico
+110104,El Viso,Madrid,1,23.42,111,Inside Airbnb (2025),Turistico
+110122,Hispanoamérica,Madrid,0,35.37,147,Inside Airbnb (2025),No turistico
+110195,Nueva España,Madrid,0,56.21,169,Inside Airbnb (2025),No turistico
+110219,Prosperidad,Madrid,0,39.91,233,Inside Airbnb (2025),No turistico
+111008,Almagro,Madrid,1,53.08,260,Inside Airbnb (2025),Turistico
+111015,Arapiles,Madrid,1,26.62,278,Inside Airbnb (2025),Turistico
+111117,Gaztambide,Madrid,0,38.89,270,Inside Airbnb (2025),No turistico
+111229,Ríos Rosas,Madrid,1,34.75,259,Inside Airbnb (2025),Turistico
+111262,Trafalgar,Madrid,1,42.42,488,Inside Airbnb (2025),Turistico
+111272,Vallehermoso,Madrid,1,27.19,114,Inside Airbnb (2025),Turistico
+112060,Colina,Madrid,1,40.0,25,Inside Airbnb (2025),Turistico
+112062,Concepción,Madrid,1,21.7,106,Inside Airbnb (2025),Turistico
+112065,Costillares,Madrid,1,44.19,43,Inside Airbnb (2025),Turistico
+112221,Pueblo Nuevo,Madrid,0,30.09,226,Inside Airbnb (2025),No turistico
+112224,Quintana,Madrid,0,37.27,110,Inside Airbnb (2025),No turistico
+112232,Salvador,Madrid,0,34.48,29,Inside Airbnb (2025),No turistico
+112237,San Juan Bautista,Madrid,0,36.84,38,Inside Airbnb (2025),No turistico
+112238,San Pascual,Madrid,0,35.48,62,Inside Airbnb (2025),No turistico
+112276,Ventas,Madrid,0,29.49,234,Inside Airbnb (2025),No turistico
+117116,Fuentelarreina,Madrid,0,80.0,5,Inside Airbnb (2025),No turistico
+117149,La Paz,Madrid,0,20.83,24,Inside Airbnb (2025),No turistico
+117184,Mirasierra,Madrid,0,3.85,26,Inside Airbnb (2025),No turistico
+117210,Peñagrande,Madrid,0,18.46,65,Inside Airbnb (2025),No turistico
+117211,Pilar,Madrid,0,20.27,74,Inside Airbnb (2025),No turistico
+117274,Valverde,Madrid,0,35.65,115,Inside Airbnb (2025),No turistico
+120014,Apóstol Santiago,Madrid,0,34.15,41,Inside Airbnb (2025),No turistico
+120040,Canillas,Madrid,1,25.69,144,Inside Airbnb (2025),Turistico
+120202,Palomas,Madrid,0,60.0,5,Inside Airbnb (2025),No turistico
+120212,Pinar del Rey,Madrid,0,42.47,146,Inside Airbnb (2025),No turistico
+120214,Piovera,Madrid,0,21.62,37,Inside Airbnb (2025),No turistico
+120268,Valdefuentes,Madrid,0,39.33,150,Inside Airbnb (2025),No turistico
+123011,Aluche,Madrid,0,32.95,88,Inside Airbnb (2025),No turistico
+123033,Campamento,Madrid,1,18.92,37,Inside Airbnb (2025),Turistico
+123067,Cuatro Vientos,Madrid,1,0.0,7,Inside Airbnb (2025),Turistico
+123167,Las Águilas,Madrid,0,14.04,57,Inside Airbnb (2025),No turistico
+123174,Los Cármenes,Madrid,0,21.92,73,Inside Airbnb (2025),No turistico
+123177,Lucero,Madrid,0,15.46,97,Inside Airbnb (2025),No turistico
+123223,Puerta del Ángel,Madrid,0,25.51,294,Inside Airbnb (2025),No turistico
+128016,Aravaca,Madrid,1,9.09,66,Inside Airbnb (2025),Turistico
+128018,Argüelles,Madrid,1,27.68,383,Inside Airbnb (2025),Turistico
+128044,Casa de Campo,Madrid,1,20.56,107,Inside Airbnb (2025),Turistico
+128054,Ciudad Universitaria,Madrid,1,28.05,82,Inside Airbnb (2025),Turistico
+128097,El Plantío,Madrid,0,5.88,17,Inside Airbnb (2025),No turistico
+128269,Valdemarín,Madrid,0,30.0,10,Inside Airbnb (2025),No turistico
+128270,Valdezarza,Madrid,0,27.14,70,Inside Airbnb (2025),No turistico
+129113,Fontarrón,Madrid,0,17.11,76,Inside Airbnb (2025),No turistico
+129179,Marroquina,Madrid,0,24.14,29,Inside Airbnb (2025),No turistico
+129182,Media Legua,Madrid,0,12.0,25,Inside Airbnb (2025),No turistico
+129196,Numancia,Madrid,0,23.98,221,Inside Airbnb (2025),No turistico
+129204,Palomeras Sureste,Madrid,0,13.21,53,Inside Airbnb (2025),No turistico
+129207,Pavones,Madrid,0,28.57,7,Inside Airbnb (2025),No turistico
+129258,Timón,Madrid,0,23.91,46,Inside Airbnb (2025),No turistico
+129280,Vinateros,Madrid,0,23.53,34,Inside Airbnb (2025),No turistico
+136046,Casco Histórico de Vallecas,Madrid,0,23.08,104,Inside Airbnb (2025),No turistico
+136109,Entrevías,Madrid,0,28.57,63,Inside Airbnb (2025),No turistico
+136203,Palomeras Bajas,Madrid,0,27.12,59,Inside Airbnb (2025),No turistico
+136217,Portazgo,Madrid,0,19.05,63,Inside Airbnb (2025),No turistico
+136234,San Diego,Madrid,0,23.66,279,Inside Airbnb (2025),No turistico
+139003,Adelfas,Madrid,0,52.24,134,Inside Airbnb (2025),No turistico
+139110,Estrella,Madrid,1,23.81,42,Inside Airbnb (2025),Turistico
+139126,Ibiza,Madrid,1,33.45,284,Inside Airbnb (2025),Turistico
+139129,Jerónimos,Madrid,1,41.0,100,Inside Airbnb (2025),Turistico
+139192,Niño Jesús,Madrid,1,43.48,69,Inside Airbnb (2025),Turistico
+139200,Pacífico,Madrid,1,28.9,301,Inside Airbnb (2025),Turistico
+140049,Castellana,Madrid,1,40.69,204,Inside Airbnb (2025),Turistico
+140115,Fuente del Berro,Madrid,1,37.31,134,Inside Airbnb (2025),Turistico
+140118,Goya,Madrid,1,38.61,404,Inside Airbnb (2025),Turistico
+140120,Guindalera,Madrid,1,35.75,386,Inside Airbnb (2025),Turistico
+140173,Lista,Madrid,1,34.5,229,Inside Airbnb (2025),Turistico
+140225,Recoletos,Madrid,1,40.62,320,Inside Airbnb (2025),Turistico
+141012,Amposta,Madrid,0,25.0,16,Inside Airbnb (2025),No turistico
+141017,Arcos,Madrid,1,21.15,52,Inside Airbnb (2025),Turistico
+141041,Canillejas,Madrid,1,24.59,122,Inside Airbnb (2025),Turistico
+141121,Hellín,Madrid,0,8.33,24,Inside Airbnb (2025),No turistico
+141226,Rejas,Madrid,0,44.1,161,Inside Airbnb (2025),No turistico
+141227,Rosas,Madrid,0,11.32,53,Inside Airbnb (2025),No turistico
+141255,Simancas,Madrid,0,15.38,143,Inside Airbnb (2025),No turistico
+146009,Almenara,Madrid,0,44.44,198,Inside Airbnb (2025),No turistico
+146022,Bellas Vistas,Madrid,1,32.89,225,Inside Airbnb (2025),Turistico
+146028,Berruguete,Madrid,1,33.19,232,Inside Airbnb (2025),Turistico
+146051,Castillejos,Madrid,1,31.03,290,Inside Airbnb (2025),Turistico
+146066,Cuatro Caminos,Madrid,1,35.98,478,Inside Airbnb (2025),Turistico
+146266,Valdeacederas,Madrid,0,34.77,256,Inside Airbnb (2025),No turistico
+147010,Almendrales,Madrid,0,27.27,121,Inside Airbnb (2025),No turistico
+147188,Moscardó,Madrid,0,22.22,153,Inside Airbnb (2025),No turistico
+147198,Orcasitas,Madrid,0,21.21,33,Inside Airbnb (2025),No turistico
+147199,Orcasur,Madrid,0,46.38,69,Inside Airbnb (2025),No turistico
+147218,Pradolongo,Madrid,0,25.86,58,Inside Airbnb (2025),No turistico
+147235,San Fermín,Madrid,0,25.0,52,Inside Airbnb (2025),No turistico
+147282,Zofío,Madrid,0,13.46,52,Inside Airbnb (2025),No turistico
+148047,Casco Histórico de Vicálvaro,Madrid,0,35.21,71,Inside Airbnb (2025),No turistico
+149251,Santa Eugenia,Madrid,0,33.33,9,Inside Airbnb (2025),No turistico
+150032,Butarque,Madrid,1,10.71,28,Inside Airbnb (2025),Turistico
+150175,Los Rosales,Madrid,0,5.36,56,Inside Airbnb (2025),No turistico
+150176,Los Ángeles,Madrid,0,34.0,50,Inside Airbnb (2025),No turistico
+150233,San Cristóbal,Madrid,0,14.29,21,Inside Airbnb (2025),No turistico
+213089,El Gòtic,Barcelona,1,57.67,1167,Inside Airbnb (2025),Turistico
+213101,El Raval,Barcelona,1,48.27,1330,Inside Airbnb (2025),Turistico
+213134,La Barceloneta,Barcelona,1,41.08,482,Inside Airbnb (2025),Turistico
+213250,"Sant Pere, Santa Caterina i la Ribera",Barcelona,1,53.37,1141,Inside Airbnb (2025),Turistico
+218038,Can Baró,Barcelona,0,47.5,40,Inside Airbnb (2025),No turistico
+218076,El Camp d'en Grassot i Gràcia Nova,Barcelona,0,57.09,296,Inside Airbnb (2025),No turistico
+218083,El Coll,Barcelona,0,43.75,32,Inside Airbnb (2025),No turistico
+218156,La Salut,Barcelona,0,42.68,82,Inside Airbnb (2025),No turistico
+218271,Vallcarca i els Penitents,Barcelona,0,41.46,82,Inside Airbnb (2025),No turistico
+218278,Vila de Gràcia,Barcelona,1,64.87,1056,Inside Airbnb (2025),Turistico
+219070,El Baix Guinardó,Barcelona,0,51.47,136,Inside Airbnb (2025),No turistico
+219079,El Carmel,Barcelona,0,46.05,76,Inside Airbnb (2025),No turistico
+219088,El Guinardó,Barcelona,0,45.76,118,Inside Airbnb (2025),No turistico
+219124,Horta,Barcelona,0,40.0,15,Inside Airbnb (2025),No turistico
+219138,La Clota,Barcelona,0,0.0,5,Inside Airbnb (2025),No turistico
+219141,La Font d'en Fargues,Barcelona,0,62.96,27,Inside Airbnb (2025),No turistico
+219158,La Teixonera,Barcelona,0,23.53,17,Inside Airbnb (2025),No turistico
+219162,La Vall d'Hebron,Barcelona,0,12.5,8,Inside Airbnb (2025),No turistico
+219186,Montbau,Barcelona,0,25.0,8,Inside Airbnb (2025),No turistico
+219242,Sant Genís dels Agudells,Barcelona,0,30.0,10,Inside Airbnb (2025),No turistico
+224013,Antiga Esquerra de l'Eixample,Barcelona,1,69.58,1006,Inside Airbnb (2025),Turistico
+224069,Dreta de l'Eixample,Barcelona,1,74.96,2404,Inside Airbnb (2025),Turistico
+224086,El Fort Pienc,Barcelona,1,64.21,489,Inside Airbnb (2025),Turistico
+224194,Nova Esquerra de l'Eixample,Barcelona,1,60.97,766,Inside Airbnb (2025),Turistico
+224231,Sagrada Família,Barcelona,1,69.25,1047,Inside Airbnb (2025),Turistico
+224240,Sant Antoni,Barcelona,1,68.85,947,Inside Airbnb (2025),Turistico
+226148,La Maternitat i Sant Ramon,Barcelona,0,61.46,96,Inside Airbnb (2025),No turistico
+226169,Les Corts,Barcelona,0,69.45,275,Inside Airbnb (2025),No turistico
+226208,Pedralbes,Barcelona,0,58.82,34,Inside Airbnb (2025),No turistico
+230103,El Turó de la Peira,Barcelona,0,0.0,21,Inside Airbnb (2025),No turistico
+230144,La Guineueta,Barcelona,0,30.0,10,Inside Airbnb (2025),No turistico
+230151,La Prosperitat,Barcelona,0,4.55,22,Inside Airbnb (2025),No turistico
+230160,La Trinitat Nova,Barcelona,0,0.0,5,Inside Airbnb (2025),No turistico
+230170,Les Roquetes,Barcelona,0,8.33,12,Inside Airbnb (2025),No turistico
+230216,Porta,Barcelona,0,27.59,29,Inside Airbnb (2025),No turistico
+230277,Verdun,Barcelona,0,11.11,9,Inside Airbnb (2025),No turistico
+230279,Vilapicina i la Torre Llobeta,Barcelona,0,75.68,74,Inside Airbnb (2025),No turistico
+242072,El Bon Pastor,Barcelona,0,30.0,10,Inside Airbnb (2025),No turistico
+242084,El Congrés i els Indians,Barcelona,0,28.07,57,Inside Airbnb (2025),No turistico
+242155,La Sagrera,Barcelona,0,34.0,50,Inside Airbnb (2025),No turistico
+242191,Navas,Barcelona,0,48.53,68,Inside Airbnb (2025),No turistico
+242239,Sant Andreu de Palomar,Barcelona,0,24.44,90,Inside Airbnb (2025),No turistico
+243071,El Besòs i el Maresme,Barcelona,0,36.44,118,Inside Airbnb (2025),No turistico
+243077,El Camp de l'Arpa del Clot,Barcelona,0,64.6,291,Inside Airbnb (2025),No turistico
+243082,El Clot,Barcelona,0,36.08,97,Inside Airbnb (2025),No turistico
+243092,El Parc i la Llacuna del Poblenou,Barcelona,1,63.64,176,Inside Airbnb (2025),Turistico
+243099,El Poblenou,Barcelona,1,64.2,486,Inside Airbnb (2025),Turistico
+243163,La Verneda i la Pau,Barcelona,0,25.71,35,Inside Airbnb (2025),No turistico
+243164,La Vila Olímpica del Poblenou,Barcelona,1,64.38,146,Inside Airbnb (2025),Turistico
+243220,Provençals del Poblenou,Barcelona,0,41.76,91,Inside Airbnb (2025),No turistico
+243248,Sant Martí de Provençals,Barcelona,0,38.0,50,Inside Airbnb (2025),No turistico
+244098,El Poble-sec,Barcelona,1,65.86,823,Inside Airbnb (2025),Turistico
+244125,Hostafrancs,Barcelona,1,60.42,192,Inside Airbnb (2025),Turistico
+244136,La Bordeta,Barcelona,0,51.39,72,Inside Airbnb (2025),No turistico
+244142,La Font de la Guatlla,Barcelona,1,47.96,98,Inside Airbnb (2025),Turistico
+244147,La Marina del Prat Vermell,Barcelona,0,22.22,9,Inside Airbnb (2025),No turistico
+244252,Sants,Barcelona,1,57.01,321,Inside Airbnb (2025),Turistico
+244253,Sants-Badal,Barcelona,0,37.19,199,Inside Airbnb (2025),No turistico
+245100,El Putxet i el Farró,Barcelona,0,58.63,278,Inside Airbnb (2025),No turistico
+245172,Les Tres Torres,Barcelona,0,75.93,54,Inside Airbnb (2025),No turistico
+245243,Sant Gervasi - Galvany,Barcelona,0,64.52,589,Inside Airbnb (2025),No turistico
+245244,Sant Gervasi - la Bonanova,Barcelona,0,56.82,88,Inside Airbnb (2025),No turistico
+245254,Sarrià,Barcelona,0,59.76,82,Inside Airbnb (2025),No turistico
+245273,"Vallvidrera, el Tibidabo i les Planes",Barcelona,0,11.54,26,Inside Airbnb (2025),No turistico
+301056,Ciutat Jardí,Valencia,1,42.0,100,Inside Airbnb (2025),Turistico
+301131,L'Amistat,Valencia,0,50.67,75,Inside Airbnb (2025),No turistico
+301133,L'Illa Perduda,Valencia,0,37.5,64,Inside Airbnb (2025),No turistico
+301137,La Carrasca,Valencia,0,41.27,63,Inside Airbnb (2025),No turistico
+304023,Benicalap,Valencia,1,48.44,128,Inside Airbnb (2025),Turistico
+304055,Ciutat Fallera,Valencia,1,38.89,18,Inside Airbnb (2025),Turistico
+305026,Benimaclet,Valencia,1,36.49,74,Inside Airbnb (2025),Turistico
+305037,Camí de Vera,Valencia,1,71.43,7,Inside Airbnb (2025),Turistico
+306005,Aiora,Valencia,1,69.63,349,Inside Airbnb (2025),Turistico
+306007,Albors,Valencia,0,42.0,100,Inside Airbnb (2025),No turistico
+306035,Camí Fondo,Valencia,1,48.0,50,Inside Airbnb (2025),Turistico
+306058,Ciutat Universitària,Valencia,1,53.33,15,Inside Airbnb (2025),Turistico
+306140,La Creu del Grau,Valencia,0,64.18,134,Inside Airbnb (2025),No turistico
+306209,Penya-Roja,Valencia,0,57.29,96,Inside Airbnb (2025),No turistico
+307034,Campanar,Valencia,1,54.76,42,Inside Airbnb (2025),Turistico
+307075,El Calvari,Valencia,1,40.0,10,Inside Airbnb (2025),Turistico
+314078,El Carme,Valencia,1,65.2,273,Inside Airbnb (2025),Turistico
+314090,El Mercat,Valencia,1,62.89,291,Inside Airbnb (2025),Turistico
+314095,El Pilar,Valencia,1,81.25,144,Inside Airbnb (2025),Turistico
+314154,La Roqueta,Valencia,1,57.8,173,Inside Airbnb (2025),Turistico
+314157,La Seu,Valencia,1,67.36,193,Inside Airbnb (2025),Turistico
+314165,La Xerea,Valencia,1,55.07,138,Inside Airbnb (2025),Turistico
+314241,Sant Francesc,Valencia,1,59.59,245,Inside Airbnb (2025),Turistico
+315183,Mestalla,Valencia,1,45.92,98,Inside Airbnb (2025),Turistico
+316019,Arrancapins,Valencia,1,61.72,209,Inside Airbnb (2025),Turistico
+316073,El Botànic,Valencia,1,61.7,141,Inside Airbnb (2025),Turistico
+316150,La Petxina,Valencia,0,64.04,114,Inside Airbnb (2025),No turistico
+321036,Camí Reial,Valencia,1,36.0,25,Inside Airbnb (2025),Turistico
+321132,L'Hort de Senabre,Valencia,0,32.14,56,Inside Airbnb (2025),No turistico
+321139,La Creu Coberta,Valencia,0,37.5,16,Inside Airbnb (2025),No turistico
+321153,La Raiosa,Valencia,0,63.19,144,Inside Airbnb (2025),No turistico
+321247,Sant Marcel·lí,Valencia,0,46.34,41,Inside Airbnb (2025),No turistico
+322171,Les Tendetes,Valencia,0,55.77,52,Inside Airbnb (2025),No turistico
+322180,Marxalenes,Valencia,0,42.86,49,Inside Airbnb (2025),No turistico
+322187,Morvedre,Valencia,1,64.66,133,Inside Airbnb (2025),Turistico
+322259,Tormos,Valencia,0,42.86,56,Inside Airbnb (2025),No turistico
+322264,Trinitat,Valencia,0,52.17,46,Inside Airbnb (2025),No turistico
+325096,El Pla del Remei,Valencia,1,48.0,50,Inside Airbnb (2025),Turistico
+325111,Exposició,Valencia,1,48.15,27,Inside Airbnb (2025),Turistico
+325119,Gran Via,Valencia,1,42.86,70,Inside Airbnb (2025),Turistico
+325128,Jaume Roig,Valencia,1,37.5,16,Inside Airbnb (2025),Turistico
+325228,Russafa,Valencia,1,64.31,566,Inside Airbnb (2025),Turistico
+327143,La Fontsanta,Valencia,0,33.33,9,Inside Airbnb (2025),No turistico
+327145,La Llum,Valencia,0,33.33,6,Inside Airbnb (2025),No turistico
+327193,Nou Moles,Valencia,0,43.64,165,Inside Airbnb (2025),No turistico
+327249,Sant Pau,Valencia,0,53.33,30,Inside Airbnb (2025),No turistico
+327257,Soternes,Valencia,0,50.0,26,Inside Airbnb (2025),No turistico
+327263,Tres Forques,Valencia,0,25.93,27,Inside Airbnb (2025),No turistico
+331206,Patraix,Valencia,0,62.6,123,Inside Airbnb (2025),No turistico
+331230,Safranar,Valencia,0,36.0,25,Inside Airbnb (2025),No turistico
+331245,Sant Isidre,Valencia,0,28.57,7,Inside Airbnb (2025),No turistico
+331275,Vara de Quart,Valencia,0,20.0,10,Inside Airbnb (2025),No turistico
+332025,Beniferri,Valencia,1,66.67,12,Inside Airbnb (2025),Turistico
+332027,Benimàmet,Valencia,1,25.64,39,Inside Airbnb (2025),Turistico
+334094,El Perellonet,Valencia,0,55.88,34,Inside Airbnb (2025),No turistico
+334102,El Saler,Valencia,0,57.38,61,Inside Airbnb (2025),No turistico
+334159,La Torre,Valencia,0,20.0,5,Inside Airbnb (2025),No turistico
+334213,Pinedo,Valencia,0,23.53,17,Inside Airbnb (2025),No turistico
+335029,Beteró,Valencia,1,35.23,88,Inside Airbnb (2025),Turistico
+335074,El Cabanyal - El Canyamelar,Valencia,1,67.33,750,Inside Airbnb (2025),Turistico
+335087,El Grau,Valencia,1,61.13,283,Inside Airbnb (2025),Turistico
+335146,La Malva-rosa,Valencia,1,53.88,258,Inside Airbnb (2025),Turistico
+335190,Natzaret,Valencia,0,68.48,92,Inside Airbnb (2025),No turistico
+337059,Ciutat de les Arts i les Ciències,Valencia,1,62.86,105,Inside Airbnb (2025),Turistico
+337107,En Corts,Valencia,0,60.0,230,Inside Airbnb (2025),No turistico
+337114,Fonteta de Sant Lluís,Valencia,0,41.67,12,Inside Airbnb (2025),No turistico
+337135,La Bega Baixa,Valencia,0,20.51,39,Inside Airbnb (2025),No turistico
+337152,La Punta,Valencia,0,51.22,41,Inside Airbnb (2025),No turistico
+337178,Malilla,Valencia,0,51.47,68,Inside Airbnb (2025),No turistico
+337185,Mont-Olivet,Valencia,0,71.48,284,Inside Airbnb (2025),No turistico
+337189,Na Rovella,Valencia,0,48.65,74,Inside Airbnb (2025),No turistico
+338105,Els Orriols,Valencia,0,31.03,58,Inside Airbnb (2025),No turistico
+338246,Sant Llorenç,Valencia,0,32.26,31,Inside Airbnb (2025),No turistico
+338261,Torrefiel,Valencia,0,41.43,70,Inside Airbnb (2025),No turistico

@@ -1,0 +1,97 @@
+﻿ciudad,id_barrio_oficial,barrio_oficial,precio_noche_mediano,n_inmuebles,fuente_precio,Oc_media,ingreso_bruto_mediano,beneficio_neto_mediano,confianza_muestra
+Madrid,102002.0,Acacias,88.4,107,Inside Airbnb,0.3209,10354.15,6730.2,alta
+Madrid,102052.0,Chopera,82.45,82,Inside Airbnb,0.3275,9855.86,6406.31,alta
+Madrid,102068.0,Delicias,85.0,80,Inside Airbnb,0.2464,7644.55,4968.96,alta
+Madrid,102205.0,Palos de la Frontera,103.7,239,Inside Airbnb,0.3429,12978.94,8436.31,alta
+Madrid,103045.0,Casco Histórico de Barajas,85.0,29,Inside Airbnb,0.3145,9757.37,6342.29,media
+Madrid,103063.0,Corralejos,79.05,7,Inside Airbnb,0.3299,9518.69,6187.15,baja
+Madrid,108061.0,Comillas,90.95,85,Inside Airbnb,0.3283,10898.49,7084.02,alta
+Madrid,109064.0,Cortes,121.125,652,Inside Airbnb,0.3395,15009.51,9756.18,alta
+Madrid,109106.0,Embajadores,98.6,1511,Inside Airbnb,0.3064,11027.03,7167.57,alta
+Madrid,109130.0,Justicia,123.25,716,Inside Airbnb,0.2602,11705.42,7608.52,alta
+Madrid,109201.0,Palacio,119.0,1114,Inside Airbnb,0.2914,12656.95,8227.02,alta
+Madrid,109256.0,Sol,130.9,790,Inside Airbnb,0.3349,16001.02,10400.66,alta
+Madrid,109265.0,Universidad,116.45,1234,Inside Airbnb,0.286,12156.22,7901.54,alta
+Madrid,110050.0,Castilla,99.45,64,Inside Airbnb,0.2366,8588.4,5582.46,alta
+Madrid,110053.0,Ciudad Jardín,100.3,79,Inside Airbnb,0.2334,8544.66,5554.03,alta
+Madrid,110104.0,El Viso,124.95,50,Inside Airbnb,0.1592,7260.6,4719.39,alta
+Madrid,111008.0,Almagro,128.77499999999998,120,Inside Airbnb,0.1553,7299.55,4744.71,alta
+Madrid,111015.0,Arapiles,112.2,144,Inside Airbnb,0.2398,9820.52,6383.34,alta
+Madrid,111229.0,Ríos Rosas,110.5,118,Inside Airbnb,0.189,7622.85,4954.85,alta
+Madrid,111262.0,Trafalgar,135.15,256,Inside Airbnb,0.1789,8825.09,5736.31,alta
+Madrid,111272.0,Vallehermoso,102.85,65,Inside Airbnb,0.2473,9283.71,6034.41,alta
+Madrid,112060.0,Colina,129.2,15,Inside Airbnb,0.1869,8813.83,5728.99,media
+Madrid,112062.0,Concepción,101.15,41,Inside Airbnb,0.2133,7874.98,5118.74,alta
+Madrid,112065.0,Costillares,112.2,31,Inside Airbnb,0.1326,5430.37,3529.74,alta
+Madrid,120040.0,Canillas,96.05,47,Inside Airbnb,0.2493,8740.02,5681.01,alta
+Madrid,123033.0,Campamento,73.95,5,Inside Airbnb,0.2359,6367.35,4138.78,baja
+Madrid,128016.0,Aravaca,75.65,51,Inside Airbnb,0.0985,2719.8,1767.87,alta
+Madrid,128018.0,Argüelles,126.65,143,Inside Airbnb,0.2443,11293.32,7340.66,alta
+Madrid,128044.0,Casa de Campo,91.8,33,Inside Airbnb,0.2066,6922.55,4499.66,alta
+Madrid,128054.0,Ciudad Universitaria,93.075,32,Inside Airbnb,0.1543,5241.94,3407.26,alta
+Madrid,139110.0,Estrella,134.3,15,Inside Airbnb,0.1522,7460.77,4849.5,media
+Madrid,139126.0,Ibiza,125.8,160,Inside Airbnb,0.2309,10602.23,6891.45,alta
+Madrid,139129.0,Jerónimos,147.9,59,Inside Airbnb,0.2768,14942.63,9712.71,alta
+Madrid,139192.0,Niño Jesús,125.8,49,Inside Airbnb,0.2916,13389.4,8703.11,alta
+Madrid,139200.0,Pacífico,108.375,124,Inside Airbnb,0.2411,9537.17,6199.16,alta
+Madrid,140049.0,Castellana,146.2,130,Inside Airbnb,0.179,9551.98,6208.79,alta
+Madrid,140115.0,Fuente del Berro,109.65,77,Inside Airbnb,0.2395,9585.32,6230.46,alta
+Madrid,140118.0,Goya,135.15,243,Inside Airbnb,0.2101,10364.18,6736.72,alta
+Madrid,140120.0,Guindalera,101.575,226,Inside Airbnb,0.2364,8764.51,5696.93,alta
+Madrid,140173.0,Lista,138.55,132,Inside Airbnb,0.2366,11965.05,7777.28,alta
+Madrid,140225.0,Recoletos,149.6,197,Inside Airbnb,0.2427,13252.38,8614.05,alta
+Madrid,141017.0,Arcos,85.0,5,Inside Airbnb,0.227,7042.68,4577.74,baja
+Madrid,141041.0,Canillejas,70.55,40,Inside Airbnb,0.2422,6236.83,4053.94,alta
+Madrid,146022.0,Bellas Vistas,92.65,114,Inside Airbnb,0.2369,8011.31,5207.35,alta
+Madrid,146028.0,Berruguete,81.6,144,Inside Airbnb,0.2173,6472.06,4206.84,alta
+Madrid,146051.0,Castillejos,99.45,158,Inside Airbnb,0.1836,6664.54,4331.95,alta
+Madrid,146066.0,Cuatro Caminos,105.4,235,Inside Airbnb,0.1723,6628.55,4308.56,alta
+Valencia,301056.0,Ciutat Jardí,86.7,46,Inside Airbnb,0.2199,6958.85,4523.25,alta
+Valencia,304023.0,Benicalap,85.0,75,Inside Airbnb,0.1807,5606.22,3644.04,alta
+Valencia,304055.0,Ciutat Fallera,90.525,10,Inside Airbnb,0.1844,6092.88,3960.37,baja
+Valencia,305026.0,Benimaclet,93.925,34,Inside Airbnb,0.2113,7243.92,4708.55,alta
+Valencia,306005.0,Aiora,83.3,244,Inside Airbnb,0.3326,10112.54,6573.15,alta
+Valencia,306035.0,Camí Fondo,90.95,23,Inside Airbnb,0.3628,12043.78,7828.46,media
+Valencia,306058.0,Ciutat Universitària,90.95,9,Inside Airbnb,0.1287,4272.42,2777.07,baja
+Valencia,307034.0,Campanar,69.7,31,Inside Airbnb,0.3023,7690.66,4998.93,alta
+Valencia,314078.0,El Carme,96.05,204,Inside Airbnb,0.3236,11344.85,7374.15,alta
+Valencia,314090.0,El Mercat,106.675,170,Inside Airbnb,0.2932,11416.14,7420.49,alta
+Valencia,314095.0,El Pilar,97.75,82,Inside Airbnb,0.3196,11402.92,7411.9,alta
+Valencia,314154.0,La Roqueta,125.8,107,Inside Airbnb,0.3105,14257.23,9267.2,alta
+Valencia,314157.0,La Seu,95.2,142,Inside Airbnb,0.3306,11487.69,7467.0,alta
+Valencia,314165.0,La Xerea,94.35,74,Inside Airbnb,0.2254,7762.26,5045.47,alta
+Valencia,314241.0,Sant Francesc,112.2,153,Inside Airbnb,0.2935,12019.71,7812.81,alta
+Valencia,315183.0,Mestalla,96.475,54,Inside Airbnb,0.2325,8187.11,5321.62,alta
+Valencia,316019.0,Arrancapins,96.9,133,Inside Airbnb,0.2392,8460.14,5499.09,alta
+Valencia,316073.0,El Botànic,95.19999999999999,106,Inside Airbnb,0.2654,9222.12,5994.38,alta
+Valencia,321036.0,Camí Reial,66.3,11,Inside Airbnb,0.1754,4244.58,2758.98,baja
+Valencia,322187.0,Morvedre,97.75,99,Inside Airbnb,0.2627,9372.8,6092.32,alta
+Valencia,325096.0,El Pla del Remei,146.2,25,Inside Airbnb,0.2616,13959.75,9073.84,media
+Valencia,325111.0,Exposició,99.025,14,Inside Airbnb,0.4327,15639.57,10165.72,baja
+Valencia,325119.0,Gran Via,136.85,37,Inside Airbnb,0.2708,13526.52,8792.24,alta
+Valencia,325128.0,Jaume Roig,83.3,9,Inside Airbnb,0.168,5107.95,3320.17,baja
+Valencia,325228.0,Russafa,102.85,387,Inside Airbnb,0.2974,11164.48,7256.91,alta
+Valencia,332025.0,Beniferri,101.15,8,Inside Airbnb,0.2876,10618.12,6901.78,baja
+Valencia,332027.0,Benimàmet,73.95,19,Inside Airbnb,0.2329,6286.38,4086.15,media
+Valencia,335029.0,Beteró,97.75,41,Inside Airbnb,0.1702,6072.52,3947.14,alta
+Valencia,335074.0,El Cabanyal - El Canyamelar,100.3,574,Inside Airbnb,0.2972,10880.34,7072.22,alta
+Valencia,335087.0,El Grau,96.475,198,Inside Airbnb,0.1674,5894.72,3831.57,alta
+Valencia,335146.0,La Malva-rosa,94.35,173,Inside Airbnb,0.2464,8485.46,5515.55,alta
+Valencia,337059.0,Ciutat de les Arts i les Ciències,113.9,71,Inside Airbnb,0.2271,9441.34,6136.87,alta
+Barcelona,213089.0,El Gòtic,160.06,53,Pontia x factor scraping 2026,0.2283,13337.72,8669.52,alta
+Barcelona,213101.0,El Raval,245.92,81,Pontia x factor scraping 2026,0.2589,23239.08,15105.4,alta
+Barcelona,213134.0,La Barceloneta,171.19,33,Pontia x factor scraping 2026,0.226,14121.46,9178.95,alta
+Barcelona,213250.0,"Sant Pere, Santa Caterina i la Ribera",206.7,78,Pontia x factor scraping 2026,0.2318,17488.26,11367.37,alta
+Barcelona,218278.0,Vila de Gràcia,187.09,72,Pontia x factor scraping 2026,0.3004,20513.68,13333.89,alta
+Barcelona,224013.0,Antiga Esquerra de l'Eixample,255.99,72,Pontia x factor scraping 2026,0.3028,28292.52,18390.14,alta
+Barcelona,224069.0,Dreta de l'Eixample,306.34000000000003,167,Pontia x factor scraping 2026,0.2871,32101.83,20866.19,alta
+Barcelona,224086.0,El Fort Pienc,269.24,32,Pontia x factor scraping 2026,0.3228,31722.4,20619.56,alta
+Barcelona,224194.0,Nova Esquerra de l'Eixample,180.2,36,Pontia x factor scraping 2026,0.2722,17903.42,11637.22,alta
+Barcelona,224231.0,Sagrada Família,202.46,71,Pontia x factor scraping 2026,0.3254,24046.37,15630.14,alta
+Barcelona,224240.0,Sant Antoni,227.9,56,Pontia x factor scraping 2026,0.3007,25013.28,16258.63,alta
+Barcelona,243092.0,El Parc i la Llacuna del Poblenou,216.24,12,Pontia x factor scraping 2026,0.3365,26559.14,17263.44,baja
+Barcelona,243099.0,El Poblenou,221.01,21,Pontia x factor scraping 2026,0.2794,22538.82,14650.23,media
+Barcelona,243164.0,La Vila Olímpica del Poblenou,413.4,5,Pontia x factor scraping 2026,0.2195,33120.57,21528.37,baja
+Barcelona,244098.0,El Poble-sec,188.68,65,Pontia x factor scraping 2026,0.3245,22347.74,14526.03,alta
+Barcelona,244125.0,Hostafrancs,222.60000000000002,18,Pontia x factor scraping 2026,0.3486,28323.4,18410.21,media
+Barcelona,244252.0,Sants,186.03,13,Pontia x factor scraping 2026,0.3327,22590.65,14683.92,baja

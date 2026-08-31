@@ -1,0 +1,945 @@
+﻿base_datos,id_anuncio,ciudad,barrio_oficial,id_barrio_oficial,tipo_inmueble,habitaciones,metros_cuadrados,num_planta,precio_inmueble,precio_noche_estimado,ocupacion_media_estimada,nivel_precio,ROI365_%,puntuacion_ROI365
+Idealista,111368812,Barcelona,Sants,244252,Estudio,1.0,42.0,,108000.0,164.3,0.3327,1-barrio+habitaciones,12.01,Alta rentabilidad
+Fotocasa,189239407,Barcelona,El Fort Pienc,224086,Piso,4.0,72.0,1.0,340000.0,496.08,0.3228,1-barrio+habitaciones,11.17,Alta rentabilidad
+Fotocasa,189129404,Barcelona,Sants,244252,Planta Baja,1.0,38.0,,119000.0,164.3,0.3327,1-barrio+habitaciones,10.9,Alta rentabilidad
+Idealista,108241615,Barcelona,Hostafrancs,244125,Piso,2.0,54.0,1.0,175000.0,228.96,0.3486,1-barrio+habitaciones,10.82,Alta rentabilidad
+Fotocasa,186735018,Barcelona,Sants,244252,Piso,1.0,38.0,,120000.0,164.3,0.3327,1-barrio+habitaciones,10.81,Alta rentabilidad
+Fotocasa,189071584,Barcelona,Hostafrancs,244125,Piso,2.0,62.0,,175311.0,228.96,0.3486,1-barrio+habitaciones,10.8,Alta rentabilidad
+Idealista,110290330,Barcelona,Hostafrancs,244125,Piso,2.0,67.0,0.5,180000.0,228.96,0.3486,1-barrio+habitaciones,10.52,Alta rentabilidad
+Idealista,109715083,Barcelona,Hostafrancs,244125,Piso,2.0,60.0,,180000.0,228.96,0.3486,1-barrio+habitaciones,10.52,Alta rentabilidad
+Fotocasa,186758860,Barcelona,El Poble-sec,244098,Piso,1.0,52.0,,140500.0,188.68,0.3245,1-barrio+habitaciones,10.34,Alta rentabilidad
+Fotocasa,188979427,Barcelona,Dreta de l'Eixample,224069,Piso,2.0,39.0,3.0,184000.0,269.24,0.2871,1-barrio+habitaciones,9.97,Media rentabilidad
+Fotocasa,188438903,Barcelona,El Poble-sec,244098,Piso,2.0,57.0,15.0,166250.0,205.64,0.3245,1-barrio+habitaciones,9.52,Media rentabilidad
+Fotocasa,189461682,Barcelona,El Fort Pienc,224086,Piso,2.0,38.0,,198000.0,241.68,0.3228,1-barrio+habitaciones,9.35,Media rentabilidad
+Idealista,110978158,Barcelona,Sants,244252,Piso,1.0,45.0,0.0,139000.0,164.3,0.3327,1-barrio+habitaciones,9.33,Media rentabilidad
+Idealista,106118297,Barcelona,El Poble-sec,244098,Dúplex,2.0,35.0,0.0,170000.0,205.64,0.3245,1-barrio+habitaciones,9.31,Media rentabilidad
+Idealista,110974112,Barcelona,Hostafrancs,244125,Piso,1.0,53.0,2.0,195000.0,216.24,0.3486,1-barrio+habitaciones,9.17,Media rentabilidad
+Fotocasa,188094950,Barcelona,El Poble-sec,244098,Piso,1.0,42.0,,165000.0,188.68,0.3245,1-barrio+habitaciones,8.8,Media rentabilidad
+Idealista,110140250,Barcelona,Sants,244252,Piso,2.0,48.0,0.0,167000.0,186.03,0.3327,2-barrio,8.79,Media rentabilidad
+Idealista,107223811,Barcelona,Sants,244252,Piso,2.0,50.0,,167000.0,186.03,0.3327,2-barrio,8.79,Media rentabilidad
+Fotocasa,185421651,Barcelona,El Poble-sec,244098,Piso,1.0,49.0,,166000.0,188.68,0.3245,1-barrio+habitaciones,8.75,Media rentabilidad
+Fotocasa,189089445,Barcelona,Dreta de l'Eixample,224069,Piso,1.0,40.0,3.0,165000.0,209.88,0.2871,1-barrio+habitaciones,8.66,Media rentabilidad
+Fotocasa,185587755,Barcelona,Sants,244252,Piso,1.0,35.0,0.0,150000.0,164.3,0.3327,1-barrio+habitaciones,8.65,Media rentabilidad
+Idealista,109984775,Barcelona,Sants,244252,Piso,1.0,35.0,3.0,150000.0,164.3,0.3327,1-barrio+habitaciones,8.65,Media rentabilidad
+Fotocasa,189540388,Barcelona,El Poble-sec,244098,Loft,1.0,61.0,,168000.0,188.68,0.3245,1-barrio+habitaciones,8.65,Media rentabilidad
+Idealista,111399937,Barcelona,Sant Antoni,224240,Dúplex,1.0,50.0,0.0,180000.0,216.24,0.3007,1-barrio+habitaciones,8.57,Media rentabilidad
+Fotocasa,184187828,Barcelona,El Poble-sec,244098,Piso,1.0,67.0,,173000.0,188.68,0.3245,1-barrio+habitaciones,8.4,Media rentabilidad
+Fotocasa,188681376,Barcelona,Sant Antoni,224240,Apartamento,1.0,40.0,0.0,185000.0,216.24,0.3007,1-barrio+habitaciones,8.34,Media rentabilidad
+Fotocasa,188919927,Barcelona,Sagrada Família,224231,Piso,2.0,45.0,5.0,186642.0,201.4,0.3254,1-barrio+habitaciones,8.33,Media rentabilidad
+Idealista,111287147,Barcelona,Hostafrancs,244125,Piso,2.0,74.0,0.0,229000.0,228.96,0.3486,1-barrio+habitaciones,8.27,Media rentabilidad
+Fotocasa,189217783,Barcelona,Dreta de l'Eixample,224069,Piso,3.0,75.0,3.0,282910.0,343.44,0.2871,1-barrio+habitaciones,8.27,Media rentabilidad
+Idealista,111192371,Barcelona,El Fort Pienc,224086,Piso,4.0,97.0,3.0,460000.0,496.08,0.3228,1-barrio+habitaciones,8.26,Media rentabilidad
+Fotocasa,189163782,Barcelona,El Poble-sec,244098,Piso,1.0,47.0,2.0,175900.0,188.68,0.3245,1-barrio+habitaciones,8.26,Media rentabilidad
+Idealista,110092999,Barcelona,Sants,244252,Estudio,1.0,35.0,6.0,160000.0,164.3,0.3327,1-barrio+habitaciones,8.11,Media rentabilidad
+Fotocasa,188316691,Barcelona,Sants,244252,Piso,1.0,35.0,6.0,160000.0,164.3,0.3327,1-barrio+habitaciones,8.11,Media rentabilidad
+Fotocasa,189127004,Barcelona,Sants,244252,Piso,2.0,51.0,3.0,182720.0,186.03,0.3327,2-barrio,8.04,Media rentabilidad
+Fotocasa,187091623,Barcelona,Sants,244252,Piso,2.0,48.0,5.0,185000.0,186.03,0.3327,2-barrio,7.94,Media rentabilidad
+Idealista,111261581,Barcelona,El Fort Pienc,224086,Piso,4.0,95.0,0.5,480000.0,496.08,0.3228,1-barrio+habitaciones,7.91,Media rentabilidad
+Fotocasa,188839025,Barcelona,El Fort Pienc,224086,Piso,4.0,100.0,0.5,480000.0,496.08,0.3228,1-barrio+habitaciones,7.91,Media rentabilidad
+Idealista,110896646,Barcelona,Hostafrancs,244125,Piso,2.0,56.0,,240000.0,228.96,0.3486,1-barrio+habitaciones,7.89,Media rentabilidad
+Idealista,111347825,Barcelona,Hostafrancs,244125,Piso,2.0,48.0,4.0,240000.0,228.96,0.3486,1-barrio+habitaciones,7.89,Media rentabilidad
+Fotocasa,189098240,Barcelona,Hostafrancs,244125,Planta Baja,2.0,56.0,,240000.0,228.96,0.3486,1-barrio+habitaciones,7.89,Media rentabilidad
+Idealista,110827432,Barcelona,Hostafrancs,244125,Piso,2.0,55.0,0.0,240000.0,228.96,0.3486,1-barrio+habitaciones,7.89,Media rentabilidad
+Fotocasa,189556989,Barcelona,Sants,244252,Estudio,1.0,49.0,0.0,165000.0,164.3,0.3327,1-barrio+habitaciones,7.86,Media rentabilidad
+Idealista,110884187,Barcelona,Sants,244252,Piso,3.0,65.0,2.0,209000.0,207.76,0.3327,1-barrio+habitaciones,7.85,Media rentabilidad
+Idealista,108446132,Barcelona,Hostafrancs,244125,Piso,2.0,53.0,2.0,242000.0,228.96,0.3486,1-barrio+habitaciones,7.82,Media rentabilidad
+Idealista,111179893,Barcelona,Sants,244252,Piso,2.0,43.0,3.0,189000.0,186.03,0.3327,2-barrio,7.77,Media rentabilidad
+Idealista,111194206,Barcelona,El Fort Pienc,224086,Piso,4.0,82.0,3.0,495000.0,496.08,0.3228,1-barrio+habitaciones,7.68,Media rentabilidad
+Fotocasa,189051960,Barcelona,Sagrada Família,224231,Piso,1.0,40.0,0.0,169000.0,167.48,0.3254,1-barrio+habitaciones,7.65,Media rentabilidad
+Idealista,111385816,Barcelona,Sants,244252,Piso,1.0,35.0,0.0,170000.0,164.3,0.3327,1-barrio+habitaciones,7.63,Media rentabilidad
+Idealista,111146492,Barcelona,El Fort Pienc,224086,Piso,4.0,104.0,3.0,498000.0,496.08,0.3228,1-barrio+habitaciones,7.63,Media rentabilidad
+Fotocasa,189231436,Barcelona,Sagrada Família,224231,Piso,1.0,47.0,0.0,170000.0,167.48,0.3254,1-barrio+habitaciones,7.61,Media rentabilidad
+Idealista,111382230,Barcelona,El Fort Pienc,224086,Piso,4.0,95.0,0.5,499000.0,496.08,0.3228,1-barrio+habitaciones,7.61,Media rentabilidad
+Idealista,111190867,Barcelona,El Poble-sec,244098,Piso,3.0,60.0,,165000.0,162.18,0.3245,1-barrio+habitaciones,7.57,Media rentabilidad
+Fotocasa,186119481,Barcelona,El Fort Pienc,224086,Piso,2.0,50.0,0.5,245000.0,241.68,0.3228,1-barrio+habitaciones,7.55,Media rentabilidad
+Idealista,110634125,Barcelona,Sants,244252,Piso,2.0,50.0,0.0,195000.0,186.03,0.3327,2-barrio,7.53,Media rentabilidad
+Idealista,111069167,Barcelona,Sants,244252,Piso,3.0,48.0,2.0,219000.0,207.76,0.3327,1-barrio+habitaciones,7.49,Media rentabilidad
+Fotocasa,189118379,Barcelona,Dreta de l'Eixample,224069,Piso,4.0,73.0,2.0,410000.0,445.2,0.2871,1-barrio+habitaciones,7.4,Media rentabilidad
+Fotocasa,189025805,Barcelona,El Fort Pienc,224086,Piso,4.0,87.0,2.0,515000.0,496.08,0.3228,1-barrio+habitaciones,7.38,Media rentabilidad
+Idealista,111386755,Barcelona,El Poble-sec,244098,Piso,2.0,40.0,0.0,215000.0,205.64,0.3245,1-barrio+habitaciones,7.36,Media rentabilidad
+Fotocasa,189421764,Barcelona,El Poble-sec,244098,Piso,2.0,54.0,,215600.0,205.64,0.3245,1-barrio+habitaciones,7.34,Media rentabilidad
+Fotocasa,184716615,Barcelona,El Fort Pienc,224086,Piso,3.0,64.0,,310000.0,296.8,0.3228,1-barrio+habitaciones,7.33,Media rentabilidad
+Idealista,111378395,Barcelona,El Poble-sec,244098,Piso,1.0,60.0,0.0,199000.0,188.68,0.3245,1-barrio+habitaciones,7.3,Media rentabilidad
+Idealista,111031606,Barcelona,El Poble-sec,244098,Estudio,1.0,55.0,,199000.0,188.68,0.3245,1-barrio+habitaciones,7.3,Media rentabilidad
+Fotocasa,189592391,Barcelona,El Poble-sec,244098,Planta Baja,1.0,60.0,0.0,199000.0,188.68,0.3245,1-barrio+habitaciones,7.3,Media rentabilidad
+Idealista,111009034,Barcelona,Sants,244252,Ático,3.0,36.0,3.0,225000.0,207.76,0.3327,1-barrio+habitaciones,7.29,Media rentabilidad
+Fotocasa,189509836,Barcelona,Hostafrancs,244125,Piso,2.0,53.0,1.0,260000.0,228.96,0.3486,1-barrio+habitaciones,7.28,Media rentabilidad
+Idealista,111148282,Barcelona,Hostafrancs,244125,Piso,2.0,50.0,1.0,260000.0,228.96,0.3486,1-barrio+habitaciones,7.28,Media rentabilidad
+Idealista,110858491,Barcelona,El Poble-sec,244098,Piso,2.0,53.0,1.0,220000.0,205.64,0.3245,1-barrio+habitaciones,7.2,Media rentabilidad
+Idealista,109096427,Barcelona,El Poble-sec,244098,Piso,2.0,51.0,1.0,220000.0,205.64,0.3245,1-barrio+habitaciones,7.2,Media rentabilidad
+Idealista,111264630,Barcelona,Sants,244252,Piso,1.0,35.0,0.5,180000.0,164.3,0.3327,1-barrio+habitaciones,7.2,Media rentabilidad
+Fotocasa,178874889,Barcelona,El Poble-sec,244098,Piso,2.0,54.0,,221000.0,205.64,0.3245,1-barrio+habitaciones,7.16,Media rentabilidad
+Idealista,111258232,Barcelona,Sants,244252,Piso,3.0,65.0,0.0,229000.0,207.76,0.3327,1-barrio+habitaciones,7.16,Media rentabilidad
+Idealista,111260618,Barcelona,Vila de Gràcia,218278,Ático,1.0,36.0,4.0,198000.0,196.1,0.3004,1-barrio+habitaciones,7.06,Media rentabilidad
+Idealista,109944068,Barcelona,El Poble-sec,244098,Piso,2.0,51.0,1.0,225000.0,205.64,0.3245,1-barrio+habitaciones,7.04,Media rentabilidad
+Fotocasa,187514139,Barcelona,El Poble-sec,244098,Piso,2.0,67.0,,225000.0,205.64,0.3245,1-barrio+habitaciones,7.04,Media rentabilidad
+Idealista,108850771,Barcelona,El Poble-sec,244098,Piso,2.0,48.0,1.0,225000.0,205.64,0.3245,1-barrio+habitaciones,7.04,Media rentabilidad
+Fotocasa,185468704,Barcelona,El Poble-sec,244098,Piso,2.0,52.0,1.0,225000.0,205.64,0.3245,1-barrio+habitaciones,7.04,Media rentabilidad
+Idealista,109890862,Barcelona,El Poble-sec,244098,Piso,2.0,52.0,2.0,225000.0,205.64,0.3245,1-barrio+habitaciones,7.04,Media rentabilidad
+Idealista,109113928,Barcelona,Vila de Gràcia,218278,Ático,1.0,35.0,5.0,200000.0,196.1,0.3004,1-barrio+habitaciones,6.99,Media rentabilidad
+Idealista,111171086,Barcelona,Vila de Gràcia,218278,Ático,1.0,39.0,5.0,200000.0,196.1,0.3004,1-barrio+habitaciones,6.99,Media rentabilidad
+Idealista,110834266,Barcelona,Sants,244252,Piso,3.0,45.0,3.0,235000.0,207.76,0.3327,1-barrio+habitaciones,6.98,Media rentabilidad
+Idealista,104913581,Barcelona,El Poble-sec,244098,Piso,3.0,63.0,1.0,180000.0,162.18,0.3245,1-barrio+habitaciones,6.94,Media rentabilidad
+Idealista,111082290,Barcelona,El Fort Pienc,224086,Piso,4.0,105.0,9.0,550000.0,496.08,0.3228,1-barrio+habitaciones,6.91,Media rentabilidad
+Fotocasa,189221821,Barcelona,El Fort Pienc,224086,Piso,4.0,99.0,5.0,550000.0,496.08,0.3228,1-barrio+habitaciones,6.91,Media rentabilidad
+Fotocasa,184717351,Barcelona,El Fort Pienc,224086,Piso,5.0,162.0,,550000.0,496.08,0.3228,1-barrio+habitaciones,6.91,Media rentabilidad
+Idealista,110744932,Barcelona,El Fort Pienc,224086,Piso,3.0,60.0,1.0,330000.0,296.8,0.3228,1-barrio+habitaciones,6.89,Media rentabilidad
+Idealista,111344314,Barcelona,El Poble-sec,244098,Piso,2.0,60.0,1.0,230000.0,205.64,0.3245,1-barrio+habitaciones,6.88,Media rentabilidad
+Fotocasa,185751473,Barcelona,El Poble-sec,244098,Piso,2.0,68.0,,230000.0,205.64,0.3245,1-barrio+habitaciones,6.88,Media rentabilidad
+Idealista,110267099,Barcelona,Sants,244252,Piso,1.0,35.0,0.0,189000.0,164.3,0.3327,1-barrio+habitaciones,6.86,Media rentabilidad
+Idealista,111377049,Barcelona,Sants,244252,Piso,3.0,58.0,1.0,239000.0,207.76,0.3327,1-barrio+habitaciones,6.86,Media rentabilidad
+Idealista,110886379,Barcelona,Sants,244252,Dúplex,1.0,35.0,0.0,189000.0,164.3,0.3327,1-barrio+habitaciones,6.86,Media rentabilidad
+Idealista,111315905,Barcelona,Sants,244252,Piso,3.0,53.0,1.0,239000.0,207.76,0.3327,1-barrio+habitaciones,6.86,Media rentabilidad
+Fotocasa,188813456,Barcelona,El Poble-sec,244098,Ático,2.0,53.0,4.0,231500.0,205.64,0.3245,1-barrio+habitaciones,6.84,Media rentabilidad
+Idealista,110516607,Barcelona,El Poble-sec,244098,Ático,2.0,52.0,4.0,231500.0,205.64,0.3245,1-barrio+habitaciones,6.84,Media rentabilidad
+Idealista,110903197,Barcelona,Vila de Gràcia,218278,Piso,1.0,52.0,5.0,205000.0,196.1,0.3004,1-barrio+habitaciones,6.82,Media rentabilidad
+Idealista,109155849,Barcelona,El Poble-sec,244098,Piso,2.0,50.0,1.0,232000.0,205.64,0.3245,1-barrio+habitaciones,6.82,Media rentabilidad
+Idealista,111179300,Barcelona,El Poble-sec,244098,Ático,1.0,40.0,4.0,215000.0,188.68,0.3245,1-barrio+habitaciones,6.76,Media rentabilidad
+Fotocasa,189364332,Barcelona,El Poble-sec,244098,Piso,1.0,40.0,4.0,215000.0,188.68,0.3245,1-barrio+habitaciones,6.76,Media rentabilidad
+Fotocasa,189484800,Barcelona,Sagrada Família,224231,Piso,2.0,55.0,0.0,230000.0,201.4,0.3254,1-barrio+habitaciones,6.76,Media rentabilidad
+Idealista,102776793,Barcelona,Sants,244252,Piso,2.0,71.0,0.5,218000.0,186.03,0.3327,2-barrio,6.74,Media rentabilidad
+Idealista,110907358,Barcelona,Dreta de l'Eixample,224069,Piso,4.0,83.0,5.0,450000.0,445.2,0.2871,1-barrio+habitaciones,6.74,Media rentabilidad
+Idealista,110752125,Barcelona,Sants,244252,Piso,2.0,62.0,2.0,219000.0,186.03,0.3327,2-barrio,6.7,Media rentabilidad
+Idealista,108317445,Barcelona,El Poble-sec,244098,Piso,1.0,61.0,3.0,217000.0,188.68,0.3245,1-barrio+habitaciones,6.69,Media rentabilidad
+Idealista,108839957,Barcelona,Sants,244252,Piso,1.0,52.0,3.0,195000.0,164.3,0.3327,1-barrio+habitaciones,6.65,Media rentabilidad
+Fotocasa,187135675,Barcelona,El Fort Pienc,224086,Piso,4.0,111.0,,575000.0,496.08,0.3228,1-barrio+habitaciones,6.61,Media rentabilidad
+Fotocasa,188983160,Barcelona,El Fort Pienc,224086,Piso,3.0,80.0,4.0,344000.0,296.8,0.3228,1-barrio+habitaciones,6.61,Media rentabilidad
+Idealista,110291336,Barcelona,El Poble-sec,244098,Piso,1.0,45.0,2.0,220000.0,188.68,0.3245,1-barrio+habitaciones,6.6,Media rentabilidad
+Idealista,110931978,Barcelona,El Poble-sec,244098,Piso,1.0,46.0,2.0,220000.0,188.68,0.3245,1-barrio+habitaciones,6.6,Media rentabilidad
+Fotocasa,186715672,Barcelona,Hostafrancs,244125,Piso,3.0,97.0,0.5,279350.0,222.60000000000002,0.3486,2-barrio,6.59,Media rentabilidad
+Idealista,110755102,Barcelona,Sants,244252,Piso,3.0,63.0,1.0,249000.0,207.76,0.3327,1-barrio+habitaciones,6.59,Media rentabilidad
+Idealista,110673333,Barcelona,Sants,244252,Piso,3.0,63.0,2.0,249000.0,207.76,0.3327,1-barrio+habitaciones,6.59,Media rentabilidad
+Fotocasa,189581053,Barcelona,Sants,244252,Piso,3.0,56.0,2.0,249000.0,207.76,0.3327,1-barrio+habitaciones,6.59,Media rentabilidad
+Fotocasa,189319903,Barcelona,Hostafrancs,244125,Piso,3.0,64.0,1.0,279900.0,222.60000000000002,0.3486,2-barrio,6.58,Media rentabilidad
+Idealista,109391464,Barcelona,Hostafrancs,244125,Piso,3.0,65.0,3.0,279900.0,222.60000000000002,0.3486,2-barrio,6.58,Media rentabilidad
+Idealista,109390518,Barcelona,Hostafrancs,244125,Piso,3.0,64.0,2.0,279900.0,222.60000000000002,0.3486,2-barrio,6.58,Media rentabilidad
+Fotocasa,184718578,Barcelona,Sagrada Família,224231,Piso,3.0,55.0,,239000.0,203.52,0.3254,1-barrio+habitaciones,6.57,Media rentabilidad
+Idealista,111181292,Barcelona,Vila de Gràcia,218278,Dúplex,2.0,45.0,0.0,195000.0,178.08,0.3004,1-barrio+habitaciones,6.51,Media rentabilidad
+Fotocasa,182045811,Barcelona,Hostafrancs,244125,Piso,1.0,87.0,1.0,275000.0,216.24,0.3486,1-barrio+habitaciones,6.5,Media rentabilidad
+Fotocasa,188825109,Barcelona,El Fort Pienc,224086,Piso,3.0,75.0,1.0,350000.0,296.8,0.3228,1-barrio+habitaciones,6.49,Media rentabilidad
+Idealista,111358607,Barcelona,El Poble-sec,244098,Piso,1.0,39.0,1.0,225000.0,188.68,0.3245,1-barrio+habitaciones,6.46,Media rentabilidad
+Fotocasa,188825462,Barcelona,El Parc i la Llacuna del Poblenou,243092,Piso,1.0,50.0,1.0,289000.0,233.2,0.3365,1-barrio+habitaciones,6.44,Media rentabilidad
+Idealista,109844669,Barcelona,Sants,244252,Piso,3.0,50.0,0.0,255000.0,207.76,0.3327,1-barrio+habitaciones,6.43,Media rentabilidad
+Idealista,110088579,Barcelona,Hostafrancs,244125,Piso,2.0,59.0,1.0,295000.0,228.96,0.3486,1-barrio+habitaciones,6.42,Media rentabilidad
+Idealista,111342144,Barcelona,Dreta de l'Eixample,224069,Piso,3.0,64.0,3.0,365000.0,343.44,0.2871,1-barrio+habitaciones,6.41,Media rentabilidad
+Idealista,111364729,Barcelona,Sants,244252,Piso,2.0,45.0,2.0,230000.0,186.03,0.3327,2-barrio,6.38,Media rentabilidad
+Fotocasa,188757171,Barcelona,Sant Antoni,224240,Piso,3.0,61.0,2.0,268500.0,239.56,0.3007,1-barrio+habitaciones,6.37,Media rentabilidad
+Fotocasa,189100254,Barcelona,Antiga Esquerra de l'Eixample,224013,Piso,3.0,58.0,,300000.0,265.0,0.3028,1-barrio+habitaciones,6.35,Media rentabilidad
+Fotocasa,189196211,Barcelona,Antiga Esquerra de l'Eixample,224013,Ático,2.0,60.0,15.0,280000.0,246.98,0.3028,1-barrio+habitaciones,6.34,Media rentabilidad
+Idealista,111205139,Barcelona,El Poble-sec,244098,Piso,2.0,45.0,3.0,250000.0,205.64,0.3245,1-barrio+habitaciones,6.33,Media rentabilidad
+Idealista,106535078,Barcelona,El Poble-sec,244098,Piso,2.0,60.0,1.0,250000.0,205.64,0.3245,1-barrio+habitaciones,6.33,Media rentabilidad
+Idealista,110095783,Barcelona,El Poble-sec,244098,Piso,2.0,70.0,0.0,250000.0,205.64,0.3245,1-barrio+habitaciones,6.33,Media rentabilidad
+Idealista,111186008,Barcelona,Sants,244252,Piso,3.0,80.0,1.0,259000.0,207.76,0.3327,1-barrio+habitaciones,6.33,Media rentabilidad
+Idealista,110500839,Barcelona,Sants,244252,Piso,3.0,51.0,0.0,259500.0,207.76,0.3327,1-barrio+habitaciones,6.32,Media rentabilidad
+Idealista,109912420,Barcelona,Dreta de l'Eixample,224069,Piso,4.0,87.0,2.0,480000.0,445.2,0.2871,1-barrio+habitaciones,6.32,Media rentabilidad
+Idealista,111155073,Barcelona,El Poble-sec,244098,Piso,1.0,45.0,1.0,229990.0,188.68,0.3245,1-barrio+habitaciones,6.32,Media rentabilidad
+Fotocasa,188715912,Barcelona,Sants,244252,Planta Baja,3.0,51.0,,259500.0,207.76,0.3327,1-barrio+habitaciones,6.32,Media rentabilidad
+Idealista,110137295,Barcelona,Sants,244252,Piso,3.0,50.0,2.0,260000.0,207.76,0.3327,1-barrio+habitaciones,6.31,Media rentabilidad
+Idealista,110912931,Barcelona,Sants,244252,Piso,3.0,74.0,0.0,259900.0,207.76,0.3327,1-barrio+habitaciones,6.31,Media rentabilidad
+Idealista,111393637,Barcelona,Sants,244252,Piso,3.0,65.0,3.0,260000.0,207.76,0.3327,1-barrio+habitaciones,6.31,Media rentabilidad
+Fotocasa,188869136,Barcelona,Sant Antoni,224240,Piso,2.0,40.0,5.0,240000.0,212.0,0.3007,1-barrio+habitaciones,6.3,Media rentabilidad
+Fotocasa,189363677,Barcelona,Sants,244252,Piso,2.0,44.0,1.0,233000.0,186.03,0.3327,2-barrio,6.3,Media rentabilidad
+Idealista,111361685,Barcelona,Sants,244252,Piso,2.0,48.0,2.0,235000.0,186.03,0.3327,2-barrio,6.25,Media rentabilidad
+Fotocasa,189090164,Barcelona,Sant Antoni,224240,Piso,3.0,97.0,2.0,275000.0,239.56,0.3007,1-barrio+habitaciones,6.21,Media rentabilidad
+Fotocasa,188697239,Barcelona,Sants,244252,Piso,3.0,79.0,,265000.0,207.76,0.3327,1-barrio+habitaciones,6.19,Media rentabilidad
+Fotocasa,189540439,Barcelona,Sants,244252,Piso,3.0,49.0,,265000.0,207.76,0.3327,1-barrio+habitaciones,6.19,Media rentabilidad
+Fotocasa,189137937,Barcelona,El Fort Pienc,224086,Piso,2.0,75.0,1.0,299000.0,241.68,0.3228,1-barrio+habitaciones,6.19,Media rentabilidad
+Idealista,111150858,Barcelona,Hostafrancs,244125,Piso,3.0,100.0,0.0,298000.0,222.60000000000002,0.3486,2-barrio,6.18,Media rentabilidad
+Idealista,110892968,Barcelona,El Fort Pienc,224086,Piso,3.0,65.0,3.0,370000.0,296.8,0.3228,1-barrio+habitaciones,6.14,Media rentabilidad
+Fotocasa,189377733,Barcelona,Sants,244252,Piso,2.0,55.0,2.0,239000.0,186.03,0.3327,2-barrio,6.14,Media rentabilidad
+Fotocasa,188932063,Barcelona,Sants,244252,Piso,2.0,53.0,3.0,239000.0,186.03,0.3327,2-barrio,6.14,Media rentabilidad
+Idealista,110730042,Barcelona,Sants,244252,Piso,2.0,53.0,2.0,239000.0,186.03,0.3327,2-barrio,6.14,Media rentabilidad
+Fotocasa,187440487,Barcelona,El Fort Pienc,224086,Piso,3.0,79.0,5.0,370000.0,296.8,0.3228,1-barrio+habitaciones,6.14,Media rentabilidad
+Idealista,110616244,Barcelona,El Fort Pienc,224086,Piso,4.0,127.0,5.0,620000.0,496.08,0.3228,1-barrio+habitaciones,6.13,Media rentabilidad
+Fotocasa,189378294,Barcelona,Dreta de l'Eixample,224069,Piso,4.0,82.0,3.0,495000.0,445.2,0.2871,1-barrio+habitaciones,6.13,Media rentabilidad
+Fotocasa,188829957,Barcelona,El Fort Pienc,224086,Piso,4.0,127.0,4.0,620000.0,496.08,0.3228,1-barrio+habitaciones,6.13,Media rentabilidad
+Idealista,110441819,Barcelona,Vila de Gràcia,218278,Piso,1.0,48.0,5.0,229000.0,196.1,0.3004,1-barrio+habitaciones,6.1,Media rentabilidad
+Idealista,109983930,Barcelona,El Poble-sec,244098,Piso,2.0,55.0,3.0,260000.0,205.64,0.3245,1-barrio+habitaciones,6.09,Media rentabilidad
+Fotocasa,189332976,Barcelona,Dreta de l'Eixample,224069,Piso,4.0,104.0,3.0,498000.0,445.2,0.2871,1-barrio+habitaciones,6.09,Media rentabilidad
+Fotocasa,189596243,Barcelona,Dreta de l'Eixample,224069,Piso,4.0,95.0,0.5,499000.0,445.2,0.2871,1-barrio+habitaciones,6.08,Media rentabilidad
+Idealista,111301791,Barcelona,Vila de Gràcia,218278,Piso,2.0,71.0,0.5,209000.0,178.08,0.3004,1-barrio+habitaciones,6.07,Media rentabilidad
+Idealista,111203457,Barcelona,El Fort Pienc,224086,Piso,4.0,115.0,3.0,630000.0,496.08,0.3228,1-barrio+habitaciones,6.03,Media rentabilidad
+Idealista,110934709,Barcelona,El Fort Pienc,224086,Piso,4.0,114.0,3.0,630000.0,496.08,0.3228,1-barrio+habitaciones,6.03,Media rentabilidad
+Fotocasa,189123377,Barcelona,Sant Antoni,224240,Piso,3.0,90.0,1.0,285000.0,239.56,0.3007,1-barrio+habitaciones,6.0,Media rentabilidad
+Fotocasa,189472668,Barcelona,El Fort Pienc,224086,Piso,3.0,83.0,0.0,379000.0,296.8,0.3228,1-barrio+habitaciones,6.0,Media rentabilidad
+Fotocasa,189195899,Barcelona,Sant Antoni,224240,Piso,3.0,87.0,3.0,285000.0,239.56,0.3007,1-barrio+habitaciones,6.0,Media rentabilidad
+Idealista,110824588,Barcelona,Sants,244252,Piso,2.0,55.0,2.0,245000.0,186.03,0.3327,2-barrio,5.99,Media rentabilidad
+Fotocasa,188746036,Barcelona,Sant Antoni,224240,Piso,4.0,70.0,1.0,328000.0,275.6,0.3007,1-barrio+habitaciones,5.99,Media rentabilidad
+Idealista,106410519,Barcelona,Sants,244252,Piso,3.0,75.0,,275000.0,207.76,0.3327,1-barrio+habitaciones,5.96,Media rentabilidad
+Fotocasa,188901745,Barcelona,El Poble-sec,244098,Piso,3.0,52.0,,210000.0,162.18,0.3245,1-barrio+habitaciones,5.95,Media rentabilidad
+Fotocasa,188207070,Barcelona,Sants,244252,Piso,3.0,70.0,2.0,276100.0,207.76,0.3327,1-barrio+habitaciones,5.94,Media rentabilidad
+Fotocasa,189307059,Barcelona,El Fort Pienc,224086,Piso,4.0,137.0,3.0,640000.0,496.08,0.3228,1-barrio+habitaciones,5.94,Media rentabilidad
+Idealista,110400858,Barcelona,Hostafrancs,244125,Piso,3.0,60.0,4.0,310000.0,222.60000000000002,0.3486,2-barrio,5.94,Media rentabilidad
+Idealista,111361874,Barcelona,El Poble-sec,244098,Piso,1.0,53.0,1.0,245000.0,188.68,0.3245,1-barrio+habitaciones,5.93,Media rentabilidad
+Fotocasa,189588484,Barcelona,Hostafrancs,244125,Piso,2.0,57.0,1.0,320000.0,228.96,0.3486,1-barrio+habitaciones,5.92,Media rentabilidad
+Fotocasa,188902187,Barcelona,Sants,244252,Ático,1.0,38.0,6.0,220000.0,164.3,0.3327,1-barrio+habitaciones,5.89,Media rentabilidad
+Idealista,111308516,Barcelona,Sants,244252,Piso,1.0,45.0,5.0,220000.0,164.3,0.3327,1-barrio+habitaciones,5.89,Media rentabilidad
+Fotocasa,187466077,Barcelona,Sagrada Família,224231,Piso,4.0,86.0,,389000.0,296.8,0.3254,1-barrio+habitaciones,5.89,Media rentabilidad
+Fotocasa,189532171,Barcelona,Sants,244252,Piso,1.0,45.0,4.0,220000.0,164.3,0.3327,1-barrio+habitaciones,5.89,Media rentabilidad
+Fotocasa,186771627,Barcelona,El Poble-sec,244098,Piso,4.0,73.0,3.0,248000.0,188.68,0.3245,2-barrio,5.86,Media rentabilidad
+Fotocasa,188236479,Barcelona,Sants,244252,Piso,3.0,71.0,3.0,280000.0,207.76,0.3327,1-barrio+habitaciones,5.86,Media rentabilidad
+Idealista,110874539,Barcelona,Vila de Gràcia,218278,Piso,3.0,42.0,4.0,200000.0,164.3,0.3004,1-barrio+habitaciones,5.85,Media rentabilidad
+Fotocasa,187406864,Barcelona,El Poble-sec,244098,Piso,4.0,65.0,0.5,249000.0,188.68,0.3245,2-barrio,5.83,Media rentabilidad
+Idealista,110750776,Barcelona,El Fort Pienc,224086,Piso,3.0,68.0,3.0,390000.0,296.8,0.3228,1-barrio+habitaciones,5.83,Media rentabilidad
+Idealista,111173623,Barcelona,El Poble-sec,244098,Piso,1.0,74.0,0.0,249000.0,188.68,0.3245,1-barrio+habitaciones,5.83,Media rentabilidad
+Idealista,110771176,Barcelona,El Fort Pienc,224086,Piso,3.0,69.0,3.0,390000.0,296.8,0.3228,1-barrio+habitaciones,5.83,Media rentabilidad
+Idealista,110060741,Barcelona,El Poble-sec,244098,Estudio,1.0,45.0,1.0,249000.0,188.68,0.3245,1-barrio+habitaciones,5.83,Media rentabilidad
+Idealista,110537253,Barcelona,El Fort Pienc,224086,Piso,3.0,100.0,3.0,390000.0,296.8,0.3228,1-barrio+habitaciones,5.83,Media rentabilidad
+Idealista,110753116,Barcelona,Sant Antoni,224240,Piso,1.0,56.0,0.5,265000.0,216.24,0.3007,1-barrio+habitaciones,5.82,Media rentabilidad
+Fotocasa,189130701,Barcelona,El Poble-sec,244098,Piso,3.0,65.0,2.0,214470.0,162.18,0.3245,1-barrio+habitaciones,5.82,Media rentabilidad
+Idealista,110015008,Barcelona,Sants,244252,Dúplex,3.0,96.0,0.0,282000.0,207.76,0.3327,1-barrio+habitaciones,5.82,Media rentabilidad
+Idealista,110795714,Barcelona,El Poble-sec,244098,Piso,1.0,66.0,4.0,250000.0,188.68,0.3245,1-barrio+habitaciones,5.81,Media rentabilidad
+Idealista,111321362,Barcelona,El Poble-sec,244098,Piso,1.0,50.0,2.0,250000.0,188.68,0.3245,1-barrio+habitaciones,5.81,Media rentabilidad
+Idealista,110611019,Barcelona,El Poble-sec,244098,Estudio,1.0,45.0,1.0,250000.0,188.68,0.3245,1-barrio+habitaciones,5.81,Media rentabilidad
+Fotocasa,189150248,Barcelona,El Poble-sec,244098,Piso,2.0,56.0,0.0,273900.0,205.64,0.3245,1-barrio+habitaciones,5.78,Media rentabilidad
+Idealista,111130740,Barcelona,El Fort Pienc,224086,Piso,2.0,90.0,,320000.0,241.68,0.3228,1-barrio+habitaciones,5.78,Media rentabilidad
+Idealista,110372960,Madrid,Sol,109256,Piso,4.0,114.0,10.0,365000.0,370.6,0.3349,1-barrio+habitaciones,8.07,Media rentabilidad
+Idealista,110122631,Madrid,Sol,109256,Piso,4.0,112.0,2.0,370000.0,370.6,0.3349,1-barrio+habitaciones,7.96,Media rentabilidad
+Idealista,111311129,Madrid,Sol,109256,Piso,4.0,120.0,4.0,380000.0,370.6,0.3349,1-barrio+habitaciones,7.75,Media rentabilidad
+Idealista,111290560,Madrid,Sol,109256,Piso,3.0,55.0,,249999.0,243.52499999999998,0.3349,1-barrio+habitaciones,7.74,Media rentabilidad
+Fotocasa,188169863,Madrid,Cortes,109064,Piso,3.0,61.0,0.0,230000.0,214.2,0.3395,1-barrio+habitaciones,7.5,Media rentabilidad
+Idealista,110514569,Madrid,Sol,109256,Piso,3.0,67.0,5.0,273000.0,243.52499999999998,0.3349,1-barrio+habitaciones,7.09,Media rentabilidad
+Fotocasa,189505951,Madrid,Sol,109256,Piso,2.0,57.0,,171490.0,151.3,0.3349,1-barrio+habitaciones,7.01,Media rentabilidad
+Idealista,111119901,Madrid,Sol,109256,Piso,3.0,108.0,3.0,290000.0,243.52499999999998,0.3349,1-barrio+habitaciones,6.67,Media rentabilidad
+Fotocasa,189456758,Madrid,Cortes,109064,Piso,3.0,84.0,0.0,259680.0,214.2,0.3395,1-barrio+habitaciones,6.64,Media rentabilidad
+Idealista,111187419,Madrid,Palacio,109201,Piso,3.0,60.0,4.0,210000.0,201.02499999999998,0.2914,1-barrio+habitaciones,6.62,Media rentabilidad
+Idealista,93595766,Madrid,Sol,109256,Ático,5.0,52.0,4.0,450000.0,370.6,0.3349,1-barrio+habitaciones,6.54,Media rentabilidad
+Idealista,109931058,Madrid,Sol,109256,Piso,3.0,77.0,2.0,310000.0,243.52499999999998,0.3349,1-barrio+habitaciones,6.24,Media rentabilidad
+Idealista,111160849,Madrid,Palacio,109201,Piso,2.0,55.0,3.0,166000.0,149.6,0.2914,1-barrio+habitaciones,6.23,Media rentabilidad
+Idealista,108792498,Madrid,Universidad,109265,Piso,4.0,153.0,0.0,430000.0,386.325,0.286,1-barrio+habitaciones,6.1,Media rentabilidad
+Idealista,110917425,Madrid,Palacio,109201,Piso,3.0,60.0,4.0,230000.0,201.02499999999998,0.2914,1-barrio+habitaciones,6.04,Media rentabilidad
+Fotocasa,187703729,Madrid,Embajadores,109106,Piso,2.0,42.0,2.0,155000.0,127.5,0.3064,1-barrio+habitaciones,5.98,Media rentabilidad
+Idealista,110793876,Madrid,Sol,109256,Piso,4.0,114.0,5.0,498000.0,370.6,0.3349,1-barrio+habitaciones,5.91,Media rentabilidad
+Idealista,111360291,Madrid,Embajadores,109106,Piso,5.0,91.0,2.0,382200.0,296.225,0.3064,1-barrio+habitaciones,5.63,Media rentabilidad
+Idealista,108632251,Madrid,Universidad,109265,Piso,4.0,84.0,0.0,475000.0,386.325,0.286,1-barrio+habitaciones,5.52,Media rentabilidad
+Fotocasa,189464767,Madrid,Sol,109256,Piso,2.0,56.0,3.0,220000.0,151.3,0.3349,1-barrio+habitaciones,5.46,Media rentabilidad
+Idealista,109896640,Madrid,Universidad,109265,Dúplex,4.0,80.0,0.0,480000.0,386.325,0.286,1-barrio+habitaciones,5.46,Media rentabilidad
+Idealista,110675482,Madrid,Sol,109256,Piso,3.0,85.0,3.0,354900.0,243.52499999999998,0.3349,1-barrio+habitaciones,5.45,Media rentabilidad
+Idealista,111327475,Madrid,Palacio,109201,Piso,2.0,74.0,3.0,190000.0,149.6,0.2914,1-barrio+habitaciones,5.44,Media rentabilidad
+Idealista,109426181,Madrid,Universidad,109265,Piso,4.0,119.0,0.0,485000.0,386.325,0.286,1-barrio+habitaciones,5.4,Media rentabilidad
+Idealista,110667500,Madrid,Embajadores,109106,Piso,4.0,65.0,1.0,400000.0,296.225,0.3064,1-barrio+habitaciones,5.38,Media rentabilidad
+Idealista,111203595,Madrid,Palacio,109201,Piso,3.0,70.0,4.0,260000.0,201.02499999999998,0.2914,1-barrio+habitaciones,5.35,Media rentabilidad
+Idealista,111361856,Madrid,Palacio,109201,Piso,4.0,82.0,1.0,350000.0,270.725,0.2914,1-barrio+habitaciones,5.35,Media rentabilidad
+Idealista,111048650,Madrid,Palacio,109201,Piso,3.0,60.0,1.0,260000.0,201.02499999999998,0.2914,1-barrio+habitaciones,5.35,Media rentabilidad
+Idealista,110730358,Madrid,Palacio,109201,Piso,2.0,69.0,2.0,194000.0,149.6,0.2914,1-barrio+habitaciones,5.33,Media rentabilidad
+Idealista,110482150,Madrid,Palacio,109201,Piso,3.0,84.0,0.0,263000.0,201.02499999999998,0.2914,1-barrio+habitaciones,5.28,Media rentabilidad
+Idealista,110540221,Madrid,Sol,109256,Piso,3.0,100.0,3.0,369900.0,243.52499999999998,0.3349,1-barrio+habitaciones,5.23,Media rentabilidad
+Idealista,111389069,Madrid,Palacio,109201,Piso,3.0,55.0,4.0,270000.0,201.02499999999998,0.2914,1-barrio+habitaciones,5.15,Media rentabilidad
+Fotocasa,189029821,Madrid,Embajadores,109106,Piso,4.0,84.0,1.0,420000.0,296.225,0.3064,1-barrio+habitaciones,5.13,Media rentabilidad
+Idealista,111371614,Madrid,Sol,109256,Piso,3.0,123.0,2.0,380000.0,243.52499999999998,0.3349,1-barrio+habitaciones,5.09,Media rentabilidad
+Fotocasa,162068884,Madrid,Sol,109256,Piso,4.0,166.0,,580000.0,370.6,0.3349,1-barrio+habitaciones,5.08,Media rentabilidad
+Idealista,111335662,Madrid,Palacio,109201,Piso,3.0,56.0,2.0,275000.0,201.02499999999998,0.2914,1-barrio+habitaciones,5.05,Media rentabilidad
+Idealista,111044951,Madrid,Embajadores,109106,Piso,4.0,73.0,4.0,428000.0,296.225,0.3064,1-barrio+habitaciones,5.03,Media rentabilidad
+Idealista,110636595,Madrid,Sol,109256,Piso,3.0,122.0,2.0,385000.0,243.52499999999998,0.3349,1-barrio+habitaciones,5.03,Media rentabilidad
+Idealista,110734605,Madrid,Sol,109256,Piso,3.0,123.0,2.0,385000.0,243.52499999999998,0.3349,1-barrio+habitaciones,5.03,Media rentabilidad
+Idealista,110730373,Madrid,Palacio,109201,Piso,2.0,65.0,3.0,206000.0,149.6,0.2914,1-barrio+habitaciones,5.02,Media rentabilidad
+Idealista,107835962,Madrid,Universidad,109265,Piso,4.0,87.0,4.0,525000.0,386.325,0.286,1-barrio+habitaciones,4.99,Baja rentabilidad
+Fotocasa,189509298,Madrid,Sol,109256,Piso,3.0,46.0,,392000.0,243.52499999999998,0.3349,1-barrio+habitaciones,4.94,Baja rentabilidad
+Idealista,111413459,Madrid,Palacio,109201,Piso,3.0,75.0,2.0,285000.0,201.02499999999998,0.2914,1-barrio+habitaciones,4.88,Baja rentabilidad
+Fotocasa,189530561,Madrid,Pacífico,139200,Piso,2.0,51.0,4.0,150000.0,127.5,0.2411,1-barrio+habitaciones,4.86,Baja rentabilidad
+Idealista,110923993,Madrid,Sol,109256,Piso,3.0,102.0,6.0,405000.0,243.52499999999998,0.3349,1-barrio+habitaciones,4.78,Baja rentabilidad
+Idealista,110713800,Madrid,Palos de la Frontera,102205,Piso,2.0,40.0,0.0,210000.0,121.55,0.3429,1-barrio+habitaciones,4.71,Baja rentabilidad
+Idealista,111366394,Madrid,Palacio,109201,Piso,4.0,75.0,0.0,400000.0,270.725,0.2914,1-barrio+habitaciones,4.68,Baja rentabilidad
+Idealista,109768714,Madrid,Embajadores,109106,Dúplex,2.0,80.0,0.0,200000.0,127.5,0.3064,1-barrio+habitaciones,4.63,Baja rentabilidad
+Idealista,111281650,Madrid,Sol,109256,Piso,1.0,35.0,-2.0,195000.0,112.2,0.3349,1-barrio+habitaciones,4.57,Baja rentabilidad
+Idealista,111388924,Madrid,Sol,109256,Piso,3.0,70.0,1.0,425000.0,243.52499999999998,0.3349,1-barrio+habitaciones,4.55,Baja rentabilidad
+Fotocasa,186304036,Madrid,Justicia,109130,Dúplex,5.0,70.0,1.0,469000.0,342.975,0.2602,1-barrio+habitaciones,4.51,Baja rentabilidad
+Fotocasa,189348467,Madrid,Embajadores,109106,Piso,4.0,111.0,1.0,480000.0,296.225,0.3064,1-barrio+habitaciones,4.49,Baja rentabilidad
+Fotocasa,189424632,Madrid,Acacias,102002,Piso,1.0,37.0,,143100.0,84.15,0.3209,1-barrio+habitaciones,4.48,Baja rentabilidad
+Idealista,110607157,Madrid,Cortes,109064,Piso,3.0,115.0,3.0,385000.0,214.2,0.3395,1-barrio+habitaciones,4.48,Baja rentabilidad
+Idealista,109956025,Madrid,Embajadores,109106,Piso,3.0,87.0,0.0,295000.0,181.9,0.3064,1-barrio+habitaciones,4.48,Baja rentabilidad
+Idealista,108445721,Madrid,Embajadores,109106,Piso,2.0,42.0,1.0,208000.0,127.5,0.3064,1-barrio+habitaciones,4.46,Baja rentabilidad
+Idealista,111072827,Madrid,Sol,109256,Ático,2.0,70.0,6.0,270000.0,151.3,0.3349,1-barrio+habitaciones,4.45,Baja rentabilidad
+Idealista,109919624,Madrid,Sol,109256,Dúplex,3.0,124.0,0.0,435000.0,243.52499999999998,0.3349,1-barrio+habitaciones,4.45,Baja rentabilidad
+Idealista,110632226,Madrid,Embajadores,109106,Piso,2.0,43.0,0.0,210000.0,127.5,0.3064,1-barrio+habitaciones,4.41,Baja rentabilidad
+Idealista,110482188,Madrid,Palacio,109201,Ático,4.0,98.0,4.0,424000.0,270.725,0.2914,1-barrio+habitaciones,4.41,Baja rentabilidad
+Fotocasa,189114538,Madrid,Universidad,109265,Piso,2.0,41.0,,229000.0,148.75,0.286,1-barrio+habitaciones,4.41,Baja rentabilidad
+Idealista,110944462,Madrid,Sol,109256,Piso,3.0,102.0,3.0,439900.0,243.52499999999998,0.3349,1-barrio+habitaciones,4.4,Baja rentabilidad
+Idealista,106892529,Madrid,Sol,109256,Piso,2.0,50.0,0.0,275000.0,151.3,0.3349,1-barrio+habitaciones,4.37,Baja rentabilidad
+Idealista,109653206,Madrid,Sol,109256,Piso,2.0,94.0,5.0,275000.0,151.3,0.3349,1-barrio+habitaciones,4.37,Baja rentabilidad
+Idealista,109218993,Madrid,Sol,109256,Ático,4.0,148.0,7.0,679000.0,370.6,0.3349,1-barrio+habitaciones,4.34,Baja rentabilidad
+Fotocasa,189448416,Madrid,Comillas,108061,Piso,3.0,86.0,4.0,275000.0,153.0,0.3283,1-barrio+habitaciones,4.33,Baja rentabilidad
+Idealista,111007032,Madrid,Embajadores,109106,Piso,1.0,35.0,0.0,147000.0,87.55,0.3064,1-barrio+habitaciones,4.33,Baja rentabilidad
+Idealista,111389327,Madrid,Sol,109256,Piso,3.0,91.0,1.0,449000.0,243.52499999999998,0.3349,1-barrio+habitaciones,4.31,Baja rentabilidad
+Idealista,109633638,Madrid,Sol,109256,Ático,1.0,47.0,6.0,208000.0,112.2,0.3349,1-barrio+habitaciones,4.29,Baja rentabilidad
+Idealista,110930292,Madrid,Palacio,109201,Piso,3.0,90.0,0.5,327000.0,201.02499999999998,0.2914,1-barrio+habitaciones,4.25,Baja rentabilidad
+Idealista,110482216,Madrid,Palacio,109201,Ático,3.0,87.0,4.0,328000.0,201.02499999999998,0.2914,1-barrio+habitaciones,4.24,Baja rentabilidad
+Fotocasa,188739131,Madrid,Cortes,109064,Piso,3.0,62.0,4.0,409000.0,214.2,0.3395,1-barrio+habitaciones,4.22,Baja rentabilidad
+Idealista,110995756,Madrid,Palacio,109201,Piso,3.0,95.0,0.0,330000.0,201.02499999999998,0.2914,1-barrio+habitaciones,4.21,Baja rentabilidad
+Fotocasa,187670397,Madrid,Recoletos,140225,Piso,4.0,84.0,,475000.0,347.65,0.2427,1-barrio+habitaciones,4.21,Baja rentabilidad
+Fotocasa,189076162,Madrid,Embajadores,109106,Piso,3.0,77.0,0.0,315000.0,181.9,0.3064,1-barrio+habitaciones,4.2,Baja rentabilidad
+Idealista,111238935,Madrid,Sol,109256,Piso,3.0,80.0,1.0,465000.0,243.52499999999998,0.3349,1-barrio+habitaciones,4.16,Baja rentabilidad
+Idealista,111345339,Madrid,Palos de la Frontera,102205,Piso,2.0,63.0,0.0,239000.0,121.55,0.3429,1-barrio+habitaciones,4.14,Baja rentabilidad
+Fotocasa,189343211,Madrid,Embajadores,109106,Piso,2.0,46.0,4.0,225000.0,127.5,0.3064,1-barrio+habitaciones,4.12,Baja rentabilidad
+Idealista,111365745,Madrid,Embajadores,109106,Piso,3.0,60.0,0.0,325000.0,181.9,0.3064,1-barrio+habitaciones,4.07,Baja rentabilidad
+Idealista,111363350,Madrid,Embajadores,109106,Piso,6.0,97.0,1.0,530000.0,296.225,0.3064,1-barrio+habitaciones,4.06,Baja rentabilidad
+Idealista,111268804,Madrid,Palacio,109201,Piso,2.0,60.0,2.0,255000.0,149.6,0.2914,1-barrio+habitaciones,4.06,Baja rentabilidad
+Idealista,111322580,Madrid,Palacio,109201,Piso,2.0,64.0,4.0,255000.0,149.6,0.2914,1-barrio+habitaciones,4.06,Baja rentabilidad
+Fotocasa,188827976,Madrid,Universidad,109265,Piso,2.0,56.0,0.0,249000.0,148.75,0.286,1-barrio+habitaciones,4.05,Baja rentabilidad
+Idealista,111290243,Madrid,Sol,109256,Piso,1.0,48.0,0.0,220000.0,112.2,0.3349,1-barrio+habitaciones,4.05,Baja rentabilidad
+Idealista,97993321,Madrid,Embajadores,109106,Piso,2.0,37.0,1.0,229000.0,127.5,0.3064,1-barrio+habitaciones,4.05,Baja rentabilidad
+Idealista,111290541,Madrid,Palacio,109201,Piso,3.0,75.0,1.0,345000.0,201.02499999999998,0.2914,1-barrio+habitaciones,4.03,Baja rentabilidad
+Idealista,109835596,Madrid,Sol,109256,Piso,3.0,92.0,1.0,480000.0,243.52499999999998,0.3349,1-barrio+habitaciones,4.03,Baja rentabilidad
+Idealista,108743156,Madrid,Embajadores,109106,Ático,3.0,60.0,5.0,330000.0,181.9,0.3064,1-barrio+habitaciones,4.01,Baja rentabilidad
+Idealista,111223225,Madrid,Embajadores,109106,Piso,3.0,59.0,0.0,330000.0,181.9,0.3064,1-barrio+habitaciones,4.01,Baja rentabilidad
+Fotocasa,186695841,Madrid,Recoletos,140225,Piso,4.0,51.0,,500000.0,347.65,0.2427,1-barrio+habitaciones,4.0,Baja rentabilidad
+Idealista,110534691,Madrid,Embajadores,109106,Piso,1.0,35.0,4.0,160000.0,87.55,0.3064,1-barrio+habitaciones,3.98,Baja rentabilidad
+Idealista,108850668,Madrid,Embajadores,109106,Estudio,1.0,46.0,,160000.0,87.55,0.3064,1-barrio+habitaciones,3.98,Baja rentabilidad
+Fotocasa,188746196,Madrid,Palacio,109201,Piso,3.0,77.0,1.0,350000.0,201.02499999999998,0.2914,1-barrio+habitaciones,3.97,Baja rentabilidad
+Idealista,111115149,Madrid,Palacio,109201,Piso,3.0,58.0,3.0,350000.0,201.02499999999998,0.2914,1-barrio+habitaciones,3.97,Baja rentabilidad
+Idealista,109851360,Madrid,Universidad,109265,Piso,5.0,130.0,1.0,660000.0,386.325,0.286,1-barrio+habitaciones,3.97,Baja rentabilidad
+Idealista,111227089,Madrid,Sol,109256,Piso,3.0,87.0,3.0,495000.0,243.52499999999998,0.3349,1-barrio+habitaciones,3.91,Baja rentabilidad
+Idealista,109167340,Madrid,Sol,109256,Piso,3.0,92.0,2.0,495000.0,243.52499999999998,0.3349,1-barrio+habitaciones,3.91,Baja rentabilidad
+Fotocasa,182652623,Madrid,Sol,109256,Piso,3.0,110.0,1.0,500000.0,243.52499999999998,0.3349,1-barrio+habitaciones,3.87,Baja rentabilidad
+Idealista,110460279,Madrid,Embajadores,109106,Piso,2.0,43.0,2.0,240000.0,127.5,0.3064,1-barrio+habitaciones,3.86,Baja rentabilidad
+Idealista,109465114,Madrid,Sol,109256,Piso,5.0,129.0,2.0,765000.0,370.6,0.3349,1-barrio+habitaciones,3.85,Baja rentabilidad
+Idealista,110961703,Madrid,Embajadores,109106,Piso,4.0,101.0,6.0,559000.0,296.225,0.3064,1-barrio+habitaciones,3.85,Baja rentabilidad
+Fotocasa,189345840,Madrid,Universidad,109265,Piso,4.0,85.0,,680000.0,386.325,0.286,1-barrio+habitaciones,3.85,Baja rentabilidad
+Idealista,111160617,Madrid,Universidad,109265,Piso,4.0,91.0,2.0,680000.0,386.325,0.286,1-barrio+habitaciones,3.85,Baja rentabilidad
+Idealista,109587791,Madrid,Embajadores,109106,Piso,3.0,101.0,0.0,345000.0,181.9,0.3064,1-barrio+habitaciones,3.83,Baja rentabilidad
+Fotocasa,187763713,Madrid,Justicia,109130,Piso,2.0,49.0,,265000.0,164.47500000000002,0.2602,1-barrio+habitaciones,3.83,Baja rentabilidad
+Idealista,111186433,Madrid,Sol,109256,Piso,4.0,108.0,4.0,770000.0,370.6,0.3349,1-barrio+habitaciones,3.82,Baja rentabilidad
+Idealista,110229295,Madrid,Sol,109256,Dúplex,1.0,45.0,4.0,235000.0,112.2,0.3349,1-barrio+habitaciones,3.79,Baja rentabilidad
+Idealista,111303836,Madrid,Embajadores,109106,Piso,2.0,45.0,1.0,245000.0,127.5,0.3064,1-barrio+habitaciones,3.78,Baja rentabilidad
+Fotocasa,189533961,Madrid,Comillas,108061,Piso,3.0,72.0,2.0,315000.0,153.0,0.3283,1-barrio+habitaciones,3.78,Baja rentabilidad
+Idealista,111192039,Madrid,Embajadores,109106,Piso,5.0,149.0,2.0,570000.0,296.225,0.3064,1-barrio+habitaciones,3.78,Baja rentabilidad
+Idealista,111257547,Madrid,Palacio,109201,Piso,3.0,57.0,3.0,369000.0,201.02499999999998,0.2914,1-barrio+habitaciones,3.77,Baja rentabilidad
+Idealista,107408881,Madrid,Universidad,109265,Piso,4.0,130.0,3.0,695000.0,386.325,0.286,1-barrio+habitaciones,3.77,Baja rentabilidad
+Fotocasa,188857024,Madrid,Fuente del Berro,140115,Piso,3.0,52.0,,312100.0,206.55,0.2395,1-barrio+habitaciones,3.76,Baja rentabilidad
+Fotocasa,188496432,Madrid,Justicia,109130,Piso,2.0,51.0,0.0,270000.0,164.47500000000002,0.2602,1-barrio+habitaciones,3.76,Baja rentabilidad
+Fotocasa,189348143,Madrid,Embajadores,109106,Planta Baja,2.0,68.0,,247000.0,127.5,0.3064,1-barrio+habitaciones,3.75,Baja rentabilidad
+Idealista,111083213,Madrid,Embajadores,109106,Piso,2.0,68.0,0.0,247000.0,127.5,0.3064,1-barrio+habitaciones,3.75,Baja rentabilidad
+Idealista,110482208,Madrid,Palacio,109201,Ático,2.0,72.0,4.0,276000.0,149.6,0.2914,1-barrio+habitaciones,3.75,Baja rentabilidad
+Idealista,111121469,Madrid,Universidad,109265,Piso,2.0,48.0,0.0,269999.0,148.75,0.286,1-barrio+habitaciones,3.74,Baja rentabilidad
+Fotocasa,189187906,Madrid,Embajadores,109106,Piso,2.0,48.0,1.0,248000.0,127.5,0.3064,1-barrio+habitaciones,3.74,Baja rentabilidad
+Idealista,111321269,Madrid,Embajadores,109106,Piso,4.0,72.0,1.0,577000.0,296.225,0.3064,1-barrio+habitaciones,3.73,Baja rentabilidad
+Idealista,110719118,Madrid,Sol,109256,Piso,5.0,178.0,4.0,790000.0,370.6,0.3349,1-barrio+habitaciones,3.73,Baja rentabilidad
+Fotocasa,184002845,Madrid,Pacífico,139200,Piso,3.0,97.0,,245000.0,159.8,0.2411,1-barrio+habitaciones,3.73,Baja rentabilidad
+Fotocasa,188738122,Madrid,Embajadores,109106,Piso,2.0,37.0,,249000.0,127.5,0.3064,1-barrio+habitaciones,3.72,Baja rentabilidad
+Idealista,110948782,Madrid,Embajadores,109106,Piso,3.0,75.0,0.0,355000.0,181.9,0.3064,1-barrio+habitaciones,3.72,Baja rentabilidad
+Fotocasa,187105652,Madrid,Embajadores,109106,Piso,2.0,52.0,0.0,250000.0,127.5,0.3064,1-barrio+habitaciones,3.71,Baja rentabilidad
+Idealista,111277723,Madrid,Universidad,109265,Piso,3.0,54.0,4.0,380000.0,207.4,0.286,1-barrio+habitaciones,3.7,Baja rentabilidad
+Idealista,109896089,Madrid,Universidad,109265,Piso,3.0,83.0,0.0,380000.0,207.4,0.286,1-barrio+habitaciones,3.7,Baja rentabilidad
+Idealista,110739085,Madrid,Universidad,109265,Piso,3.0,63.0,0.0,380000.0,207.4,0.286,1-barrio+habitaciones,3.7,Baja rentabilidad
+Idealista,111224428,Madrid,Embajadores,109106,Piso,3.0,64.0,-1.0,358000.0,181.9,0.3064,1-barrio+habitaciones,3.69,Baja rentabilidad
+Idealista,111391614,Madrid,Canillas,120040,Piso,3.0,60.0,4.0,250000.0,155.55,0.2493,1-barrio+habitaciones,3.68,Baja rentabilidad
+Idealista,110483667,Madrid,Cortes,109064,Piso,3.0,69.0,0.5,470000.0,214.2,0.3395,1-barrio+habitaciones,3.67,Baja rentabilidad
+Idealista,110149054,Madrid,Cortes,109064,Piso,3.0,99.0,0.0,470000.0,214.2,0.3395,1-barrio+habitaciones,3.67,Baja rentabilidad
+Idealista,111329327,Madrid,Universidad,109265,Piso,3.0,63.0,0.0,385000.0,207.4,0.286,1-barrio+habitaciones,3.66,Baja rentabilidad
+Idealista,109734009,Madrid,Pacífico,139200,Piso,3.0,91.0,-1.0,250000.0,159.8,0.2411,1-barrio+habitaciones,3.66,Baja rentabilidad
+Idealista,110981600,Madrid,Palacio,109201,Piso,3.0,74.0,4.0,380000.0,201.02499999999998,0.2914,1-barrio+habitaciones,3.66,Baja rentabilidad
+Fotocasa,188537710,Madrid,Pacífico,139200,Piso,3.0,92.0,0.0,250000.0,159.8,0.2411,1-barrio+habitaciones,3.66,Baja rentabilidad
+Idealista,111315969,Madrid,Universidad,109265,Piso,3.0,70.0,0.0,385000.0,207.4,0.286,1-barrio+habitaciones,3.66,Baja rentabilidad
+Idealista,110317949,Madrid,Sol,109256,Piso,1.0,64.0,2.0,245000.0,112.2,0.3349,1-barrio+habitaciones,3.64,Baja rentabilidad
+Fotocasa,188833812,Madrid,Embajadores,109106,Estudio,1.0,35.0,1.0,175000.0,87.55,0.3064,1-barrio+habitaciones,3.64,Baja rentabilidad
+Idealista,111117847,Madrid,Palacio,109201,Piso,2.0,35.0,0.0,285000.0,149.6,0.2914,1-barrio+habitaciones,3.63,Baja rentabilidad
+Fotocasa,189164330,Madrid,Palacio,109201,Piso,2.0,43.0,2.0,285000.0,149.6,0.2914,1-barrio+habitaciones,3.63,Baja rentabilidad
+Idealista,110482085,Madrid,Palacio,109201,Ático,2.0,65.0,4.0,286000.0,149.6,0.2914,1-barrio+habitaciones,3.62,Baja rentabilidad
+Idealista,110812378,Madrid,Embajadores,109106,Piso,2.0,57.0,0.0,258000.0,127.5,0.3064,1-barrio+habitaciones,3.59,Baja rentabilidad
+Idealista,110909224,Madrid,Embajadores,109106,Piso,4.0,143.0,1.0,599000.0,296.225,0.3064,1-barrio+habitaciones,3.59,Baja rentabilidad
+Idealista,111203203,Madrid,Embajadores,109106,Piso,2.0,46.0,2.0,259900.0,127.5,0.3064,1-barrio+habitaciones,3.57,Baja rentabilidad
+Fotocasa,182920291,Madrid,Embajadores,109106,Piso,2.0,84.0,,260000.0,127.5,0.3064,1-barrio+habitaciones,3.56,Baja rentabilidad
+Idealista,109161971,Madrid,Cortes,109064,Piso,4.0,146.0,0.0,875000.0,385.9,0.3395,1-barrio+habitaciones,3.55,Baja rentabilidad
+Fotocasa,188728032,Madrid,Cortes,109064,Loft,4.0,146.0,,875000.0,385.9,0.3395,1-barrio+habitaciones,3.55,Baja rentabilidad
+Idealista,110859849,Madrid,Universidad,109265,Piso,4.0,90.0,1.0,740000.0,386.325,0.286,1-barrio+habitaciones,3.54,Baja rentabilidad
+Fotocasa,188727494,Madrid,Pacífico,139200,Piso,4.0,50.0,1.0,550000.0,340.0,0.2411,1-barrio+habitaciones,3.54,Baja rentabilidad
+Fotocasa,161927575,Madrid,Embajadores,109106,Piso,3.0,62.0,1.0,375000.0,181.9,0.3064,1-barrio+habitaciones,3.53,Baja rentabilidad
+Fotocasa,188489698,Madrid,Palos de la Frontera,102205,Piso,2.0,45.0,,280000.0,121.55,0.3429,1-barrio+habitaciones,3.53,Baja rentabilidad
+Fotocasa,189534139,Madrid,Comillas,108061,Piso,3.0,76.0,2.0,339000.0,153.0,0.3283,1-barrio+habitaciones,3.52,Baja rentabilidad
+Idealista,110947096,Madrid,Cortes,109064,Piso,3.0,79.0,0.0,490000.0,214.2,0.3395,1-barrio+habitaciones,3.52,Baja rentabilidad
+Idealista,110647404,Madrid,Sol,109256,Piso,1.0,64.0,3.0,255000.0,112.2,0.3349,1-barrio+habitaciones,3.5,Baja rentabilidad
+Idealista,107226333,Madrid,Justicia,109130,Piso,2.0,38.0,0.0,290000.0,164.47500000000002,0.2602,1-barrio+habitaciones,3.5,Baja rentabilidad
+Fotocasa,188554130,Madrid,Cortes,109064,Piso,4.0,116.0,2.0,890000.0,385.9,0.3395,1-barrio+habitaciones,3.49,Baja rentabilidad
+Idealista,110107324,Madrid,Cortes,109064,Piso,3.0,83.0,4.0,495000.0,214.2,0.3395,1-barrio+habitaciones,3.49,Baja rentabilidad
+Idealista,109775304,Madrid,Universidad,109265,Piso,2.0,43.0,2.0,290000.0,148.75,0.286,1-barrio+habitaciones,3.48,Baja rentabilidad
+Fotocasa,189571364,Madrid,Embajadores,109106,Piso,4.0,105.0,4.0,619000.0,296.225,0.3064,1-barrio+habitaciones,3.48,Baja rentabilidad
+Idealista,110438977,Madrid,Sol,109256,Piso,4.0,110.0,3.0,845000.0,370.6,0.3349,1-barrio+habitaciones,3.48,Baja rentabilidad
+Idealista,111236999,Madrid,Palacio,109201,Piso,2.0,60.0,4.0,298000.0,149.6,0.2914,1-barrio+habitaciones,3.47,Baja rentabilidad
+Idealista,111339566,Madrid,Sol,109256,Piso,1.0,60.0,5.0,258000.0,112.2,0.3349,1-barrio+habitaciones,3.46,Baja rentabilidad
+Idealista,109026649,Madrid,Universidad,109265,Piso,2.0,60.0,-1.0,292000.0,148.75,0.286,1-barrio+habitaciones,3.46,Baja rentabilidad
+Idealista,109202471,Madrid,Sol,109256,Piso,4.0,104.0,2.0,850000.0,370.6,0.3349,1-barrio+habitaciones,3.46,Baja rentabilidad
+Idealista,110304303,Madrid,Cortes,109064,Piso,4.0,116.0,2.0,899000.0,385.9,0.3395,1-barrio+habitaciones,3.46,Baja rentabilidad
+Idealista,111200131,Madrid,Embajadores,109106,Piso,4.0,121.0,3.0,625000.0,296.225,0.3064,1-barrio+habitaciones,3.45,Baja rentabilidad
+Idealista,111349866,Madrid,Embajadores,109106,Piso,2.0,50.0,3.0,269000.0,127.5,0.3064,1-barrio+habitaciones,3.45,Baja rentabilidad
+Fotocasa,186400775,Madrid,Embajadores,109106,Piso,5.0,124.0,3.0,625000.0,296.225,0.3064,1-barrio+habitaciones,3.45,Baja rentabilidad
+Idealista,109316465,Madrid,Universidad,109265,Dúplex,2.0,60.0,0.0,293000.0,148.75,0.286,1-barrio+habitaciones,3.44,Baja rentabilidad
+Idealista,110993862,Madrid,Embajadores,109106,Piso,1.0,40.0,0.0,185000.0,87.55,0.3064,1-barrio+habitaciones,3.44,Baja rentabilidad
+Idealista,105243946,Madrid,Embajadores,109106,Piso,1.0,36.0,0.0,185300.0,87.55,0.3064,1-barrio+habitaciones,3.43,Baja rentabilidad
+Idealista,111172063,Madrid,Embajadores,109106,Piso,2.0,44.0,1.0,270000.0,127.5,0.3064,1-barrio+habitaciones,3.43,Baja rentabilidad
+Idealista,103656921,Madrid,Cortes,109064,Piso,2.0,58.0,4.0,335000.0,142.8,0.3395,1-barrio+habitaciones,3.43,Baja rentabilidad
+Idealista,111360186,Madrid,Palos de la Frontera,102205,Piso,3.0,60.0,1.0,380000.0,159.8,0.3429,1-barrio+habitaciones,3.42,Baja rentabilidad
+Fotocasa,189574865,Madrid,Universidad,109265,Piso,2.0,45.0,,295000.0,148.75,0.286,1-barrio+habitaciones,3.42,Baja rentabilidad
+Idealista,110706184,Madrid,Canillas,120040,Piso,3.0,72.0,4.0,269000.0,155.55,0.2493,1-barrio+habitaciones,3.42,Baja rentabilidad
+Idealista,109772825,Madrid,Universidad,109265,Piso,2.0,40.0,0.0,295000.0,148.75,0.286,1-barrio+habitaciones,3.42,Baja rentabilidad
+Fotocasa,188056906,Madrid,Universidad,109265,Planta Baja,2.0,40.0,,295000.0,148.75,0.286,1-barrio+habitaciones,3.42,Baja rentabilidad
+Idealista,111402684,Madrid,Palos de la Frontera,102205,Piso,2.0,38.0,0.0,290000.0,121.55,0.3429,1-barrio+habitaciones,3.41,Baja rentabilidad
+Fotocasa,189475231,Madrid,Comillas,108061,Piso,3.0,111.0,1.0,349000.0,153.0,0.3283,1-barrio+habitaciones,3.41,Baja rentabilidad
+Idealista,110604921,Madrid,Sol,109256,Piso,3.0,100.0,1.0,570000.0,243.52499999999998,0.3349,1-barrio+habitaciones,3.39,Baja rentabilidad
+Fotocasa,188744293,Madrid,Embajadores,109106,Piso,3.0,75.0,,390000.0,181.9,0.3064,1-barrio+habitaciones,3.39,Baja rentabilidad
+Idealista,104233820,Madrid,Universidad,109265,Piso,4.0,96.0,3.0,775000.0,386.325,0.286,1-barrio+habitaciones,3.38,Baja rentabilidad
+Idealista,96815685,Madrid,Cortes,109064,Piso,3.0,121.0,2.0,510000.0,214.2,0.3395,1-barrio+habitaciones,3.38,Baja rentabilidad
+Fotocasa,189297999,Madrid,Comillas,108061,Piso,3.0,77.0,2.0,353000.0,153.0,0.3283,1-barrio+habitaciones,3.38,Baja rentabilidad
+Idealista,109164908,Madrid,Universidad,109265,Piso,2.0,82.0,-1.0,299000.0,148.75,0.286,1-barrio+habitaciones,3.38,Baja rentabilidad
+Idealista,27177892,Madrid,Acacias,102002,Estudio,1.0,35.0,3.0,190000.0,84.15,0.3209,1-barrio+habitaciones,3.37,Baja rentabilidad
+Idealista,107001516,Madrid,Acacias,102002,Piso,2.0,51.0,-2.0,221000.0,97.75,0.3209,1-barrio+habitaciones,3.37,Baja rentabilidad
+Fotocasa,189228396,Madrid,Embajadores,109106,Ático,1.0,35.0,,189000.0,87.55,0.3064,1-barrio+habitaciones,3.37,Baja rentabilidad
+Idealista,110526659,Madrid,Embajadores,109106,Piso,1.0,35.0,2.0,189000.0,87.55,0.3064,1-barrio+habitaciones,3.37,Baja rentabilidad
+Idealista,111043847,Madrid,Sol,109256,Piso,1.0,57.0,5.0,265000.0,112.2,0.3349,1-barrio+habitaciones,3.36,Baja rentabilidad
+Idealista,110946155,Madrid,Universidad,109265,Piso,2.0,46.0,3.0,300000.0,148.75,0.286,1-barrio+habitaciones,3.36,Baja rentabilidad
+Fotocasa,188966360,Madrid,Canillas,120040,Piso,3.0,64.0,4.0,275000.0,155.55,0.2493,1-barrio+habitaciones,3.35,Baja rentabilidad
+Idealista,111061250,Madrid,Embajadores,109106,Piso,3.0,65.0,3.0,395000.0,181.9,0.3064,1-barrio+habitaciones,3.35,Baja rentabilidad
+Idealista,110886004,Madrid,Sol,109256,Ático,4.0,108.0,5.0,880000.0,370.6,0.3349,1-barrio+habitaciones,3.35,Baja rentabilidad
+Idealista,109915267,Madrid,Embajadores,109106,Piso,3.0,47.0,4.0,395000.0,181.9,0.3064,1-barrio+habitaciones,3.35,Baja rentabilidad
+Idealista,110895486,Madrid,Embajadores,109106,Piso,1.0,45.0,,190900.0,87.55,0.3064,1-barrio+habitaciones,3.33,Baja rentabilidad
+Idealista,111212160,Madrid,Cortes,109064,Piso,5.0,148.0,3.0,935000.0,385.9,0.3395,1-barrio+habitaciones,3.32,Baja rentabilidad
+Idealista,110909661,Madrid,Embajadores,109106,Piso,2.0,54.0,0.0,279000.0,127.5,0.3064,1-barrio+habitaciones,3.32,Baja rentabilidad
+Idealista,109603588,Madrid,Embajadores,109106,Piso,2.0,52.0,3.0,279000.0,127.5,0.3064,1-barrio+habitaciones,3.32,Baja rentabilidad
+Fotocasa,187992326,Madrid,Comillas,108061,Piso,3.0,89.0,3.0,359900.0,153.0,0.3283,1-barrio+habitaciones,3.31,Baja rentabilidad
+Idealista,108236597,Madrid,Embajadores,109106,Piso,2.0,56.0,0.0,280000.0,127.5,0.3064,1-barrio+habitaciones,3.31,Baja rentabilidad
+Fotocasa,188990060,Madrid,Embajadores,109106,Piso,4.0,94.0,4.0,650000.0,296.225,0.3064,1-barrio+habitaciones,3.31,Baja rentabilidad
+Fotocasa,187724866,Madrid,Embajadores,109106,Piso,3.0,70.0,15.0,399000.0,181.9,0.3064,1-barrio+habitaciones,3.31,Baja rentabilidad
+Fotocasa,189221474,Madrid,Embajadores,109106,Piso,4.0,109.0,1.0,650000.0,296.225,0.3064,1-barrio+habitaciones,3.31,Baja rentabilidad
+Idealista,111380736,Madrid,Embajadores,109106,Piso,3.0,59.0,3.0,399000.0,181.9,0.3064,1-barrio+habitaciones,3.31,Baja rentabilidad
+Idealista,111135413,Madrid,Embajadores,109106,Piso,3.0,77.0,3.0,399900.0,181.9,0.3064,1-barrio+habitaciones,3.31,Baja rentabilidad
+Idealista,107426467,Madrid,Embajadores,109106,Piso,6.0,112.0,4.0,649600.0,296.225,0.3064,1-barrio+habitaciones,3.31,Baja rentabilidad
+Fotocasa,189590780,Madrid,Palos de la Frontera,102205,Piso,2.0,48.0,3.0,299000.0,121.55,0.3429,1-barrio+habitaciones,3.31,Baja rentabilidad
+Fotocasa,189589814,Madrid,Palacio,109201,Piso,2.0,43.0,,312000.0,149.6,0.2914,1-barrio+habitaciones,3.31,Baja rentabilidad
+Idealista,109953886,Madrid,Embajadores,109106,Piso,4.0,106.0,1.0,650000.0,296.225,0.3064,1-barrio+habitaciones,3.31,Baja rentabilidad
+Idealista,111227416,Madrid,Universidad,109265,Piso,2.0,41.0,1.0,306000.0,148.75,0.286,1-barrio+habitaciones,3.3,Baja rentabilidad
+Idealista,111340841,Madrid,Palos de la Frontera,102205,Piso,2.0,38.0,4.0,300000.0,121.55,0.3429,1-barrio+habitaciones,3.3,Baja rentabilidad
+Fotocasa,189189746,Madrid,Palos de la Frontera,102205,Piso,2.0,46.0,1.0,300000.0,121.55,0.3429,1-barrio+habitaciones,3.3,Baja rentabilidad
+Idealista,111022946,Madrid,Cortes,109064,Piso,2.0,80.0,6.0,349000.0,142.8,0.3395,1-barrio+habitaciones,3.3,Baja rentabilidad
+Idealista,109548808,Madrid,Embajadores,109106,Piso,4.0,133.0,1.0,655000.0,296.225,0.3064,1-barrio+habitaciones,3.29,Baja rentabilidad
+Fotocasa,182800989,Madrid,Cortes,109064,Piso,8.0,226.0,,949000.0,385.9,0.3395,1-barrio+habitaciones,3.28,Baja rentabilidad
+Idealista,110700883,Madrid,Justicia,109130,Piso,2.0,42.0,4.0,310000.0,164.47500000000002,0.2602,1-barrio+habitaciones,3.28,Baja rentabilidad
+Idealista,110265049,Madrid,Universidad,109265,Piso,3.0,56.0,4.0,430000.0,207.4,0.286,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,108826473,Madrid,Cortes,109064,Piso,4.0,173.0,1.0,950000.0,385.9,0.3395,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,95635303,Madrid,Embajadores,109106,Piso,3.0,65.0,3.0,405000.0,181.9,0.3064,1-barrio+habitaciones,3.26,Baja rentabilidad
+Idealista,110677037,Madrid,Embajadores,109106,Piso,4.0,87.0,1.0,660000.0,296.225,0.3064,1-barrio+habitaciones,3.26,Baja rentabilidad
+Idealista,111340037,Madrid,Embajadores,109106,Piso,1.0,41.0,,195000.0,87.55,0.3064,1-barrio+habitaciones,3.26,Baja rentabilidad
+Fotocasa,187975897,Madrid,Palacio,109201,Piso,2.0,38.0,0.0,319000.0,149.6,0.2914,1-barrio+habitaciones,3.24,Baja rentabilidad
+Idealista,111328666,Madrid,Palos de la Frontera,102205,Piso,2.0,36.0,3.0,305000.0,121.55,0.3429,1-barrio+habitaciones,3.24,Baja rentabilidad
+Idealista,110261057,Madrid,Palacio,109201,Piso,2.0,70.0,2.0,320000.0,149.6,0.2914,1-barrio+habitaciones,3.23,Baja rentabilidad
+Fotocasa,188928262,Madrid,Comillas,108061,Piso,3.0,60.0,4.0,370000.0,153.0,0.3283,1-barrio+habitaciones,3.22,Baja rentabilidad
+Fotocasa,186647755,Madrid,Universidad,109265,Piso,4.0,95.0,3.0,820000.0,386.325,0.286,1-barrio+habitaciones,3.2,Baja rentabilidad
+Idealista,111316569,Madrid,Embajadores,109106,Piso,2.0,36.0,2.0,290000.0,127.5,0.3064,1-barrio+habitaciones,3.2,Baja rentabilidad
+Idealista,111085182,Madrid,Embajadores,109106,Piso,2.0,60.0,0.0,290000.0,127.5,0.3064,1-barrio+habitaciones,3.2,Baja rentabilidad
+Idealista,111267829,Madrid,Sol,109256,Piso,2.0,60.0,3.0,376000.0,151.3,0.3349,1-barrio+habitaciones,3.2,Baja rentabilidad
+Fotocasa,188644093,Madrid,Sol,109256,Piso,2.0,56.0,3.0,376000.0,151.3,0.3349,1-barrio+habitaciones,3.2,Baja rentabilidad
+Idealista,109987884,Madrid,Embajadores,109106,Piso,2.0,55.0,2.0,290000.0,127.5,0.3064,1-barrio+habitaciones,3.2,Baja rentabilidad
+Idealista,110873625,Madrid,Universidad,109265,Piso,1.0,35.0,0.0,210000.0,98.6,0.286,1-barrio+habitaciones,3.19,Baja rentabilidad
+Idealista,109729886,Madrid,Universidad,109265,Ático,1.0,41.0,4.0,210000.0,98.6,0.286,1-barrio+habitaciones,3.19,Baja rentabilidad
+Idealista,110410092,Madrid,Palos de la Frontera,102205,Piso,2.0,40.0,4.0,310000.0,121.55,0.3429,1-barrio+habitaciones,3.19,Baja rentabilidad
+Fotocasa,189085556,Madrid,Embajadores,109106,Piso,1.0,45.0,,199900.0,87.55,0.3064,1-barrio+habitaciones,3.18,Baja rentabilidad
+Idealista,110432733,Madrid,Embajadores,109106,Piso,1.0,42.0,2.0,199900.0,87.55,0.3064,1-barrio+habitaciones,3.18,Baja rentabilidad
+Idealista,110226881,Madrid,Embajadores,109106,Estudio,1.0,37.0,,200000.0,87.55,0.3064,1-barrio+habitaciones,3.18,Baja rentabilidad
+Fotocasa,181188015,Madrid,Justicia,109130,Piso,2.0,69.0,5.0,320000.0,164.47500000000002,0.2602,1-barrio+habitaciones,3.17,Baja rentabilidad
+Idealista,106970506,Madrid,Embajadores,109106,Piso,3.0,75.0,3.0,419000.0,181.9,0.3064,1-barrio+habitaciones,3.16,Baja rentabilidad
+Idealista,109812528,Madrid,Cortes,109064,Piso,4.0,135.0,3.0,985000.0,385.9,0.3395,1-barrio+habitaciones,3.16,Baja rentabilidad
+Fotocasa,189492272,Madrid,Sol,109256,Piso,2.0,60.0,2.0,380000.0,151.3,0.3349,1-barrio+habitaciones,3.16,Baja rentabilidad
+Fotocasa,189330153,Madrid,Justicia,109130,Piso,1.0,41.0,1.0,210000.0,107.1,0.2602,1-barrio+habitaciones,3.15,Baja rentabilidad
+Idealista,111347523,Madrid,Embajadores,109106,Piso,3.0,59.0,3.0,420000.0,181.9,0.3064,1-barrio+habitaciones,3.15,Baja rentabilidad
+Fotocasa,189524794,Madrid,Universidad,109265,Piso,2.0,46.0,0.0,320000.0,148.75,0.286,1-barrio+habitaciones,3.15,Baja rentabilidad
+Idealista,109796723,Madrid,Embajadores,109106,Piso,3.0,70.0,3.0,420000.0,181.9,0.3064,1-barrio+habitaciones,3.15,Baja rentabilidad
+Idealista,107996990,Madrid,Cortes,109064,Piso,4.0,132.0,3.0,990000.0,385.9,0.3395,1-barrio+habitaciones,3.14,Baja rentabilidad
+Idealista,110633489,Madrid,Canillas,120040,Piso,3.0,79.0,4.0,293000.0,155.55,0.2493,1-barrio+habitaciones,3.14,Baja rentabilidad
+Idealista,110301223,Madrid,Embajadores,109106,Piso,2.0,53.0,2.0,295000.0,127.5,0.3064,1-barrio+habitaciones,3.14,Baja rentabilidad
+Fotocasa,189578415,Madrid,Comillas,108061,Piso,3.0,70.0,2.0,379000.0,153.0,0.3283,1-barrio+habitaciones,3.14,Baja rentabilidad
+Idealista,111238883,Madrid,Pacífico,139200,Piso,4.0,100.0,6.0,620000.0,340.0,0.2411,1-barrio+habitaciones,3.14,Baja rentabilidad
+Idealista,111249921,Madrid,Universidad,109265,Piso,3.0,59.0,3.0,449000.0,207.4,0.286,1-barrio+habitaciones,3.13,Baja rentabilidad
+Fotocasa,176284244,Madrid,Universidad,109265,Piso,4.0,125.0,2.0,840000.0,386.325,0.286,1-barrio+habitaciones,3.12,Baja rentabilidad
+Idealista,111244660,Madrid,Cortes,109064,Piso,2.0,40.0,1.0,369000.0,142.8,0.3395,1-barrio+habitaciones,3.12,Baja rentabilidad
+Fotocasa,184966260,Madrid,Universidad,109265,Piso,4.0,120.0,2.0,840000.0,386.325,0.286,1-barrio+habitaciones,3.12,Baja rentabilidad
+Fotocasa,185913090,Madrid,Universidad,109265,Piso,4.0,140.0,2.0,840000.0,386.325,0.286,1-barrio+habitaciones,3.12,Baja rentabilidad
+Fotocasa,186077908,Madrid,Universidad,109265,Piso,4.0,109.0,2.0,840000.0,386.325,0.286,1-barrio+habitaciones,3.12,Baja rentabilidad
+Fotocasa,189080702,Madrid,Embajadores,109106,Piso,2.0,41.0,4.0,297000.0,127.5,0.3064,1-barrio+habitaciones,3.12,Baja rentabilidad
+Fotocasa,188227940,Madrid,Palos de la Frontera,102205,Piso,1.0,62.0,,239000.0,91.8,0.3429,1-barrio+habitaciones,3.12,Baja rentabilidad
+Idealista,110808167,Madrid,Chopera,102052,Piso,2.0,38.0,-1.0,225000.0,90.1,0.3275,1-barrio+habitaciones,3.11,Baja rentabilidad
+Fotocasa,189506548,Madrid,Cortes,109064,Piso,4.0,171.0,1.0,999000.0,385.9,0.3395,1-barrio+habitaciones,3.11,Baja rentabilidad
+Idealista,111135377,Madrid,Cortes,109064,Piso,5.0,156.0,1.0,1000000.0,385.9,0.3395,1-barrio+habitaciones,3.11,Baja rentabilidad
+Idealista,111302284,Madrid,Embajadores,109106,Piso,1.0,36.0,2.0,205000.0,87.55,0.3064,1-barrio+habitaciones,3.1,Baja rentabilidad
+Fotocasa,189050568,Madrid,Embajadores,109106,Piso,2.0,44.0,1.0,298500.0,127.5,0.3064,1-barrio+habitaciones,3.1,Baja rentabilidad
+Idealista,104330894,Madrid,Sol,109256,Piso,4.0,128.0,3.0,950000.0,370.6,0.3349,1-barrio+habitaciones,3.1,Baja rentabilidad
+Fotocasa,189006403,Madrid,Cortes,109064,Piso,1.0,50.0,5.0,270000.0,103.7,0.3395,1-barrio+habitaciones,3.09,Baja rentabilidad
+Fotocasa,189426485,Madrid,Embajadores,109106,Piso,2.0,48.0,1.0,299500.0,127.5,0.3064,1-barrio+habitaciones,3.09,Baja rentabilidad
+Idealista,110648711,Madrid,Cortes,109064,Ático,1.0,41.0,5.0,270000.0,103.7,0.3395,1-barrio+habitaciones,3.09,Baja rentabilidad
+Fotocasa,189153488,Madrid,Cortes,109064,Estudio,1.0,41.0,,270000.0,103.7,0.3395,1-barrio+habitaciones,3.09,Baja rentabilidad
+Fotocasa,189588767,Madrid,Sol,109256,Apartamento,2.0,50.0,2.0,390000.0,151.3,0.3349,1-barrio+habitaciones,3.08,Baja rentabilidad
+Fotocasa,189371405,Madrid,Justicia,109130,Piso,2.0,58.0,0.0,330000.0,164.47500000000002,0.2602,1-barrio+habitaciones,3.08,Baja rentabilidad
+Fotocasa,188736446,Madrid,Canillejas,141041,Piso,2.0,76.0,2.0,198000.0,106.25,0.2422,1-barrio+habitaciones,3.08,Baja rentabilidad
+Idealista,111189083,Madrid,Palacio,109201,Piso,1.0,73.0,0.0,229000.0,102.0,0.2914,1-barrio+habitaciones,3.08,Baja rentabilidad
+Fotocasa,188804802,Madrid,Palos de la Frontera,102205,Piso,2.0,42.0,,322000.0,121.55,0.3429,1-barrio+habitaciones,3.07,Baja rentabilidad
+Idealista,110924325,Madrid,Universidad,109265,Piso,2.0,50.0,0.0,329000.0,148.75,0.286,1-barrio+habitaciones,3.07,Baja rentabilidad
+Fotocasa,189480972,Madrid,Universidad,109265,Piso,2.0,46.0,0.0,329000.0,148.75,0.286,1-barrio+habitaciones,3.07,Baja rentabilidad
+Fotocasa,188804592,Madrid,Embajadores,109106,Piso,3.0,62.0,,432000.0,181.9,0.3064,1-barrio+habitaciones,3.06,Baja rentabilidad
+Fotocasa,187875104,Madrid,Comillas,108061,Piso,2.0,62.0,,300000.0,117.725,0.3283,1-barrio+habitaciones,3.06,Baja rentabilidad
+Idealista,111126738,Madrid,Sol,109256,Ático,4.0,135.0,4.0,965000.0,370.6,0.3349,1-barrio+habitaciones,3.05,Baja rentabilidad
+Idealista,109609205,Madrid,Jerónimos,139129,Piso,1.0,79.0,-2.0,250000.0,116.025,0.2768,1-barrio+habitaciones,3.05,Baja rentabilidad
+Fotocasa,188496611,Madrid,Palos de la Frontera,102205,Piso,2.0,45.0,0.0,325000.0,121.55,0.3429,1-barrio+habitaciones,3.04,Baja rentabilidad
+Fotocasa,189214826,Madrid,Acacias,102002,Piso,2.0,40.0,4.0,245000.0,97.75,0.3209,1-barrio+habitaciones,3.04,Baja rentabilidad
+Idealista,111296569,Madrid,Cortes,109064,Piso,1.0,45.0,0.0,275000.0,103.7,0.3395,1-barrio+habitaciones,3.04,Baja rentabilidad
+Idealista,110956820,Madrid,Acacias,102002,Piso,2.0,45.0,4.0,245000.0,97.75,0.3209,1-barrio+habitaciones,3.04,Baja rentabilidad
+Fotocasa,189230916,Madrid,Pacífico,139200,Piso,2.0,45.0,0.0,240000.0,127.5,0.2411,1-barrio+habitaciones,3.04,Baja rentabilidad
+Idealista,111381713,Madrid,Sol,109256,Dúplex,2.0,103.0,0.0,395000.0,151.3,0.3349,1-barrio+habitaciones,3.04,Baja rentabilidad
+Fotocasa,189300306,Madrid,Embajadores,109106,Piso,4.0,150.0,,710000.0,296.225,0.3064,1-barrio+habitaciones,3.03,Baja rentabilidad
+Fotocasa,188445466,Madrid,Sol,109256,Piso,4.0,164.0,2.0,976000.0,370.6,0.3349,1-barrio+habitaciones,3.02,Baja rentabilidad
+Idealista,110887627,Madrid,Embajadores,109106,Piso,3.0,79.0,5.0,439000.0,181.9,0.3064,1-barrio+habitaciones,3.01,Baja rentabilidad
+Idealista,111166218,Madrid,Palacio,109201,Piso,2.0,60.0,0.0,345000.0,149.6,0.2914,1-barrio+habitaciones,3.0,Baja rentabilidad
+Idealista,103586820,Madrid,Palacio,109201,Piso,1.0,47.0,3.0,235000.0,102.0,0.2914,1-barrio+habitaciones,3.0,Baja rentabilidad
+Fotocasa,189511601,Madrid,Palos de la Frontera,102205,Piso,2.0,54.0,,330000.0,121.55,0.3429,1-barrio+habitaciones,3.0,Baja rentabilidad
+Fotocasa,186733185,Madrid,Palos de la Frontera,102205,Dúplex,2.0,45.0,,330000.0,121.55,0.3429,1-barrio+habitaciones,3.0,Baja rentabilidad
+Idealista,110253448,Madrid,Embajadores,109106,Piso,3.0,79.0,0.0,441000.0,181.9,0.3064,1-barrio+habitaciones,3.0,Baja rentabilidad
+Fotocasa,189573956,Madrid,Comillas,108061,Piso,3.0,107.0,0.0,399000.0,153.0,0.3283,1-barrio+habitaciones,2.99,Baja rentabilidad
+Idealista,110931555,Madrid,Embajadores,109106,Piso,2.0,55.0,0.0,310000.0,127.5,0.3064,1-barrio+habitaciones,2.99,Baja rentabilidad
+Fotocasa,188090158,Madrid,Embajadores,109106,Apartamento,1.0,38.0,5.0,213000.0,87.55,0.3064,1-barrio+habitaciones,2.99,Baja rentabilidad
+Fotocasa,189553918,Madrid,Palos de la Frontera,102205,Piso,3.0,49.0,,435000.0,159.8,0.3429,1-barrio+habitaciones,2.99,Baja rentabilidad
+Idealista,108385277,Madrid,Pacífico,139200,Piso,2.0,39.0,0.5,245000.0,127.5,0.2411,1-barrio+habitaciones,2.98,Baja rentabilidad
+Fotocasa,184823801,Madrid,Embajadores,109106,Piso,5.0,123.0,2.0,723000.0,296.225,0.3064,1-barrio+habitaciones,2.98,Baja rentabilidad
+Idealista,110797820,Madrid,Palos de la Frontera,102205,Piso,4.0,130.0,1.0,569000.0,208.25,0.3429,1-barrio+habitaciones,2.98,Baja rentabilidad
+Idealista,110580046,Madrid,Universidad,109265,Piso,2.0,36.0,3.0,339000.0,148.75,0.286,1-barrio+habitaciones,2.98,Baja rentabilidad
+Idealista,110771388,Madrid,Canillas,120040,Piso,3.0,89.0,1.0,310000.0,155.55,0.2493,1-barrio+habitaciones,2.97,Baja rentabilidad
+Idealista,110008029,Madrid,Universidad,109265,Piso,1.0,45.0,0.0,225000.0,98.6,0.286,1-barrio+habitaciones,2.97,Baja rentabilidad
+Idealista,91390137,Madrid,Palacio,109201,Piso,3.0,101.0,1.0,470000.0,201.02499999999998,0.2914,1-barrio+habitaciones,2.96,Baja rentabilidad
+Idealista,111404156,Madrid,Palacio,109201,Piso,3.0,75.0,2.0,470000.0,201.02499999999998,0.2914,1-barrio+habitaciones,2.96,Baja rentabilidad
+Idealista,111173649,Madrid,Palacio,109201,Piso,2.0,50.0,0.0,350000.0,149.6,0.2914,1-barrio+habitaciones,2.96,Baja rentabilidad
+Idealista,111110129,Madrid,Cortes,109064,Piso,2.0,60.0,0.0,389000.0,142.8,0.3395,1-barrio+habitaciones,2.96,Baja rentabilidad
+Idealista,111317004,Madrid,Embajadores,109106,Piso,2.0,56.0,3.0,313000.0,127.5,0.3064,1-barrio+habitaciones,2.96,Baja rentabilidad
+Fotocasa,187899007,Madrid,Cortes,109064,Piso,2.0,81.0,0.0,390000.0,142.8,0.3395,1-barrio+habitaciones,2.95,Baja rentabilidad
+Fotocasa,188730411,Madrid,Universidad,109265,Piso,4.0,91.0,3.0,890000.0,386.325,0.286,1-barrio+habitaciones,2.95,Baja rentabilidad
+Idealista,110669662,Madrid,Universidad,109265,Piso,4.0,102.0,3.0,890000.0,386.325,0.286,1-barrio+habitaciones,2.95,Baja rentabilidad
+Idealista,110467851,Madrid,Embajadores,109106,Piso,1.0,38.0,1.0,216000.0,87.55,0.3064,1-barrio+habitaciones,2.95,Baja rentabilidad
+Idealista,111397254,Madrid,Embajadores,109106,Piso,2.0,51.0,1.0,314000.0,127.5,0.3064,1-barrio+habitaciones,2.95,Baja rentabilidad
+Idealista,110795047,Madrid,Embajadores,109106,Piso,1.0,44.0,0.0,216000.0,87.55,0.3064,1-barrio+habitaciones,2.95,Baja rentabilidad
+Fotocasa,188678319,Madrid,Embajadores,109106,Apartamento,1.0,38.0,1.0,216000.0,87.55,0.3064,1-barrio+habitaciones,2.95,Baja rentabilidad
+Idealista,108598785,Madrid,Embajadores,109106,Piso,3.0,68.0,1.0,450000.0,181.9,0.3064,1-barrio+habitaciones,2.94,Baja rentabilidad
+Idealista,108433770,Valencia,El Carme,314078,Piso,3.0,47.0,0.5,126000.0,119.425,0.3236,1-barrio+habitaciones,7.28,Media rentabilidad
+Idealista,108634100,Valencia,El Carme,314078,Piso,2.0,50.0,1.0,144000.0,111.35,0.3236,1-barrio+habitaciones,5.94,Media rentabilidad
+Idealista,110931134,Valencia,El Carme,314078,Piso,2.0,47.0,0.0,145000.0,111.35,0.3236,1-barrio+habitaciones,5.9,Media rentabilidad
+Idealista,110533731,Valencia,El Carme,314078,Piso,3.0,55.0,1.0,159900.0,119.425,0.3236,1-barrio+habitaciones,5.73,Media rentabilidad
+Idealista,111042245,Valencia,Aiora,306005,Piso,4.0,90.0,1.0,249000.0,175.1,0.3326,1-barrio+habitaciones,5.55,Media rentabilidad
+Idealista,111369871,Valencia,El Carme,314078,Piso,1.0,36.0,0.0,124900.0,90.1,0.3236,1-barrio+habitaciones,5.54,Media rentabilidad
+Fotocasa,189236083,Valencia,Aiora,306005,Piso,4.0,65.0,,249900.0,175.1,0.3326,1-barrio+habitaciones,5.53,Media rentabilidad
+Idealista,111401342,Valencia,Aiora,306005,Piso,4.0,93.0,2.0,250000.0,175.1,0.3326,1-barrio+habitaciones,5.53,Media rentabilidad
+Idealista,111048755,Valencia,Aiora,306005,Piso,4.0,90.0,4.0,249900.0,175.1,0.3326,1-barrio+habitaciones,5.53,Media rentabilidad
+Idealista,108247301,Valencia,El Carme,314078,Piso,3.0,57.0,1.0,171600.0,119.425,0.3236,1-barrio+habitaciones,5.34,Media rentabilidad
+Idealista,110835184,Valencia,El Cabanyal - El Canyamelar,335074,Piso,4.0,90.0,4.0,269000.0,198.05,0.2972,1-barrio+habitaciones,5.19,Media rentabilidad
+Idealista,104922731,Valencia,El Carme,314078,Piso,2.0,60.0,,165000.0,111.35,0.3236,1-barrio+habitaciones,5.18,Media rentabilidad
+Idealista,110880708,Valencia,El Carme,314078,Ático,2.0,50.0,5.0,165000.0,111.35,0.3236,1-barrio+habitaciones,5.18,Media rentabilidad
+Idealista,111400491,Valencia,El Carme,314078,Piso,2.0,56.0,,165000.0,111.35,0.3236,1-barrio+habitaciones,5.18,Media rentabilidad
+Idealista,111095199,Valencia,El Carme,314078,Piso,2.0,51.0,,169000.0,111.35,0.3236,1-barrio+habitaciones,5.06,Media rentabilidad
+Idealista,1885358,Valencia,El Carme,314078,Ático,2.0,52.0,5.0,170000.0,111.35,0.3236,1-barrio+habitaciones,5.03,Media rentabilidad
+Fotocasa,188797486,Valencia,Aiora,306005,Piso,4.0,105.0,5.0,274900.0,175.1,0.3326,1-barrio+habitaciones,5.03,Media rentabilidad
+Idealista,110299685,Valencia,Aiora,306005,Piso,4.0,105.0,5.0,275000.0,175.1,0.3326,1-barrio+habitaciones,5.02,Media rentabilidad
+Idealista,110615137,Valencia,Aiora,306005,Piso,4.0,87.0,5.0,275000.0,175.1,0.3326,1-barrio+habitaciones,5.02,Media rentabilidad
+Idealista,109792716,Valencia,Aiora,306005,Piso,4.0,88.0,4.0,279500.0,175.1,0.3326,1-barrio+habitaciones,4.94,Baja rentabilidad
+Idealista,111206703,Valencia,El Carme,314078,Piso,3.0,69.0,1.0,189000.0,119.425,0.3236,1-barrio+habitaciones,4.85,Baja rentabilidad
+Idealista,111386920,Valencia,El Carme,314078,Piso,3.0,70.0,1.0,189000.0,119.425,0.3236,1-barrio+habitaciones,4.85,Baja rentabilidad
+Idealista,110219716,Valencia,El Carme,314078,Piso,3.0,62.0,-1.0,189000.0,119.425,0.3236,1-barrio+habitaciones,4.85,Baja rentabilidad
+Idealista,111297713,Valencia,El Carme,314078,Piso,3.0,75.0,2.0,189000.0,119.425,0.3236,1-barrio+habitaciones,4.85,Baja rentabilidad
+Idealista,110909824,Valencia,El Carme,314078,Piso,3.0,65.0,1.0,189000.0,119.425,0.3236,1-barrio+habitaciones,4.85,Baja rentabilidad
+Idealista,109798904,Valencia,El Carme,314078,Piso,2.0,50.0,2.0,178000.0,111.35,0.3236,1-barrio+habitaciones,4.8,Baja rentabilidad
+Idealista,111389801,Valencia,El Carme,314078,Piso,2.0,60.0,1.0,179000.0,111.35,0.3236,1-barrio+habitaciones,4.78,Baja rentabilidad
+Idealista,107014063,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,65.0,1.0,183990.0,124.525,0.2972,1-barrio+habitaciones,4.77,Baja rentabilidad
+Idealista,110050761,Valencia,El Carme,314078,Piso,2.0,50.0,4.0,179500.0,111.35,0.3236,1-barrio+habitaciones,4.76,Baja rentabilidad
+Idealista,111106028,Valencia,Aiora,306005,Piso,4.0,90.0,5.0,290000.0,175.1,0.3326,1-barrio+habitaciones,4.76,Baja rentabilidad
+Idealista,109012192,Valencia,Aiora,306005,Piso,4.0,102.0,5.0,290000.0,175.1,0.3326,1-barrio+habitaciones,4.76,Baja rentabilidad
+Idealista,111310603,Valencia,El Carme,314078,Piso,3.0,70.0,1.0,195000.0,119.425,0.3236,1-barrio+habitaciones,4.7,Baja rentabilidad
+Idealista,111267325,Valencia,El Carme,314078,Piso,3.0,52.0,2.0,195000.0,119.425,0.3236,1-barrio+habitaciones,4.7,Baja rentabilidad
+Idealista,109232822,Valencia,El Carme,314078,Piso,3.0,65.0,3.0,196000.0,119.425,0.3236,1-barrio+habitaciones,4.68,Baja rentabilidad
+Idealista,110961222,Valencia,El Carme,314078,Piso,3.0,65.0,2.0,196100.0,119.425,0.3236,1-barrio+habitaciones,4.68,Baja rentabilidad
+Idealista,110869636,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,72.0,0.0,189000.0,124.525,0.2972,1-barrio+habitaciones,4.65,Baja rentabilidad
+Idealista,107523160,Valencia,El Cabanyal - El Canyamelar,335074,Piso,4.0,76.0,0.0,300000.0,198.05,0.2972,1-barrio+habitaciones,4.65,Baja rentabilidad
+Idealista,111306917,Valencia,El Cabanyal - El Canyamelar,335074,Piso,4.0,80.0,2.0,300000.0,198.05,0.2972,1-barrio+habitaciones,4.65,Baja rentabilidad
+Idealista,111316438,Valencia,Aiora,306005,Piso,4.0,105.0,6.0,297000.0,175.1,0.3326,1-barrio+habitaciones,4.65,Baja rentabilidad
+Fotocasa,189126130,Valencia,El Cabanyal - El Canyamelar,335074,Piso,4.0,103.0,4.0,300000.0,198.05,0.2972,1-barrio+habitaciones,4.65,Baja rentabilidad
+Idealista,111316412,Valencia,Aiora,306005,Piso,4.0,105.0,6.0,299000.0,175.1,0.3326,1-barrio+habitaciones,4.62,Baja rentabilidad
+Fotocasa,188413612,Valencia,La Seu,314157,Piso,2.0,58.0,5.0,220000.0,129.625,0.3306,1-barrio+habitaciones,4.62,Baja rentabilidad
+Idealista,110491655,Valencia,El Carme,314078,Ático,3.0,64.0,4.0,199000.0,119.425,0.3236,1-barrio+habitaciones,4.61,Baja rentabilidad
+Idealista,111252870,Valencia,El Carme,314078,Piso,3.0,60.0,1.0,199000.0,119.425,0.3236,1-barrio+habitaciones,4.61,Baja rentabilidad
+Idealista,111094587,Valencia,El Carme,314078,Piso,3.0,70.0,1.0,199000.0,119.425,0.3236,1-barrio+habitaciones,4.61,Baja rentabilidad
+Idealista,110400735,Valencia,El Carme,314078,Piso,3.0,62.0,-1.0,199000.0,119.425,0.3236,1-barrio+habitaciones,4.61,Baja rentabilidad
+Idealista,111395501,Valencia,El Carme,314078,Piso,2.0,59.0,0.0,187000.0,111.35,0.3236,1-barrio+habitaciones,4.57,Baja rentabilidad
+Idealista,108880341,Valencia,El Cabanyal - El Canyamelar,335074,Casa,2.0,55.0,,179000.0,115.6,0.2972,1-barrio+habitaciones,4.55,Baja rentabilidad
+Idealista,110762373,Valencia,El Carme,314078,Piso,2.0,46.0,3.0,189000.0,111.35,0.3236,1-barrio+habitaciones,4.52,Baja rentabilidad
+Idealista,109979156,Valencia,La Roqueta,314154,Piso,3.0,90.0,2.0,305000.0,186.575,0.3105,1-barrio+habitaciones,4.51,Baja rentabilidad
+Idealista,109472153,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,60.0,5.0,195000.0,124.525,0.2972,1-barrio+habitaciones,4.5,Baja rentabilidad
+Idealista,110810533,Valencia,El Carme,314078,Piso,2.0,53.0,3.0,195000.0,111.35,0.3236,1-barrio+habitaciones,4.38,Baja rentabilidad
+Idealista,111360163,Valencia,El Carme,314078,Piso,3.0,50.0,,210000.0,119.425,0.3236,1-barrio+habitaciones,4.37,Baja rentabilidad
+Idealista,111249507,Valencia,El Carme,314078,Piso,2.0,58.0,0.0,198000.0,111.35,0.3236,1-barrio+habitaciones,4.32,Baja rentabilidad
+Fotocasa,189343743,Valencia,Aiora,306005,Piso,4.0,116.0,2.0,320000.0,175.1,0.3326,1-barrio+habitaciones,4.32,Baja rentabilidad
+Fotocasa,185346959,Valencia,Aiora,306005,Piso,3.0,65.0,3.0,182000.0,99.025,0.3326,1-barrio+habitaciones,4.29,Baja rentabilidad
+Idealista,101938259,Valencia,Aiora,306005,Piso,4.0,116.0,1.0,321810.0,175.1,0.3326,1-barrio+habitaciones,4.29,Baja rentabilidad
+Idealista,111223072,Valencia,El Carme,314078,Piso,3.0,50.0,0.5,215000.0,119.425,0.3236,1-barrio+habitaciones,4.26,Baja rentabilidad
+Idealista,111069008,Valencia,La Roqueta,314154,Piso,3.0,74.0,1.0,325000.0,186.575,0.3105,1-barrio+habitaciones,4.23,Baja rentabilidad
+Idealista,111404453,Valencia,La Roqueta,314154,Piso,3.0,76.0,1.0,325000.0,186.575,0.3105,1-barrio+habitaciones,4.23,Baja rentabilidad
+Idealista,111286265,Valencia,El Carme,314078,Piso,3.0,57.0,1.0,218000.0,119.425,0.3236,1-barrio+habitaciones,4.21,Baja rentabilidad
+Idealista,110382289,Valencia,Aiora,306005,Piso,4.0,98.0,1.0,330000.0,175.1,0.3326,1-barrio+habitaciones,4.19,Baja rentabilidad
+Idealista,111203187,Valencia,El Carme,314078,Piso,1.0,41.0,0.0,165000.0,90.1,0.3236,1-barrio+habitaciones,4.19,Baja rentabilidad
+Idealista,110249022,Valencia,El Carme,314078,Piso,3.0,55.0,1.0,219000.0,119.425,0.3236,1-barrio+habitaciones,4.19,Baja rentabilidad
+Idealista,111405504,Valencia,Aiora,306005,Piso,4.0,100.0,,330000.0,175.1,0.3326,1-barrio+habitaciones,4.19,Baja rentabilidad
+Idealista,111029992,Valencia,El Carme,314078,Ático,3.0,51.0,,220000.0,119.425,0.3236,1-barrio+habitaciones,4.17,Baja rentabilidad
+Idealista,111069751,Valencia,El Carme,314078,Piso,3.0,58.0,5.0,220000.0,119.425,0.3236,1-barrio+habitaciones,4.17,Baja rentabilidad
+Idealista,111400214,Valencia,El Carme,314078,Ático,3.0,60.0,5.0,219900.0,119.425,0.3236,1-barrio+habitaciones,4.17,Baja rentabilidad
+Idealista,110597005,Valencia,El Carme,314078,Piso,2.0,52.0,2.0,205000.0,111.35,0.3236,1-barrio+habitaciones,4.17,Baja rentabilidad
+Idealista,110136369,Valencia,La Roqueta,314154,Piso,3.0,110.0,1.0,330000.0,186.575,0.3105,1-barrio+habitaciones,4.16,Baja rentabilidad
+Idealista,111276324,Valencia,Aiora,306005,Piso,4.0,100.0,5.0,335000.0,175.1,0.3326,1-barrio+habitaciones,4.12,Baja rentabilidad
+Idealista,111267966,Valencia,Russafa,325228,Piso,3.0,80.0,1.0,279000.0,162.35,0.2974,1-barrio+habitaciones,4.11,Baja rentabilidad
+Idealista,110980874,Valencia,El Carme,314078,Ático,3.0,58.0,5.0,223000.0,119.425,0.3236,1-barrio+habitaciones,4.11,Baja rentabilidad
+Idealista,110169635,Valencia,El Cabanyal - El Canyamelar,335074,Ático,3.0,63.0,5.0,215000.0,124.525,0.2972,1-barrio+habitaciones,4.08,Baja rentabilidad
+Idealista,111289911,Valencia,El Carme,314078,Piso,1.0,48.0,0.0,170000.0,90.1,0.3236,1-barrio+habitaciones,4.07,Baja rentabilidad
+Idealista,110525112,Valencia,El Carme,314078,Piso,1.0,45.0,-2.0,170000.0,90.1,0.3236,1-barrio+habitaciones,4.07,Baja rentabilidad
+Idealista,110766036,Valencia,Camí Fondo,306035,Piso,3.0,63.0,5.0,195000.0,90.95,0.3628,2-barrio,4.01,Baja rentabilidad
+Fotocasa,187754751,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,80.0,,219000.0,124.525,0.2972,1-barrio+habitaciones,4.01,Baja rentabilidad
+Fotocasa,188740383,Valencia,Camí Fondo,306035,Piso,3.0,67.0,,195000.0,90.95,0.3628,2-barrio,4.01,Baja rentabilidad
+Idealista,111086917,Valencia,El Carme,314078,Piso,3.0,68.0,2.0,229000.0,119.425,0.3236,1-barrio+habitaciones,4.0,Baja rentabilidad
+Idealista,110822776,Valencia,El Carme,314078,Piso,3.0,64.0,2.0,229000.0,119.425,0.3236,1-barrio+habitaciones,4.0,Baja rentabilidad
+Idealista,110877613,Valencia,Aiora,306005,Piso,4.0,108.0,2.0,345000.0,175.1,0.3326,1-barrio+habitaciones,4.0,Baja rentabilidad
+Idealista,110458776,Valencia,El Carme,314078,Piso,3.0,59.0,1.0,230000.0,119.425,0.3236,1-barrio+habitaciones,3.99,Baja rentabilidad
+Idealista,110650882,Valencia,El Carme,314078,Piso,3.0,58.0,1.0,230000.0,119.425,0.3236,1-barrio+habitaciones,3.99,Baja rentabilidad
+Idealista,111151860,Valencia,El Cabanyal - El Canyamelar,335074,Casa,4.0,129.0,,350000.0,198.05,0.2972,1-barrio+habitaciones,3.99,Baja rentabilidad
+Idealista,111286128,Valencia,El Carme,314078,Piso,2.0,49.0,2.0,215000.0,111.35,0.3236,1-barrio+habitaciones,3.98,Baja rentabilidad
+Fotocasa,188859201,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,67.0,3.0,205000.0,115.6,0.2972,1-barrio+habitaciones,3.98,Baja rentabilidad
+Idealista,110333939,Valencia,El Carme,314078,Piso,3.0,69.0,0.5,231000.0,119.425,0.3236,1-barrio+habitaciones,3.97,Baja rentabilidad
+Fotocasa,188544364,Valencia,Aiora,306005,Piso,4.0,134.0,2.0,349900.0,175.1,0.3326,1-barrio+habitaciones,3.95,Baja rentabilidad
+Fotocasa,189007079,Valencia,Aiora,306005,Piso,4.0,109.0,1.0,350000.0,175.1,0.3326,1-barrio+habitaciones,3.95,Baja rentabilidad
+Idealista,100374875,Valencia,Russafa,325228,Piso,3.0,80.0,1.0,290000.0,162.35,0.2974,1-barrio+habitaciones,3.95,Baja rentabilidad
+Idealista,111212302,Valencia,El Pilar,314095,Estudio,1.0,46.0,,180000.0,93.5,0.3196,1-barrio+habitaciones,3.94,Baja rentabilidad
+Idealista,111159551,Valencia,Aiora,306005,Piso,3.0,65.0,3.0,199999.0,99.025,0.3326,1-barrio+habitaciones,3.91,Baja rentabilidad
+Idealista,111348419,Valencia,Camí Fondo,306035,Piso,1.0,40.0,0.0,200000.0,90.95,0.3628,1-barrio+habitaciones,3.91,Baja rentabilidad
+Idealista,110640898,Valencia,El Carme,314078,Piso,3.0,73.0,0.0,235000.0,119.425,0.3236,1-barrio+habitaciones,3.9,Baja rentabilidad
+Idealista,111037129,Valencia,El Carme,314078,Piso,2.0,57.0,2.0,219000.0,111.35,0.3236,1-barrio+habitaciones,3.9,Baja rentabilidad
+Idealista,110677125,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,61.0,2.0,225500.0,124.525,0.2972,1-barrio+habitaciones,3.89,Baja rentabilidad
+Idealista,110697237,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,70.0,,225500.0,124.525,0.2972,1-barrio+habitaciones,3.89,Baja rentabilidad
+Idealista,108915720,Valencia,El Carme,314078,Piso,2.0,77.0,1.0,220000.0,111.35,0.3236,1-barrio+habitaciones,3.89,Baja rentabilidad
+Idealista,111267333,Valencia,El Carme,314078,Piso,3.0,63.0,0.5,237500.0,119.425,0.3236,1-barrio+habitaciones,3.86,Baja rentabilidad
+Idealista,111316384,Valencia,Aiora,306005,Piso,4.0,111.0,5.0,359000.0,175.1,0.3326,1-barrio+habitaciones,3.85,Baja rentabilidad
+Idealista,108367240,Valencia,El Carme,314078,Piso,1.0,38.0,0.0,180000.0,90.1,0.3236,1-barrio+habitaciones,3.84,Baja rentabilidad
+Idealista,110402113,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,75.0,1.0,230000.0,124.525,0.2972,1-barrio+habitaciones,3.82,Baja rentabilidad
+Idealista,110768986,Valencia,El Carme,314078,Piso,3.0,60.0,1.0,240000.0,119.425,0.3236,1-barrio+habitaciones,3.82,Baja rentabilidad
+Idealista,109693524,Valencia,El Carme,314078,Casa,1.0,58.0,2.0,184000.0,90.1,0.3236,1-barrio+habitaciones,3.76,Baja rentabilidad
+Idealista,109616378,Valencia,El Carme,314078,Estudio,1.0,56.0,1.0,185000.0,90.1,0.3236,1-barrio+habitaciones,3.74,Baja rentabilidad
+Fotocasa,189459131,Valencia,Aiora,306005,Piso,4.0,102.0,1.0,370000.0,175.1,0.3326,1-barrio+habitaciones,3.73,Baja rentabilidad
+Fotocasa,188817885,Valencia,Aiora,306005,Piso,4.0,105.0,,370000.0,175.1,0.3326,1-barrio+habitaciones,3.73,Baja rentabilidad
+Idealista,110770207,Valencia,Aiora,306005,Piso,4.0,122.0,2.0,372000.0,175.1,0.3326,1-barrio+habitaciones,3.71,Baja rentabilidad
+Idealista,111057248,Valencia,Russafa,325228,Piso,3.0,104.0,1.0,310000.0,162.35,0.2974,1-barrio+habitaciones,3.7,Baja rentabilidad
+Idealista,106807058,Valencia,Aiora,306005,Estudio,1.0,42.0,,169000.0,79.05,0.3326,1-barrio+habitaciones,3.69,Baja rentabilidad
+Idealista,111230010,Valencia,Aiora,306005,Piso,4.0,106.0,2.0,375000.0,175.1,0.3326,1-barrio+habitaciones,3.68,Baja rentabilidad
+Fotocasa,189339594,Valencia,Aiora,306005,Piso,1.0,40.0,2.0,170000.0,79.05,0.3326,1-barrio+habitaciones,3.67,Baja rentabilidad
+Idealista,111199181,Valencia,El Carme,314078,Piso,3.0,69.0,2.0,250000.0,119.425,0.3236,1-barrio+habitaciones,3.67,Baja rentabilidad
+Fotocasa,189522319,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,69.0,,240000.0,124.525,0.2972,1-barrio+habitaciones,3.66,Baja rentabilidad
+Idealista,108196142,Valencia,La Roqueta,314154,Piso,5.0,89.0,3.0,254000.0,125.8,0.3105,2-barrio,3.65,Baja rentabilidad
+Fotocasa,189006913,Valencia,Aiora,306005,Piso,4.0,120.0,1.0,380000.0,175.1,0.3326,1-barrio+habitaciones,3.64,Baja rentabilidad
+Idealista,110524618,Valencia,Russafa,325228,Piso,3.0,87.0,2.0,315000.0,162.35,0.2974,1-barrio+habitaciones,3.64,Baja rentabilidad
+Idealista,109967863,Valencia,El Carme,314078,Piso,3.0,100.0,0.0,254900.0,119.425,0.3236,1-barrio+habitaciones,3.6,Baja rentabilidad
+Idealista,111293545,Valencia,El Carme,314078,Piso,3.0,73.0,1.0,255000.0,119.425,0.3236,1-barrio+habitaciones,3.6,Baja rentabilidad
+Idealista,109298551,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,84.0,1.0,245000.0,124.525,0.2972,1-barrio+habitaciones,3.58,Baja rentabilidad
+Idealista,111068167,Valencia,La Roqueta,314154,Piso,3.0,90.0,4.0,385000.0,186.575,0.3105,1-barrio+habitaciones,3.57,Baja rentabilidad
+Fotocasa,188774322,Valencia,Aiora,306005,Piso,4.0,110.0,2.0,387500.0,175.1,0.3326,1-barrio+habitaciones,3.57,Baja rentabilidad
+Fotocasa,189327849,Valencia,La Roqueta,314154,Piso,3.0,89.0,4.0,385000.0,186.575,0.3105,1-barrio+habitaciones,3.57,Baja rentabilidad
+Idealista,110908408,Valencia,Aiora,306005,Piso,5.0,140.0,1.0,388000.0,175.1,0.3326,1-barrio+habitaciones,3.56,Baja rentabilidad
+Idealista,110938010,Valencia,El Carme,314078,Piso,3.0,73.0,0.5,258000.0,119.425,0.3236,1-barrio+habitaciones,3.55,Baja rentabilidad
+Idealista,98887828,Valencia,Aiora,306005,Piso,3.0,67.0,4.0,220000.0,99.025,0.3326,1-barrio+habitaciones,3.55,Baja rentabilidad
+Idealista,108789275,Valencia,Aiora,306005,Piso,5.0,122.0,1.0,390000.0,175.1,0.3326,1-barrio+habitaciones,3.54,Baja rentabilidad
+Idealista,109622066,Valencia,La Roqueta,314154,Piso,3.0,90.0,2.0,390000.0,186.575,0.3105,1-barrio+habitaciones,3.52,Baja rentabilidad
+Fotocasa,188742971,Valencia,Aiora,306005,Piso,2.0,67.0,0.0,214000.0,94.35,0.3326,1-barrio+habitaciones,3.48,Baja rentabilidad
+Fotocasa,188494636,Valencia,Russafa,325228,Piso,3.0,70.0,2.0,330000.0,162.35,0.2974,1-barrio+habitaciones,3.47,Baja rentabilidad
+Fotocasa,189367412,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,79.0,2.0,235000.0,115.6,0.2972,1-barrio+habitaciones,3.47,Baja rentabilidad
+Fotocasa,186643139,Valencia,Aiora,306005,Piso,3.0,87.0,3.0,224900.0,99.025,0.3326,1-barrio+habitaciones,3.47,Baja rentabilidad
+Idealista,111312386,Valencia,El Carme,314078,Piso,3.0,66.0,2.0,265000.0,119.425,0.3236,1-barrio+habitaciones,3.46,Baja rentabilidad
+Idealista,110627881,Valencia,El Carme,314078,Piso,3.0,72.0,3.0,265000.0,119.425,0.3236,1-barrio+habitaciones,3.46,Baja rentabilidad
+Idealista,109266708,Valencia,El Carme,314078,Piso,3.0,62.0,2.0,265000.0,119.425,0.3236,1-barrio+habitaciones,3.46,Baja rentabilidad
+Fotocasa,188805288,Valencia,Aiora,306005,Piso,3.0,67.0,,226000.0,99.025,0.3326,1-barrio+habitaciones,3.46,Baja rentabilidad
+Idealista,111362718,Valencia,La Roqueta,314154,Piso,3.0,99.0,4.0,400000.0,186.575,0.3105,1-barrio+habitaciones,3.44,Baja rentabilidad
+Idealista,110433580,Valencia,El Carme,314078,Piso,2.0,43.0,4.0,249000.0,111.35,0.3236,1-barrio+habitaciones,3.43,Baja rentabilidad
+Idealista,108721078,Valencia,El Carme,314078,Ático,2.0,55.0,4.0,250000.0,111.35,0.3236,1-barrio+habitaciones,3.42,Baja rentabilidad
+Idealista,111223004,Valencia,El Carme,314078,Piso,3.0,58.0,1.0,268000.0,119.425,0.3236,1-barrio+habitaciones,3.42,Baja rentabilidad
+Fotocasa,188993938,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,49.0,1.0,238000.0,115.6,0.2972,1-barrio+habitaciones,3.42,Baja rentabilidad
+Idealista,110556168,Valencia,El Carme,314078,Piso,2.0,80.0,0.0,250000.0,111.35,0.3236,1-barrio+habitaciones,3.42,Baja rentabilidad
+Idealista,109832948,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,64.0,0.0,238000.0,115.6,0.2972,1-barrio+habitaciones,3.42,Baja rentabilidad
+Fotocasa,189393890,Valencia,Camí Fondo,306035,Piso,3.0,89.0,2.0,229000.0,90.95,0.3628,2-barrio,3.42,Baja rentabilidad
+Fotocasa,189089070,Valencia,Camí Fondo,306035,Piso,3.0,90.0,2.0,229000.0,90.95,0.3628,2-barrio,3.42,Baja rentabilidad
+Fotocasa,188259897,Valencia,El Cabanyal - El Canyamelar,335074,Dúplex,5.0,124.0,1.0,410000.0,198.05,0.2972,1-barrio+habitaciones,3.41,Baja rentabilidad
+Idealista,109822219,Valencia,El Cabanyal - El Canyamelar,335074,Casa,5.0,124.0,,410000.0,198.05,0.2972,1-barrio+habitaciones,3.41,Baja rentabilidad
+Idealista,105184813,Valencia,El Cabanyal - El Canyamelar,335074,Piso,4.0,124.0,1.0,410000.0,198.05,0.2972,1-barrio+habitaciones,3.41,Baja rentabilidad
+Idealista,111123640,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,77.0,3.0,258000.0,124.525,0.2972,1-barrio+habitaciones,3.4,Baja rentabilidad
+Fotocasa,189534886,Valencia,Aiora,306005,Piso,3.0,77.0,3.0,230000.0,99.025,0.3326,1-barrio+habitaciones,3.4,Baja rentabilidad
+Fotocasa,188995238,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,68.0,1.0,240000.0,115.6,0.2972,1-barrio+habitaciones,3.4,Baja rentabilidad
+Idealista,111213272,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,78.0,0.0,260000.0,124.525,0.2972,1-barrio+habitaciones,3.38,Baja rentabilidad
+Idealista,111350721,Valencia,El Carme,314078,Piso,4.0,85.0,1.0,219000.0,96.05,0.3236,2-barrio,3.37,Baja rentabilidad
+Idealista,109958615,Valencia,Aiora,306005,Estudio,1.0,45.0,,185000.0,79.05,0.3326,1-barrio+habitaciones,3.37,Baja rentabilidad
+Idealista,111308622,Valencia,Aiora,306005,Estudio,1.0,44.0,,185000.0,79.05,0.3326,1-barrio+habitaciones,3.37,Baja rentabilidad
+Idealista,111308744,Valencia,Aiora,306005,Estudio,1.0,46.0,,185000.0,79.05,0.3326,1-barrio+habitaciones,3.37,Baja rentabilidad
+Idealista,111062293,Valencia,El Carme,314078,Piso,2.0,69.0,2.0,255000.0,111.35,0.3236,1-barrio+habitaciones,3.35,Baja rentabilidad
+Idealista,110854929,Valencia,Aiora,306005,Piso,3.0,90.0,2.0,235000.0,99.025,0.3326,1-barrio+habitaciones,3.33,Baja rentabilidad
+Idealista,106252078,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,70.0,2.0,245000.0,115.6,0.2972,1-barrio+habitaciones,3.33,Baja rentabilidad
+Idealista,103789747,Valencia,El Carme,314078,Piso,2.0,71.0,,257000.0,111.35,0.3236,1-barrio+habitaciones,3.33,Baja rentabilidad
+Fotocasa,188670507,Valencia,El Cabanyal - El Canyamelar,335074,Piso,4.0,119.0,1.0,418990.0,198.05,0.2972,1-barrio+habitaciones,3.33,Baja rentabilidad
+Fotocasa,189337458,Valencia,Aiora,306005,Piso,3.0,92.0,4.0,235000.0,99.025,0.3326,1-barrio+habitaciones,3.33,Baja rentabilidad
+Idealista,110390259,Valencia,Camí Fondo,306035,Piso,3.0,80.0,1.0,235000.0,90.95,0.3628,2-barrio,3.33,Baja rentabilidad
+Idealista,111245453,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,67.0,4.0,245000.0,115.6,0.2972,1-barrio+habitaciones,3.33,Baja rentabilidad
+Idealista,110516861,Valencia,El Carme,314078,Piso,4.0,75.0,1.0,222000.0,96.05,0.3236,2-barrio,3.32,Baja rentabilidad
+Fotocasa,189368022,Valencia,Camí Fondo,306035,Piso,2.0,65.0,1.0,225000.0,86.7,0.3628,1-barrio+habitaciones,3.32,Baja rentabilidad
+Idealista,108628370,Valencia,El Cabanyal - El Canyamelar,335074,Casa,4.0,152.0,,420000.0,198.05,0.2972,1-barrio+habitaciones,3.32,Baja rentabilidad
+Idealista,108157294,Valencia,El Pilar,314095,Piso,3.0,65.0,1.0,270000.0,118.15,0.3196,1-barrio+habitaciones,3.32,Baja rentabilidad
+Idealista,109653326,Valencia,El Carme,314078,Piso,2.0,73.0,2.0,259000.0,111.35,0.3236,1-barrio+habitaciones,3.3,Baja rentabilidad
+Idealista,110121160,Valencia,Aiora,306005,Piso,1.0,45.0,0.0,188900.0,79.05,0.3326,1-barrio+habitaciones,3.3,Baja rentabilidad
+Idealista,110712298,Valencia,Aiora,306005,Piso,1.0,53.0,0.0,189000.0,79.05,0.3326,1-barrio+habitaciones,3.3,Baja rentabilidad
+Idealista,109936051,Valencia,El Carme,314078,Estudio,1.0,82.0,,210000.0,90.1,0.3236,1-barrio+habitaciones,3.29,Baja rentabilidad
+Idealista,109327912,Valencia,Aiora,306005,Piso,4.0,125.0,2.0,420000.0,175.1,0.3326,1-barrio+habitaciones,3.29,Baja rentabilidad
+Idealista,110887675,Valencia,El Carme,314078,Ático,2.0,77.0,4.0,260000.0,111.35,0.3236,1-barrio+habitaciones,3.29,Baja rentabilidad
+Idealista,110004403,Valencia,El Carme,314078,Dúplex,1.0,51.0,0.0,210000.0,90.1,0.3236,1-barrio+habitaciones,3.29,Baja rentabilidad
+Fotocasa,187653363,Valencia,Aiora,306005,Piso,4.0,129.0,2.0,420000.0,175.1,0.3326,1-barrio+habitaciones,3.29,Baja rentabilidad
+Fotocasa,188227610,Valencia,Aiora,306005,Piso,1.0,45.0,0.0,190000.0,79.05,0.3326,1-barrio+habitaciones,3.28,Baja rentabilidad
+Fotocasa,189122917,Valencia,Aiora,306005,Planta Baja,1.0,53.0,0.0,190000.0,79.05,0.3326,1-barrio+habitaciones,3.28,Baja rentabilidad
+Idealista,109941768,Valencia,Aiora,306005,Estudio,1.0,45.0,,190000.0,79.05,0.3326,1-barrio+habitaciones,3.28,Baja rentabilidad
+Fotocasa,189261348,Valencia,Russafa,325228,Piso,5.0,77.0,2.0,350000.0,162.35,0.2974,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,110588196,Valencia,Aiora,306005,Piso,2.0,66.0,7.0,228000.0,94.35,0.3326,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,111307604,Valencia,El Carme,314078,Piso,3.0,68.0,0.0,280000.0,119.425,0.3236,1-barrio+habitaciones,3.27,Baja rentabilidad
+Fotocasa,188894283,Valencia,La Roqueta,314154,Piso,3.0,130.0,1.0,420000.0,186.575,0.3105,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,109302440,Valencia,Russafa,325228,Piso,4.0,82.0,2.0,350000.0,162.35,0.2974,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,106865654,Valencia,Russafa,325228,Piso,3.0,77.0,2.0,350000.0,162.35,0.2974,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,107189306,Valencia,Russafa,325228,Piso,5.0,70.0,2.0,350000.0,162.35,0.2974,1-barrio+habitaciones,3.27,Baja rentabilidad
+Fotocasa,189458832,Valencia,La Roqueta,314154,Piso,3.0,107.0,4.0,420000.0,186.575,0.3105,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,110769338,Valencia,El Carme,314078,Piso,3.0,61.0,2.0,280000.0,119.425,0.3236,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,111371346,Valencia,Aiora,306005,Piso,3.0,76.0,4.0,239000.0,99.025,0.3326,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,110337991,Valencia,Russafa,325228,Piso,4.0,77.0,2.0,350000.0,162.35,0.2974,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,110152225,Valencia,Russafa,325228,Piso,3.0,74.0,4.0,350000.0,162.35,0.2974,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,104242821,Valencia,La Roqueta,314154,Piso,2.0,42.0,0.0,325000.0,144.075,0.3105,1-barrio+habitaciones,3.27,Baja rentabilidad
+Idealista,110284363,Valencia,Aiora,306005,Piso,3.0,69.0,8.0,240000.0,99.025,0.3326,1-barrio+habitaciones,3.26,Baja rentabilidad
+Idealista,111391509,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,75.0,1.0,250000.0,115.6,0.2972,1-barrio+habitaciones,3.26,Baja rentabilidad
+Idealista,110314386,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,85.0,1.0,269500.0,124.525,0.2972,1-barrio+habitaciones,3.26,Baja rentabilidad
+Idealista,110691043,Valencia,Aiora,306005,Piso,3.0,69.0,9.0,240000.0,99.025,0.3326,1-barrio+habitaciones,3.26,Baja rentabilidad
+Fotocasa,189264689,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,90.0,,250000.0,115.6,0.2972,1-barrio+habitaciones,3.26,Baja rentabilidad
+Idealista,109800648,Valencia,La Seu,314157,Estudio,1.0,37.0,1.0,210000.0,87.125,0.3306,1-barrio+habitaciones,3.25,Baja rentabilidad
+Fotocasa,188319048,Valencia,La Seu,314157,Piso,1.0,40.0,1.0,210000.0,87.125,0.3306,1-barrio+habitaciones,3.25,Baja rentabilidad
+Idealista,106880760,Valencia,El Cabanyal - El Canyamelar,335074,Piso,1.0,53.0,0.0,190000.0,87.55,0.2972,1-barrio+habitaciones,3.25,Baja rentabilidad
+Idealista,109867057,Valencia,La Seu,314157,Estudio,1.0,38.0,1.0,210000.0,87.125,0.3306,1-barrio+habitaciones,3.25,Baja rentabilidad
+Fotocasa,189308325,Valencia,Russafa,325228,Piso,3.0,98.0,,355000.0,162.35,0.2974,1-barrio+habitaciones,3.23,Baja rentabilidad
+Idealista,110764015,Valencia,Russafa,325228,Piso,3.0,91.0,2.0,355000.0,162.35,0.2974,1-barrio+habitaciones,3.23,Baja rentabilidad
+Idealista,111038633,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,101.0,2.0,272000.0,124.525,0.2972,1-barrio+habitaciones,3.23,Baja rentabilidad
+Idealista,109832409,Valencia,El Cabanyal - El Canyamelar,335074,Piso,4.0,116.0,3.0,435000.0,198.05,0.2972,1-barrio+habitaciones,3.21,Baja rentabilidad
+Idealista,110995590,Valencia,Aiora,306005,Piso,2.0,82.0,1.0,232000.0,94.35,0.3326,1-barrio+habitaciones,3.21,Baja rentabilidad
+Idealista,110055305,Valencia,La Roqueta,314154,Piso,3.0,117.0,4.0,430000.0,186.575,0.3105,1-barrio+habitaciones,3.2,Baja rentabilidad
+Idealista,110840642,Valencia,La Roqueta,314154,Piso,3.0,108.0,6.0,430000.0,186.575,0.3105,1-barrio+habitaciones,3.2,Baja rentabilidad
+Idealista,110698593,Valencia,La Roqueta,314154,Piso,3.0,127.0,4.0,430000.0,186.575,0.3105,1-barrio+habitaciones,3.2,Baja rentabilidad
+Idealista,106885714,Valencia,Aiora,306005,Piso,1.0,52.0,0.0,195000.0,79.05,0.3326,1-barrio+habitaciones,3.2,Baja rentabilidad
+Idealista,110824456,Valencia,El Carme,314078,Piso,3.0,102.0,4.0,288000.0,119.425,0.3236,1-barrio+habitaciones,3.18,Baja rentabilidad
+Fotocasa,188857375,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,48.0,1.0,256000.0,115.6,0.2972,1-barrio+habitaciones,3.18,Baja rentabilidad
+Idealista,111243031,Valencia,El Carme,314078,Piso,2.0,44.0,5.0,270000.0,111.35,0.3236,1-barrio+habitaciones,3.17,Baja rentabilidad
+Idealista,111144489,Valencia,El Carme,314078,Ático,2.0,44.0,5.0,270000.0,111.35,0.3236,1-barrio+habitaciones,3.17,Baja rentabilidad
+Idealista,110478229,Valencia,El Carme,314078,Piso,1.0,47.0,1.0,218000.0,90.1,0.3236,1-barrio+habitaciones,3.17,Baja rentabilidad
+Fotocasa,186572408,Valencia,La Roqueta,314154,Piso,3.0,115.0,1.0,435000.0,186.575,0.3105,1-barrio+habitaciones,3.16,Baja rentabilidad
+Fotocasa,189527569,Valencia,El Cabanyal - El Canyamelar,335074,Piso,1.0,46.0,0.0,196000.0,87.55,0.2972,1-barrio+habitaciones,3.15,Baja rentabilidad
+Fotocasa,189487498,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,82.0,1.0,279000.0,124.525,0.2972,1-barrio+habitaciones,3.15,Baja rentabilidad
+Idealista,109984151,Valencia,Russafa,325228,Piso,3.0,83.0,2.0,365000.0,162.35,0.2974,1-barrio+habitaciones,3.14,Baja rentabilidad
+Idealista,110018014,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,80.0,4.0,260000.0,115.6,0.2972,1-barrio+habitaciones,3.14,Baja rentabilidad
+Fotocasa,188471481,Valencia,El Carme,314078,Piso,1.0,66.0,,220000.0,90.1,0.3236,1-barrio+habitaciones,3.14,Baja rentabilidad
+Idealista,102668514,Valencia,El Carme,314078,Piso,1.0,43.0,3.0,220000.0,90.1,0.3236,1-barrio+habitaciones,3.14,Baja rentabilidad
+Idealista,111158214,Valencia,Aiora,306005,Piso,1.0,54.0,,199000.0,79.05,0.3326,1-barrio+habitaciones,3.13,Baja rentabilidad
+Fotocasa,189426171,Valencia,Camí Fondo,306035,Piso,4.0,98.0,2.0,249900.0,90.95,0.3628,2-barrio,3.13,Baja rentabilidad
+Fotocasa,188319009,Valencia,Aiora,306005,Piso,1.0,50.0,0.0,199000.0,79.05,0.3326,1-barrio+habitaciones,3.13,Baja rentabilidad
+Idealista,111370702,Valencia,Aiora,306005,Piso,3.0,65.0,1.0,250000.0,99.025,0.3326,1-barrio+habitaciones,3.13,Baja rentabilidad
+Idealista,107946543,Valencia,Aiora,306005,Piso,1.0,59.0,0.0,199000.0,79.05,0.3326,1-barrio+habitaciones,3.13,Baja rentabilidad
+Fotocasa,188767933,Valencia,Aiora,306005,Piso,1.0,49.0,,199900.0,79.05,0.3326,1-barrio+habitaciones,3.12,Baja rentabilidad
+Fotocasa,188633187,Valencia,Russafa,325228,Piso,3.0,91.0,2.0,368000.0,162.35,0.2974,1-barrio+habitaciones,3.11,Baja rentabilidad
+Idealista,111039294,Valencia,El Cabanyal - El Canyamelar,335074,Piso,6.0,171.0,1.0,450000.0,198.05,0.2972,1-barrio+habitaciones,3.1,Baja rentabilidad
+Idealista,111312002,Valencia,El Carme,314078,Piso,3.0,64.0,3.0,296000.0,119.425,0.3236,1-barrio+habitaciones,3.1,Baja rentabilidad
+Idealista,111288073,Valencia,El Carme,314078,Piso,3.0,64.0,1.0,296000.0,119.425,0.3236,1-barrio+habitaciones,3.1,Baja rentabilidad
+Fotocasa,185234835,Valencia,Russafa,325228,Piso,3.0,81.0,4.0,370000.0,162.35,0.2974,1-barrio+habitaciones,3.1,Baja rentabilidad
+Idealista,111302234,Valencia,El Carme,314078,Piso,3.0,60.0,3.0,296000.0,119.425,0.3236,1-barrio+habitaciones,3.1,Baja rentabilidad
+Idealista,111340144,Valencia,El Carme,314078,Ático,3.0,64.0,1.0,296000.0,119.425,0.3236,1-barrio+habitaciones,3.1,Baja rentabilidad
+Fotocasa,188523120,Valencia,La Seu,314157,Dúplex,2.0,80.0,0.0,329000.0,129.625,0.3306,1-barrio+habitaciones,3.09,Baja rentabilidad
+Idealista,109787947,Valencia,La Seu,314157,Dúplex,2.0,107.0,0.0,329000.0,129.625,0.3306,1-barrio+habitaciones,3.09,Baja rentabilidad
+Idealista,107325926,Valencia,El Pilar,314095,Piso,1.0,47.0,1.0,230000.0,93.5,0.3196,1-barrio+habitaciones,3.08,Baja rentabilidad
+Idealista,110982218,Valencia,Aiora,306005,Piso,3.0,92.0,4.0,254000.0,99.025,0.3326,1-barrio+habitaciones,3.08,Baja rentabilidad
+Idealista,87230363,Valencia,El Pilar,314095,Piso,3.0,80.0,0.0,291000.0,118.15,0.3196,1-barrio+habitaciones,3.08,Baja rentabilidad
+Idealista,111369265,Valencia,El Carme,314078,Piso,3.0,56.0,2.0,299000.0,119.425,0.3236,1-barrio+habitaciones,3.07,Baja rentabilidad
+Idealista,111056034,Valencia,El Carme,314078,Piso,2.0,59.0,0.0,279000.0,111.35,0.3236,1-barrio+habitaciones,3.06,Baja rentabilidad
+Idealista,110893134,Valencia,El Carme,314078,Piso,2.0,56.0,0.0,279000.0,111.35,0.3236,1-barrio+habitaciones,3.06,Baja rentabilidad
+Idealista,110158244,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,100.0,6.0,289500.0,124.525,0.2972,1-barrio+habitaciones,3.03,Baja rentabilidad
+Idealista,110131943,Valencia,Aiora,306005,Piso,3.0,85.0,2.0,258000.0,99.025,0.3326,1-barrio+habitaciones,3.03,Baja rentabilidad
+Fotocasa,188805114,Valencia,Aiora,306005,Piso,3.0,79.0,,259000.0,99.025,0.3326,1-barrio+habitaciones,3.02,Baja rentabilidad
+Idealista,110947070,Valencia,Camí Fondo,306035,Piso,3.0,80.0,7.0,259000.0,90.95,0.3628,2-barrio,3.02,Baja rentabilidad
+Idealista,110940964,Valencia,Aiora,306005,Piso,3.0,84.0,1.0,259000.0,99.025,0.3326,1-barrio+habitaciones,3.02,Baja rentabilidad
+Idealista,111149647,Valencia,El Cabanyal - El Canyamelar,335074,Piso,1.0,36.0,1.0,205000.0,87.55,0.2972,1-barrio+habitaciones,3.01,Baja rentabilidad
+Idealista,110695872,Valencia,Aiora,306005,Piso,3.0,72.0,3.0,260000.0,99.025,0.3326,1-barrio+habitaciones,3.01,Baja rentabilidad
+Idealista,110736205,Valencia,Aiora,306005,Piso,3.0,85.0,5.0,260000.0,99.025,0.3326,1-barrio+habitaciones,3.01,Baja rentabilidad
+Fotocasa,188915931,Valencia,Aiora,306005,Piso,3.0,93.0,2.0,259500.0,99.025,0.3326,1-barrio+habitaciones,3.01,Baja rentabilidad
+Idealista,110855543,Valencia,Aiora,306005,Piso,1.0,35.0,0.0,208000.0,79.05,0.3326,1-barrio+habitaciones,3.0,Baja rentabilidad
+Idealista,111382545,Valencia,El Carme,314078,Ático,2.0,59.0,5.0,285000.0,111.35,0.3236,1-barrio+habitaciones,3.0,Baja rentabilidad
+Fotocasa,188514305,Valencia,Camí Fondo,306035,Piso,2.0,97.0,3.0,249900.0,86.7,0.3628,1-barrio+habitaciones,2.99,Baja rentabilidad
+Fotocasa,188996345,Valencia,El Carme,314078,Piso,2.0,100.0,4.0,286000.0,111.35,0.3236,1-barrio+habitaciones,2.99,Baja rentabilidad
+Idealista,111282261,Valencia,El Carme,314078,Casa,2.0,100.0,,286000.0,111.35,0.3236,1-barrio+habitaciones,2.99,Baja rentabilidad
+Idealista,110874126,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,60.0,2.0,295000.0,124.525,0.2972,1-barrio+habitaciones,2.98,Baja rentabilidad
+Fotocasa,188994636,Valencia,El Carme,314078,Piso,2.0,101.0,4.0,288000.0,111.35,0.3236,1-barrio+habitaciones,2.97,Baja rentabilidad
+Idealista,103272657,Valencia,Aiora,306005,Piso,1.0,43.0,0.0,210000.0,79.05,0.3326,1-barrio+habitaciones,2.97,Baja rentabilidad
+Fotocasa,188950149,Valencia,El Carme,314078,Piso,2.0,100.0,4.0,288000.0,111.35,0.3236,1-barrio+habitaciones,2.97,Baja rentabilidad
+Idealista,111343420,Valencia,El Carme,314078,Dúplex,2.0,101.0,3.0,288000.0,111.35,0.3236,1-barrio+habitaciones,2.97,Baja rentabilidad
+Idealista,110271238,Valencia,La Roqueta,314154,Piso,2.0,73.0,1.0,359000.0,144.075,0.3105,1-barrio+habitaciones,2.96,Baja rentabilidad
+Fotocasa,187515835,Valencia,Aiora,306005,Piso,3.0,105.0,1.0,265000.0,99.025,0.3326,1-barrio+habitaciones,2.95,Baja rentabilidad
+Idealista,111248768,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,82.0,3.0,298000.0,124.525,0.2972,1-barrio+habitaciones,2.95,Baja rentabilidad
+Idealista,110272714,Valencia,Russafa,325228,Piso,3.0,110.0,1.0,390000.0,162.35,0.2974,1-barrio+habitaciones,2.94,Baja rentabilidad
+Idealista,109180815,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,87.0,1.0,299000.0,124.525,0.2972,1-barrio+habitaciones,2.94,Baja rentabilidad
+Idealista,108959311,Valencia,El Cabanyal - El Canyamelar,335074,Casa,3.0,80.0,,299999.0,124.525,0.2972,1-barrio+habitaciones,2.93,Baja rentabilidad
+Fotocasa,188934443,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,85.0,2.0,300000.0,124.525,0.2972,1-barrio+habitaciones,2.93,Baja rentabilidad
+Fotocasa,189071319,Valencia,El Cabanyal - El Canyamelar,335074,Planta Baja,3.0,70.0,0.0,299900.0,124.525,0.2972,1-barrio+habitaciones,2.93,Baja rentabilidad
+Idealista,110873081,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,70.0,0.0,299900.0,124.525,0.2972,1-barrio+habitaciones,2.93,Baja rentabilidad
+Idealista,110241808,Valencia,Aiora,306005,Piso,2.0,76.0,0.0,255000.0,94.35,0.3326,1-barrio+habitaciones,2.92,Baja rentabilidad
+Fotocasa,189558940,Valencia,Aiora,306005,Piso,2.0,77.0,1.0,255000.0,94.35,0.3326,1-barrio+habitaciones,2.92,Baja rentabilidad
+Idealista,111400058,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,87.0,2.0,280000.0,115.6,0.2972,1-barrio+habitaciones,2.91,Baja rentabilidad
+Fotocasa,186822546,Valencia,La Seu,314157,Piso,1.0,56.0,0.5,235000.0,87.125,0.3306,1-barrio+habitaciones,2.91,Baja rentabilidad
+Idealista,110251031,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,80.0,1.0,280000.0,115.6,0.2972,1-barrio+habitaciones,2.91,Baja rentabilidad
+Fotocasa,187734679,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,110.0,0.0,280000.0,115.6,0.2972,1-barrio+habitaciones,2.91,Baja rentabilidad
+Idealista,108963539,Valencia,El Carme,314078,Piso,2.0,84.0,,295000.0,111.35,0.3236,1-barrio+habitaciones,2.9,Baja rentabilidad
+Idealista,111251646,Valencia,La Seu,314157,Piso,2.0,60.0,2.0,350000.0,129.625,0.3306,1-barrio+habitaciones,2.9,Baja rentabilidad
+Idealista,111384460,Valencia,Aiora,306005,Piso,3.0,90.0,1.0,270000.0,99.025,0.3326,1-barrio+habitaciones,2.89,Baja rentabilidad
+Fotocasa,188804711,Valencia,Aiora,306005,Piso,3.0,72.0,,270000.0,99.025,0.3326,1-barrio+habitaciones,2.89,Baja rentabilidad
+Idealista,110761978,Valencia,Aiora,306005,Piso,3.0,74.0,5.0,270000.0,99.025,0.3326,1-barrio+habitaciones,2.89,Baja rentabilidad
+Idealista,111397805,Valencia,Aiora,306005,Piso,3.0,95.0,1.0,270000.0,99.025,0.3326,1-barrio+habitaciones,2.89,Baja rentabilidad
+Fotocasa,188759970,Valencia,Aiora,306005,Piso,4.0,109.0,5.0,480000.0,175.1,0.3326,1-barrio+habitaciones,2.88,Baja rentabilidad
+Fotocasa,189479696,Valencia,Russafa,325228,Piso,4.0,105.0,5.0,399500.0,162.35,0.2974,1-barrio+habitaciones,2.87,Baja rentabilidad
+Idealista,111374046,Valencia,Camí Fondo,306035,Piso,2.0,63.0,0.0,260000.0,86.7,0.3628,1-barrio+habitaciones,2.87,Baja rentabilidad
+Fotocasa,181737914,Valencia,Russafa,325228,Piso,5.0,153.0,,399000.0,162.35,0.2974,1-barrio+habitaciones,2.87,Baja rentabilidad
+Idealista,111272968,Valencia,Russafa,325228,Piso,2.0,60.0,2.0,265000.0,107.95,0.2974,1-barrio+habitaciones,2.87,Baja rentabilidad
+Idealista,106636523,Valencia,Aiora,306005,Piso,1.0,47.0,0.0,219500.0,79.05,0.3326,1-barrio+habitaciones,2.84,Baja rentabilidad
+Idealista,110514381,Valencia,Aiora,306005,Estudio,1.0,36.0,,220000.0,79.05,0.3326,1-barrio+habitaciones,2.84,Baja rentabilidad
+Fotocasa,189277369,Valencia,Aiora,306005,Piso,3.0,69.0,7.0,275000.0,99.025,0.3326,1-barrio+habitaciones,2.84,Baja rentabilidad
+Idealista,110210428,Valencia,Aiora,306005,Piso,1.0,55.0,2.0,220000.0,79.05,0.3326,1-barrio+habitaciones,2.84,Baja rentabilidad
+Idealista,111369639,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,93.0,,310000.0,124.525,0.2972,1-barrio+habitaciones,2.83,Baja rentabilidad
+Fotocasa,187377206,Valencia,La Roqueta,314154,Piso,1.0,49.0,2.0,240000.0,91.8,0.3105,1-barrio+habitaciones,2.82,Baja rentabilidad
+Idealista,111392669,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,100.0,0.0,289000.0,115.6,0.2972,1-barrio+habitaciones,2.82,Baja rentabilidad
+Idealista,111275131,Valencia,El Carme,314078,Piso,3.0,74.0,3.0,325000.0,119.425,0.3236,1-barrio+habitaciones,2.82,Baja rentabilidad
+Idealista,110930756,Valencia,El Cabanyal - El Canyamelar,335074,Casa,4.0,103.0,,495000.0,198.05,0.2972,1-barrio+habitaciones,2.82,Baja rentabilidad
+Fotocasa,189566080,Valencia,Aiora,306005,Piso,2.0,80.0,1.0,265000.0,94.35,0.3326,1-barrio+habitaciones,2.81,Baja rentabilidad
+Idealista,110716096,Valencia,La Roqueta,314154,Piso,4.0,94.0,5.0,330000.0,125.8,0.3105,2-barrio,2.81,Baja rentabilidad
+Idealista,111373774,Valencia,La Roqueta,314154,Piso,4.0,95.0,5.0,329900.0,125.8,0.3105,2-barrio,2.81,Baja rentabilidad
+Idealista,111188523,Valencia,Camí Fondo,306035,Piso,3.0,78.0,5.0,279900.0,90.95,0.3628,2-barrio,2.8,Baja rentabilidad
+Idealista,110536013,Valencia,El Pilar,314095,Piso,3.0,92.0,4.0,320000.0,118.15,0.3196,1-barrio+habitaciones,2.8,Baja rentabilidad
+Fotocasa,188138186,Valencia,El Pilar,314095,Piso,3.0,86.0,4.0,320000.0,118.15,0.3196,1-barrio+habitaciones,2.8,Baja rentabilidad
+Idealista,110906214,Valencia,Aiora,306005,Piso,3.0,94.0,5.0,280000.0,99.025,0.3326,1-barrio+habitaciones,2.79,Baja rentabilidad
+Fotocasa,189099241,Valencia,Aiora,306005,Piso,3.0,84.0,5.0,280000.0,99.025,0.3326,1-barrio+habitaciones,2.79,Baja rentabilidad
+Idealista,110940722,Valencia,Aiora,306005,Piso,3.0,62.0,4.0,282000.0,99.025,0.3326,1-barrio+habitaciones,2.77,Baja rentabilidad
+Idealista,111348655,Valencia,El Carme,314078,Ático,1.0,41.0,4.0,250000.0,90.1,0.3236,1-barrio+habitaciones,2.77,Baja rentabilidad
+Idealista,111196906,Valencia,El Carme,314078,Piso,3.0,92.0,1.0,332000.0,119.425,0.3236,1-barrio+habitaciones,2.76,Baja rentabilidad
+Idealista,111140212,Valencia,El Cabanyal - El Canyamelar,335074,Casa,2.0,80.0,,295000.0,115.6,0.2972,1-barrio+habitaciones,2.76,Baja rentabilidad
+Idealista,104696008,Valencia,La Seu,314157,Piso,2.0,110.0,2.0,370000.0,129.625,0.3306,1-barrio+habitaciones,2.75,Baja rentabilidad
+Fotocasa,189568716,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,104.0,,320000.0,124.525,0.2972,1-barrio+habitaciones,2.74,Baja rentabilidad
+Fotocasa,188799018,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,67.0,0.0,298000.0,115.6,0.2972,1-barrio+habitaciones,2.74,Baja rentabilidad
+Idealista,111343096,Valencia,El Cabanyal - El Canyamelar,335074,Estudio,1.0,68.0,1.0,225000.0,87.55,0.2972,1-barrio+habitaciones,2.74,Baja rentabilidad
+Fotocasa,189459136,Valencia,Aiora,306005,Piso,3.0,74.0,5.0,285000.0,99.025,0.3326,1-barrio+habitaciones,2.74,Baja rentabilidad
+Idealista,110453007,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,85.0,2.0,320000.0,124.525,0.2972,1-barrio+habitaciones,2.74,Baja rentabilidad
+Idealista,110707136,Valencia,El Cabanyal - El Canyamelar,335074,Casa,1.0,48.0,,225000.0,87.55,0.2972,1-barrio+habitaciones,2.74,Baja rentabilidad
+Fotocasa,188997315,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,89.0,,320000.0,124.525,0.2972,1-barrio+habitaciones,2.74,Baja rentabilidad
+Idealista,110548558,Valencia,La Seu,314157,Piso,1.0,59.0,2.0,249000.0,87.125,0.3306,1-barrio+habitaciones,2.74,Baja rentabilidad
+Idealista,111266092,Valencia,El Pilar,314095,Piso,1.0,48.0,0.0,260000.0,93.5,0.3196,1-barrio+habitaciones,2.73,Baja rentabilidad
+Idealista,111399034,Valencia,El Pilar,314095,Piso,1.0,45.0,0.0,260000.0,93.5,0.3196,1-barrio+habitaciones,2.73,Baja rentabilidad
+Idealista,110417509,Valencia,El Pilar,314095,Piso,1.0,41.0,0.0,260000.0,93.5,0.3196,1-barrio+habitaciones,2.73,Baja rentabilidad
+Idealista,110097012,Valencia,El Pilar,314095,Piso,1.0,42.0,0.0,260000.0,93.5,0.3196,1-barrio+habitaciones,2.73,Baja rentabilidad
+Idealista,110372131,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,70.0,0.0,299999.0,115.6,0.2972,1-barrio+habitaciones,2.72,Baja rentabilidad
+Fotocasa,188597385,Valencia,El Cabanyal - El Canyamelar,335074,Planta Baja,2.0,70.0,0.0,299999.0,115.6,0.2972,1-barrio+habitaciones,2.72,Baja rentabilidad
+Fotocasa,189321481,Valencia,La Roqueta,314154,Ático,1.0,60.0,4.0,250000.0,91.8,0.3105,1-barrio+habitaciones,2.71,Baja rentabilidad
+Idealista,110138173,Valencia,El Carme,314078,Piso,2.0,81.0,2.0,315000.0,111.35,0.3236,1-barrio+habitaciones,2.71,Baja rentabilidad
+Idealista,110480499,Valencia,La Roqueta,314154,Estudio,1.0,46.0,,250000.0,91.8,0.3105,1-barrio+habitaciones,2.71,Baja rentabilidad
+Idealista,110876321,Valencia,El Carme,314078,Ático,3.0,60.0,3.0,340000.0,119.425,0.3236,1-barrio+habitaciones,2.7,Baja rentabilidad
+Idealista,110886931,Valencia,Aiora,306005,Piso,3.0,73.0,2.0,290000.0,99.025,0.3326,1-barrio+habitaciones,2.69,Baja rentabilidad
+Idealista,105736506,Valencia,La Seu,314157,Dúplex,2.0,110.0,0.5,378000.0,129.625,0.3306,1-barrio+habitaciones,2.69,Baja rentabilidad
+Idealista,109696174,Valencia,Russafa,325228,Piso,4.0,100.0,1.0,426000.0,162.35,0.2974,1-barrio+habitaciones,2.69,Baja rentabilidad
+Idealista,111325275,Valencia,El Carme,314078,Ático,2.0,66.0,4.0,319000.0,111.35,0.3236,1-barrio+habitaciones,2.68,Baja rentabilidad
+Idealista,82255077,Valencia,Russafa,325228,Piso,2.0,60.0,2.0,285000.0,107.95,0.2974,1-barrio+habitaciones,2.67,Baja rentabilidad
+Idealista,111387591,Valencia,El Carme,314078,Piso,4.0,80.0,,276000.0,96.05,0.3236,2-barrio,2.67,Baja rentabilidad
+Idealista,111196389,Valencia,Russafa,325228,Piso,3.0,105.0,7.0,430000.0,162.35,0.2974,1-barrio+habitaciones,2.66,Baja rentabilidad
+Fotocasa,189252008,Valencia,Russafa,325228,Apartamento,4.0,105.0,3.0,430000.0,162.35,0.2974,1-barrio+habitaciones,2.66,Baja rentabilidad
+Fotocasa,189205940,Valencia,Russafa,325228,Estudio,1.0,55.0,1.0,230000.0,86.7,0.2974,1-barrio+habitaciones,2.66,Baja rentabilidad
+Idealista,111063028,Valencia,Russafa,325228,Piso,4.0,105.0,3.0,430000.0,162.35,0.2974,1-barrio+habitaciones,2.66,Baja rentabilidad
+Idealista,111002693,Valencia,El Pilar,314095,Piso,1.0,80.0,0.0,267000.0,93.5,0.3196,1-barrio+habitaciones,2.66,Baja rentabilidad
+Fotocasa,188068213,Valencia,El Cabanyal - El Canyamelar,335074,Dúplex,3.0,104.0,2.0,330000.0,124.525,0.2972,1-barrio+habitaciones,2.66,Baja rentabilidad
+Idealista,111016012,Valencia,Russafa,325228,Piso,1.0,55.0,1.0,230000.0,86.7,0.2974,1-barrio+habitaciones,2.66,Baja rentabilidad
+Fotocasa,186697573,Valencia,Camí Fondo,306035,Piso,3.0,87.0,6.0,295000.0,90.95,0.3628,2-barrio,2.65,Baja rentabilidad
+Idealista,110384458,Valencia,Aiora,306005,Piso,3.0,69.0,7.0,295000.0,99.025,0.3326,1-barrio+habitaciones,2.65,Baja rentabilidad
+Idealista,111121177,Valencia,El Pilar,314095,Piso,1.0,47.0,5.0,268000.0,93.5,0.3196,1-barrio+habitaciones,2.65,Baja rentabilidad
+Idealista,111005021,Valencia,El Pilar,314095,Piso,2.0,67.0,2.0,270000.0,93.925,0.3196,1-barrio+habitaciones,2.64,Baja rentabilidad
+Idealista,111146029,Valencia,El Cabanyal - El Canyamelar,335074,Ático,4.0,137.0,5.0,530000.0,198.05,0.2972,1-barrio+habitaciones,2.63,Baja rentabilidad
+Fotocasa,187836312,Valencia,Russafa,325228,Piso,4.0,157.0,4.0,435000.0,162.35,0.2974,1-barrio+habitaciones,2.63,Baja rentabilidad
+Idealista,108541066,Valencia,El Cabanyal - El Canyamelar,335074,Casa,1.0,84.0,,235000.0,87.55,0.2972,1-barrio+habitaciones,2.63,Baja rentabilidad
+Idealista,111348314,Valencia,El Carme,314078,Ático,1.0,40.0,4.0,265000.0,90.1,0.3236,1-barrio+habitaciones,2.61,Baja rentabilidad
+Idealista,110295864,Valencia,El Carme,314078,Dúplex,2.0,102.0,0.0,329000.0,111.35,0.3236,1-barrio+habitaciones,2.6,Baja rentabilidad
+Idealista,111289450,Valencia,Exposició,325111,Piso,2.0,80.0,3.0,399000.0,101.15,0.4327,1-barrio+habitaciones,2.6,Baja rentabilidad
+Idealista,111080102,Valencia,El Carme,314078,Piso,4.0,81.0,2.0,284000.0,96.05,0.3236,2-barrio,2.6,Baja rentabilidad
+Idealista,110955013,Valencia,El Carme,314078,Piso,2.0,96.0,0.0,329000.0,111.35,0.3236,1-barrio+habitaciones,2.6,Baja rentabilidad
+Idealista,108479374,Valencia,El Cabanyal - El Canyamelar,335074,Casa,2.0,97.0,,314900.0,115.6,0.2972,1-barrio+habitaciones,2.59,Baja rentabilidad
+Idealista,110855333,Valencia,El Cabanyal - El Canyamelar,335074,Estudio,1.0,77.0,,238000.0,87.55,0.2972,1-barrio+habitaciones,2.59,Baja rentabilidad
+Idealista,109934800,Valencia,El Carme,314078,Piso,2.0,70.0,2.0,330000.0,111.35,0.3236,1-barrio+habitaciones,2.59,Baja rentabilidad
+Idealista,109338195,Valencia,El Cabanyal - El Canyamelar,335074,Dúplex,3.0,80.0,1.0,339000.0,124.525,0.2972,1-barrio+habitaciones,2.59,Baja rentabilidad
+Fotocasa,188189004,Valencia,Russafa,325228,Piso,2.0,67.0,1.0,295000.0,107.95,0.2974,1-barrio+habitaciones,2.58,Baja rentabilidad
+Idealista,109338487,Valencia,Russafa,325228,Piso,2.0,84.0,0.0,295000.0,107.95,0.2974,1-barrio+habitaciones,2.58,Baja rentabilidad
+Fotocasa,189453017,Valencia,Aiora,306005,Piso,2.0,73.0,2.0,290000.0,94.35,0.3326,1-barrio+habitaciones,2.57,Baja rentabilidad
+Fotocasa,189342202,Valencia,Exposició,325111,Piso,4.0,94.0,3.0,395000.0,99.025,0.4327,2-barrio,2.57,Baja rentabilidad
+Idealista,111285940,Valencia,El Cabanyal - El Canyamelar,335074,Estudio,1.0,50.0,1.0,240000.0,87.55,0.2972,1-barrio+habitaciones,2.57,Baja rentabilidad
+Fotocasa,189188615,Valencia,Aiora,306005,Ático,4.0,171.0,15.0,540000.0,175.1,0.3326,1-barrio+habitaciones,2.56,Baja rentabilidad
+Idealista,110857659,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,83.0,0.0,319000.0,115.6,0.2972,1-barrio+habitaciones,2.56,Baja rentabilidad
+Idealista,111356312,Valencia,El Carme,314078,Piso,3.0,93.0,1.0,358400.0,119.425,0.3236,1-barrio+habitaciones,2.56,Baja rentabilidad
+Idealista,101690877,Valencia,El Carme,314078,Piso,3.0,93.0,0.0,358400.0,119.425,0.3236,1-barrio+habitaciones,2.56,Baja rentabilidad
+Idealista,111178450,Valencia,El Carme,314078,Piso,3.0,120.0,0.0,358400.0,119.425,0.3236,1-barrio+habitaciones,2.56,Baja rentabilidad
+Idealista,110996520,Valencia,Aiora,306005,Ático,4.0,171.0,8.0,540000.0,175.1,0.3326,1-barrio+habitaciones,2.56,Baja rentabilidad
+Idealista,110715303,Valencia,Russafa,325228,Piso,3.0,117.0,,449990.0,162.35,0.2974,1-barrio+habitaciones,2.55,Baja rentabilidad
+Fotocasa,189372122,Valencia,Russafa,325228,Piso,1.0,60.0,0.0,239900.0,86.7,0.2974,1-barrio+habitaciones,2.55,Baja rentabilidad
+Fotocasa,187077892,Valencia,Russafa,325228,Piso,1.0,59.0,0.0,239900.0,86.7,0.2974,1-barrio+habitaciones,2.55,Baja rentabilidad
+Idealista,109337821,Valencia,Russafa,325228,Piso,4.0,157.0,1.0,450000.0,162.35,0.2974,1-barrio+habitaciones,2.55,Baja rentabilidad
+Fotocasa,185849301,Valencia,Russafa,325228,Piso,3.0,113.0,2.0,449000.0,162.35,0.2974,1-barrio+habitaciones,2.55,Baja rentabilidad
+Idealista,111350348,Valencia,Russafa,325228,Piso,4.0,97.0,2.0,450000.0,162.35,0.2974,1-barrio+habitaciones,2.55,Baja rentabilidad
+Idealista,110506228,Valencia,Russafa,325228,Piso,3.0,115.0,4.0,450000.0,162.35,0.2974,1-barrio+habitaciones,2.55,Baja rentabilidad
+Idealista,111183985,Valencia,El Cabanyal - El Canyamelar,335074,Piso,5.0,193.0,1.0,550000.0,198.05,0.2972,1-barrio+habitaciones,2.54,Baja rentabilidad
+Idealista,111344529,Valencia,Camí Fondo,306035,Piso,2.0,85.0,1.0,295000.0,86.7,0.3628,1-barrio+habitaciones,2.53,Baja rentabilidad
+Idealista,110670915,Valencia,Russafa,325228,Estudio,1.0,60.0,2.0,242000.0,86.7,0.2974,1-barrio+habitaciones,2.53,Baja rentabilidad
+Idealista,107815632,Valencia,El Carme,314078,Piso,3.0,87.0,1.0,364000.0,119.425,0.3236,1-barrio+habitaciones,2.52,Baja rentabilidad
+Idealista,111268375,Valencia,Aiora,306005,Piso,3.0,94.0,3.0,310000.0,99.025,0.3326,1-barrio+habitaciones,2.52,Baja rentabilidad
+Idealista,111342319,Valencia,Aiora,306005,Piso,3.0,64.0,3.0,310000.0,99.025,0.3326,1-barrio+habitaciones,2.52,Baja rentabilidad
+Idealista,111250212,Valencia,El Pilar,314095,Piso,5.0,77.0,0.0,325000.0,107.95,0.3196,1-barrio+habitaciones,2.52,Baja rentabilidad
+Idealista,111198766,Valencia,El Pilar,314095,Piso,5.0,78.0,0.0,325000.0,107.95,0.3196,1-barrio+habitaciones,2.52,Baja rentabilidad
+Idealista,111061200,Valencia,El Carme,314078,Piso,2.0,70.0,1.0,340000.0,111.35,0.3236,1-barrio+habitaciones,2.51,Baja rentabilidad
+Idealista,111205036,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,91.0,5.0,350000.0,124.525,0.2972,1-barrio+habitaciones,2.51,Baja rentabilidad
+Idealista,110166787,Valencia,La Roqueta,314154,Piso,3.0,118.0,2.0,550000.0,186.575,0.3105,1-barrio+habitaciones,2.5,Baja rentabilidad
+Idealista,105863770,Valencia,Aiora,306005,Piso,2.0,60.0,0.0,298000.0,94.35,0.3326,1-barrio+habitaciones,2.5,Baja rentabilidad
+Idealista,110611827,Valencia,La Roqueta,314154,Ático,1.0,60.0,4.0,270000.0,91.8,0.3105,1-barrio+habitaciones,2.5,Baja rentabilidad
+Fotocasa,189057555,Valencia,La Roqueta,314154,Piso,2.0,92.0,9.0,425000.0,144.075,0.3105,1-barrio+habitaciones,2.5,Baja rentabilidad
+Idealista,109509786,Valencia,El Pilar,314095,Piso,2.0,60.0,2.0,285000.0,93.925,0.3196,1-barrio+habitaciones,2.5,Baja rentabilidad
+Idealista,111273036,Valencia,Campanar,307034,Piso,3.0,67.0,,200000.0,69.7,0.3023,2-barrio,2.5,Baja rentabilidad
+Idealista,111289368,Valencia,El Carme,314078,Ático,4.0,64.0,3.0,296000.0,96.05,0.3236,2-barrio,2.49,Baja rentabilidad
+Idealista,109986701,Valencia,Aiora,306005,Piso,2.0,98.0,3.0,299000.0,94.35,0.3326,1-barrio+habitaciones,2.49,Baja rentabilidad
+Fotocasa,189426418,Valencia,Russafa,325228,Piso,3.0,96.0,4.0,460000.0,162.35,0.2974,1-barrio+habitaciones,2.49,Baja rentabilidad
+Idealista,110455379,Valencia,Russafa,325228,Estudio,1.0,61.0,2.0,247000.0,86.7,0.2974,1-barrio+habitaciones,2.48,Baja rentabilidad
+Idealista,110729388,Valencia,Aiora,306005,Piso,3.0,70.0,4.0,315000.0,99.025,0.3326,1-barrio+habitaciones,2.48,Baja rentabilidad
+Fotocasa,188091224,Valencia,La Roqueta,314154,Piso,2.0,130.0,,430000.0,144.075,0.3105,1-barrio+habitaciones,2.47,Baja rentabilidad
+Fotocasa,188066453,Valencia,El Cabanyal - El Canyamelar,335074,Ático,1.0,45.0,3.0,250000.0,87.55,0.2972,1-barrio+habitaciones,2.47,Baja rentabilidad
+Idealista,109186434,Valencia,El Carme,314078,Dúplex,1.0,61.0,2.0,280000.0,90.1,0.3236,1-barrio+habitaciones,2.47,Baja rentabilidad
+Fotocasa,188773846,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,78.0,2.0,329900.0,115.6,0.2972,1-barrio+habitaciones,2.47,Baja rentabilidad
+Idealista,109804465,Valencia,El Cabanyal - El Canyamelar,335074,Piso,1.0,45.0,3.0,250000.0,87.55,0.2972,1-barrio+habitaciones,2.47,Baja rentabilidad
+Idealista,106638164,Valencia,Russafa,325228,Piso,3.0,110.0,2.0,466000.0,162.35,0.2974,1-barrio+habitaciones,2.46,Baja rentabilidad
+Idealista,109815257,Valencia,Russafa,325228,Piso,1.0,60.0,0.0,249900.0,86.7,0.2974,1-barrio+habitaciones,2.45,Baja rentabilidad
+Idealista,110166724,Valencia,Russafa,325228,Estudio,1.0,37.0,1.0,250000.0,86.7,0.2974,1-barrio+habitaciones,2.45,Baja rentabilidad
+Idealista,111039372,Valencia,El Cabanyal - El Canyamelar,335074,Piso,3.0,105.0,5.0,360000.0,124.525,0.2972,1-barrio+habitaciones,2.44,Baja rentabilidad
+Idealista,109556983,Valencia,El Pilar,314095,Piso,1.0,71.0,0.0,290000.0,93.5,0.3196,1-barrio+habitaciones,2.44,Baja rentabilidad
+Fotocasa,188926967,Valencia,La Roqueta,314154,Piso,2.0,91.0,2.0,435000.0,144.075,0.3105,1-barrio+habitaciones,2.44,Baja rentabilidad
+Idealista,110701572,Valencia,El Carme,314078,Piso,2.0,64.0,3.0,350000.0,111.35,0.3236,1-barrio+habitaciones,2.44,Baja rentabilidad
+Idealista,108666257,Valencia,Russafa,325228,Piso,3.0,101.0,9.0,470000.0,162.35,0.2974,1-barrio+habitaciones,2.44,Baja rentabilidad
+Idealista,108641107,Valencia,Russafa,325228,Piso,3.0,110.0,3.0,470000.0,162.35,0.2974,1-barrio+habitaciones,2.44,Baja rentabilidad
+Idealista,107609388,Valencia,El Carme,314078,Piso,2.0,55.0,0.0,350000.0,111.35,0.3236,1-barrio+habitaciones,2.44,Baja rentabilidad
+Fotocasa,188881498,Valencia,El Carme,314078,Piso,2.0,75.0,3.0,349999.0,111.35,0.3236,1-barrio+habitaciones,2.44,Baja rentabilidad
+Idealista,111310275,Valencia,El Carme,314078,Piso,2.0,70.0,3.0,350000.0,111.35,0.3236,1-barrio+habitaciones,2.44,Baja rentabilidad
+Idealista,111307773,Valencia,El Carme,314078,Ático,3.0,71.0,4.0,377000.0,119.425,0.3236,1-barrio+habitaciones,2.43,Baja rentabilidad
+Idealista,107829064,Valencia,El Carme,314078,Piso,1.0,38.0,0.0,285000.0,90.1,0.3236,1-barrio+habitaciones,2.43,Baja rentabilidad
+Fotocasa,188263484,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,86.0,,337750.0,115.6,0.2972,1-barrio+habitaciones,2.41,Baja rentabilidad
+Idealista,109952763,Valencia,El Cabanyal - El Canyamelar,335074,Piso,2.0,85.0,2.0,337750.0,115.6,0.2972,1-barrio+habitaciones,2.41,Baja rentabilidad
+Idealista,110096547,Valencia,El Pilar,314095,Piso,1.0,53.0,0.0,295000.0,93.5,0.3196,1-barrio+habitaciones,2.4,Baja rentabilidad
+Idealista,106716585,Valencia,El Cabanyal - El Canyamelar,335074,Casa,2.0,113.0,,339000.0,115.6,0.2972,1-barrio+habitaciones,2.4,Baja rentabilidad
+Idealista,110671043,Valencia,Russafa,325228,Estudio,1.0,60.0,6.0,255000.0,86.7,0.2974,1-barrio+habitaciones,2.4,Baja rentabilidad
+Idealista,110834927,Valencia,El Carme,314078,Piso,3.0,94.0,2.0,382000.0,119.425,0.3236,1-barrio+habitaciones,2.4,Baja rentabilidad
+Idealista,109605596,Valencia,El Pilar,314095,Piso,1.0,52.0,0.0,295000.0,93.5,0.3196,1-barrio+habitaciones,2.4,Baja rentabilidad
+Fotocasa,188300618,Valencia,Camí Fondo,306035,Piso,5.0,100.0,2.0,327000.0,90.95,0.3628,2-barrio,2.39,Baja rentabilidad
+Fotocasa,189552957,Valencia,El Carme,314078,Piso,2.0,73.0,,360000.0,111.35,0.3236,1-barrio+habitaciones,2.37,Baja rentabilidad
+Fotocasa,189574810,Valencia,El Carme,314078,Piso,2.0,87.0,2.0,360000.0,111.35,0.3236,1-barrio+habitaciones,2.37,Baja rentabilidad
+Idealista,110712184,Valencia,Campanar,307034,Piso,2.0,78.0,4.0,199000.0,65.875,0.3023,1-barrio+habitaciones,2.37,Baja rentabilidad
+Idealista,111340646,Valencia,El Carme,314078,Piso,2.0,100.0,,360000.0,111.35,0.3236,1-barrio+habitaciones,2.37,Baja rentabilidad
+Idealista,110671076,Valencia,Russafa,325228,Estudio,1.0,59.0,7.0,258000.0,86.7,0.2974,1-barrio+habitaciones,2.37,Baja rentabilidad
+Idealista,111225026,Valencia,El Carme,314078,Casa,2.0,100.0,,360000.0,111.35,0.3236,1-barrio+habitaciones,2.37,Baja rentabilidad
+Idealista,109766476,Valencia,El Cabanyal - El Canyamelar,335074,Casa,2.0,85.0,,345000.0,115.6,0.2972,1-barrio+habitaciones,2.36,Baja rentabilidad
