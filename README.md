@@ -147,4 +147,4 @@ Python (Pandas, NumPy), Selenium y BeautifulSoup para el scraping, Matplotlib/Se
 
 ## Autoría
 
-Proyecto desarrollado por Paula como parte del Trabajo Fin de Máster en Análisis de Datos (Pontia Tech, 2026), dentro del caso de estudio grupal "Proyecto Júpiter — WhiteHosting".
+Proyecto desarrollado por Paula como parte del Trabajo Fin de Máster en Análisis de Datos (Pontia Tech, 2026), dentro del caso de estudio grupal "Proyecto Júpiter - WhiteHosting".
