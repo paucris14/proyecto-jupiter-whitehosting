@@ -147,4 +147,6 @@ Python (Pandas, NumPy), Selenium y BeautifulSoup para el scraping, Matplotlib/Se
 
 ## Autoría
 
-Proyecto desarrollado por Paula como parte del Trabajo Fin de Máster en Análisis de Datos (Pontia Tech, 2026), dentro del caso de estudio grupal "Proyecto Júpiter - WhiteHosting".
+Trabajo Fin de Máster en Análisis de Datos (Pontia Tech, 2026), desarrollado como caso de estudio grupal.
+
+**Mi contribución:** el notebook `03_alquiler_rentabilidad_inversion.ipynb` — integración de las cuatro fuentes, cálculo del ROI365 y del beneficio neto, escenarios de inversión de 300M€ y resolución del caso, y el diseño del cuadro de mando de Power BI. Los notebooks `01` y `02` corresponden al trabajo conjunto del equipo.
