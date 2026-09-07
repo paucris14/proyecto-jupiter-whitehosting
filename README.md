@@ -37,14 +37,17 @@ proyecto-jupiter-whitehosting/
 └── .gitignore
 ```
 
-### 1. `01_webscraping_idealista_fotocasa_airbnb.ipynb`
-Desarrollo de los sistemas de extracción de datos de Idealista, Fotocasa y Airbnb. Documenta el proceso completo: primera aproximación con `requests` + `BeautifulSoup` (bloqueada con error HTTP 403), migración a Selenium, medidas anti-detección (configuración del navegador, modificación de propiedades JavaScript, temporización), y las distintas iteraciones hasta obtener extracciones estables por ciudad y barrio. Incluye también la combinación de los CSV de Idealista y Fotocasa por distrito.
+### `01_webscraping_idealista_fotocasa_airbnb.ipynb` · *trabajo del equipo*
 
-### 2. `02_mercado_compraventa_idealista_fotocasa.ipynb`
-Limpieza, depuración y armonización de los datos de compraventa (Idealista y Fotocasa): tratamiento de duplicados, valores nulos, outliers de precio/m², extracción de habitaciones/planta/ascensor, cálculo de precio/m² y precio/habitación, y armonización de barrios oficiales (incluyendo su cruce con Inside Airbnb). Finaliza con la segmentación de precios y la exportación de los datasets combinados.
+Construcción de los datasets propios mediante scraping de Idealista, Fotocasa y Airbnb. Se incluye en el repositorio porque genera los datos de partida del análisis.
 
-### 3. `03_alquiler_rentabilidad_inversion.ipynb`
-Notebook central del proyecto. Integra las cuatro fuentes, calcula la ocupación oficial y el beneficio neto anual (Ra) por barrio y tipología, construye el ROI365 sobre el universo de compraventa, diseña y compara los escenarios de inversión de 300M€, y responde una a una las preguntas del caso de estudio (sección "Case study WhiteHosting: respuestas").
+### `02_mercado_compraventa_idealista_fotocasa.ipynb` · *trabajo del equipo*
+
+Limpieza, depuración y armonización de los datos de compraventa, con unificación de la nomenclatura de barrios entre portales. Produce el universo de 25.370 pisos en venta sobre el que se calcula el ROI365.
+
+### `03_alquiler_rentabilidad_inversion.ipynb` · *mi aportación*
+
+Notebook central del proyecto. Integra las cuatro fuentes, calcula la ocupación y el beneficio neto anual (Ra) por barrio y tipología, construye el ROI365 sobre el universo de compraventa, diseña y compara los escenarios de inversión de 300M€, y responde una a una las preguntas del caso de estudio.
 
 ## Metodología y hallazgos principales
 
