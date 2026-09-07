@@ -1,4 +1,4 @@
-# Proyecto Júpiter — WhiteHosting
+# Proyecto Júpiter - WhiteHosting
 
 Análisis del mercado de alquiler vacacional en Madrid, Barcelona y Valencia, desarrollado como Trabajo Fin de Máster (Máster en Análisis de Datos, Pontia Tech, 2026).
 
@@ -13,7 +13,7 @@ El análisis combina cuatro fuentes de datos complementarias:
 | Fuente | Contenido | Volumen |
 |---|---|---|
 | **Dataset facilitado (Pontia)** | Características detalladas de inmuebles en alquiler vacacional (habitaciones, capacidad, licencia, etc.) | 5.551 inmuebles (5.252 tras limpieza) |
-| **Scraping propio de Airbnb.es** (abr–jun 2026) | Precio de mercado actual; permite medir estacionalidad y volatilidad | 453.060 registros en bruto (193.530 tras limpieza) |
+| **Scraping propio de Airbnb.es** (abr-jun 2026) | Precio de mercado actual; permite medir estacionalidad y volatilidad | 453.060 registros en bruto (193.530 tras limpieza) |
 | **Inside Airbnb** (sept. 2025) | Ocupación estimada real (variable clave no disponible en otras fuentes) y precio en Madrid y Valencia | 51.021 inmuebles |
 | **Idealista + Fotocasa** (scraping propio) | Universo de pisos en venta sobre el que se calcula el ROI365 y se construyen las carteras de inversión | 30.893 pisos (25.370 tras deduplicar) |
 
@@ -147,4 +147,6 @@ Python (Pandas, NumPy), Selenium y BeautifulSoup para el scraping, Matplotlib/Se
 
 ## Autoría
 
-Proyecto desarrollado por Paula como parte del Trabajo Fin de Máster en Análisis de Datos (Pontia Tech, 2026), dentro del caso de estudio grupal "Proyecto Júpiter — WhiteHosting".
+Trabajo Fin de Máster en Análisis de Datos (Pontia Tech, 2026), desarrollado como caso de estudio grupal.
+
+**Mi contribución:** el notebook `03_alquiler_rentabilidad_inversion.ipynb` - integración de las cuatro fuentes, cálculo del ROI365 y del beneficio neto, escenarios de inversión de 300M€ y resolución del caso, y el diseño del cuadro de mando de Power BI. Los notebooks `01` y `02` corresponden al trabajo conjunto del equipo.
