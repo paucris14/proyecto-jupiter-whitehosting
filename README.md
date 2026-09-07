@@ -1,4 +1,4 @@
-# Proyecto Júpiter — WhiteHosting
+# Proyecto Júpiter - WhiteHosting
 
 Análisis del mercado de alquiler vacacional en Madrid, Barcelona y Valencia, desarrollado como Trabajo Fin de Máster (Máster en Análisis de Datos, Pontia Tech, 2026).
 
