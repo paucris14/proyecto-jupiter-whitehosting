@@ -13,7 +13,7 @@ El análisis combina cuatro fuentes de datos complementarias:
 | Fuente | Contenido | Volumen |
 |---|---|---|
 | **Dataset facilitado (Pontia)** | Características detalladas de inmuebles en alquiler vacacional (habitaciones, capacidad, licencia, etc.) | 5.551 inmuebles (5.252 tras limpieza) |
-| **Scraping propio de Airbnb.es** (abr–jun 2026) | Precio de mercado actual; permite medir estacionalidad y volatilidad | 453.060 registros en bruto (193.530 tras limpieza) |
+| **Scraping propio de Airbnb.es** (abr-jun 2026) | Precio de mercado actual; permite medir estacionalidad y volatilidad | 453.060 registros en bruto (193.530 tras limpieza) |
 | **Inside Airbnb** (sept. 2025) | Ocupación estimada real (variable clave no disponible en otras fuentes) y precio en Madrid y Valencia | 51.021 inmuebles |
 | **Idealista + Fotocasa** (scraping propio) | Universo de pisos en venta sobre el que se calcula el ROI365 y se construyen las carteras de inversión | 30.893 pisos (25.370 tras deduplicar) |
 
